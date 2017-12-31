@@ -1705,3 +1705,33 @@ rmd watch_later
 ls
 dots
 git commit -a
+git push
+ls
+cd config
+ls
+rm weston.ini
+rm help-dummy.o
+ls
+dots
+ls
+cd color
+ls
+lsa
+dots
+ls
+cd doc
+ls
+cd docs
+ls
+cd doc
+ls
+v ltr2R.txt
+rm ltr2R.txt
+cd recovery
+;s
+ls
+up 1
+rmd recovery
+git remove Cricket\'s\ Cove\ Log
+dots
+git commit -a
