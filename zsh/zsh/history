@@ -1670,3 +1670,38 @@ git add aria2/ bash/ color/ config/ docs/ etc/ gtk/ scripts/ sound/ xresources/ 
 git rm --cached color/ls--
 git rm -f --cached color/ls--
 git commit -a
+git push
+git push --set-upstream origin master
+dl
+cp -r Tim\ and\ Eric\ Awesome\ Show\ Great\ Job\!\ Season\ 2 /mnt/tv/Tim\ and\ Eric\ Awesome\ Show,\ Great\ Job\!
+mtv
+Tim\ and\ Eric\ Awesome\ Show,\ Great\ Job\!
+rmd Season\ 2
+mv Tim\ and\ Eric\ Awesome\ Show\ Great\ Job\!\ Season\ 2 Season\ 2
+fb
+cd
+pau
+pms
+lsa
+pas color
+su root
+cd
+ls
+lsa
+ls -a
+git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+exit
+V /etc/mkinitcpio.conf
+cd zsh
+v 00-envars.zsh
+cd
+dots
+cd config
+ls
+cd mpv
+ls
+rmd watch_later
+ls
+dots
+git commit -a
