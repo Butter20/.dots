@@ -1,0 +1,1 @@
+/bin/jackd -p512 -dalsa -dhw:Generic -r48000 -p512 -n2 -S -Xseq

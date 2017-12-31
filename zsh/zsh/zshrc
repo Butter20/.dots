@@ -1,0 +1,55 @@
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
+# C O N F I G U R A T I O N  F O R  Z S H e l l #
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
+
+#=-=-=-=-=-=-=#
+# load stuffs #
+#=-=-=-=-=-=-=#
+
+autoload -U colors && colors
+autoload -U compinit && compinit
+autoload -U vcs_info && vcs_info
+autoload -Uz edit-command-line
+
+zmodload zsh/complist
+zmodload zsh/terminfo
+
+# setopt
+setopt \
+  autocd \
+  ksh_glob \
+  extendedglob \
+  prompt_subst \
+  inc_append_history
+
+bindkey -v
+
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
+# Import seperate config files #
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-#
+
+for r in $HOME/zsh/*.zsh; do
+  if [[ $DEBUG > 0 ]]; then
+    echo "zsh: sourcing $r"
+  fi
+  source $r
+done
+
+if [[ "$MODE_INDICATOR" == "" ]]; then
+  MODE_INDICATOR="%{$fg_bold[red]%}<%{$reset_color%}%{$fg[red]%}<<%{$reset_color%}"
+fi
+
+xrdb -merge ~/.Xresources
+
+function zle-line-init {
+  zle reset-prompt
+}
+
+zle -N zle-line-init
+zle -N accept_line
+zle -N edit-command-line
+
+eval $(dircolors -b $HOME/.dircolors)
+export LS_COLORS
+
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

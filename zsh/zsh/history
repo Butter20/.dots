@@ -1,0 +1,1672 @@
+pasy zsh-syntax-highlighting
+exit
+ls
+pmse i3
+pmi i3-wm
+pas infinality
+cd /etc/xdg
+pasy fontconfig-infinality-ultimate
+pas extendedcolor
+pmi perl-term-extendedcolor
+pmi perl-term-extendedcolor
+V /etc/locale.conf
+cd
+cd .dots
+cd color
+rmd ls--
+git clone git://github.com/trapd00r/ls--.git
+cd ls--
+perl Makefile.PL
+make && su -c 'make install'
+pmse colormake
+pas colormake
+pasy colormake
+make && su -c 'make install'
+locale-gen
+ls
+cp ls++.conf ~/.ls++.conf
+pas infinality
+pasy cairo-infinality-ultimate
+rf
+cd /etc
+pbld
+ls
+cd fontconfig-infinality-ultimate
+makepki
+pmi python
+pmi python2
+makepki
+pmse blanks
+pas blanks
+ls
+pmi i3-wm
+cd
+cd
+ls
+lsa
+cd .dots
+ls
+cd config
+ls
+up 1
+ls
+cd
+ls
+lsa
+mkdir .config
+stow -t ~/.config config
+conf
+ls
+pmi compton
+dots
+ls
+cd xresources
+ls
+lsa
+up 1
+ls
+stow xresources
+cd
+ls
+lsa
+exit
+exit
+pas i3
+pasy i3-gaps
+pas polybar
+pasy polybar
+dots
+ls
+cd color
+;s
+ls
+lsa
+polybar top &
+kilall polybar
+killall polybar
+pmi firefox
+v .xinitrc
+cd
+v .xinitrc
+pmi unclutter feh
+pmi rofi
+pmse powerline-fonts
+firefox &
+pmi kodi
+rofi
+pasy pi-hole-ftl pi-hole-server
+pmi dnsmasq
+V /etc/dnsmasq.conf
+sc enable dnsmasq
+sc start dnsmasq
+pmi lighttpd php-sqlite
+pmi php-cgi
+V /etc/php/php.ini
+cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf
+sudo cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf
+V /etc/lighttpd/lighttpd.conf
+sc enable lighttpd
+sc start lighttpd
+sc restart pi-hole-ftl
+V /etc/pihole/setupVars.conf
+V /etc/resolv.conf
+sc restart lighttpd dnsmasq pi-hole-ftl
+dots
+ls
+pas colordiff
+pmi colordiff
+dots
+cd colors
+cd color
+ls
+ls
+lsa
+up 1
+ls
+lsblk
+lsblk
+sudo mount /dev/sdb1 /mnt
+lsblk
+kodi &
+pmi ccache
+pas print
+pas powerline
+pasy nerd-fonts-complete
+kodi &
+mfilm
+ls
+pmse kodi
+pmi kodi-tools-texturepacker kodi-platform
+pmi deluge
+pic
+walls
+ls
+cd
+v .xinitrc
+pasy powerline-fonts-git
+firefox &
+kodi &
+pmi powerline fonts
+pmse powerline-fonts
+pmi powerline-fonts
+rf
+pms
+refmir
+pmi reflector
+refmir
+pms
+dots
+ls
+cd bash
+ls
+lsa
+cd
+rm .bashrc .bash_logout .bash_profile
+ls
+lsa
+up 1
+stow bash
+cd
+lsa
+rmd Downloads
+ls
+rmd Downloads
+mkdir dl
+mkdir vid
+pasy profile-sync-daemon
+cd
+lsa
+cd .local
+ls
+lsa
+mkdir etc
+mkdir etc/xdg
+mkdir etc/xdg/pacaur
+cd /etc/xdg/pacaur
+ls
+cp config ~/.local/etc/xdg/pacaur/
+ls
+up 1
+ls
+up 1
+ls
+cd
+cd .local
+cd etc
+cd xdg
+cd pacaur
+ls
+v config
+cd
+conf
+ls
+dots
+cd config
+ls
+rmd qt5ct
+ls
+pmi ranger
+pmi htop
+pmi mpv
+pasy vidcutter
+cat /proc/cpuinfo
+gcc -c -Q -march=native --help=target
+gcc -### -march=native /usr/include/stdlib.h
+V /etc/makepkg.conf
+pmi aria2c
+pmi aria2
+sudo rm /etc/makepkg.conf
+V /etc/makepkg.conf
+sudo nano /etc/makepkg.conf
+pasy fontconfig-infinality-ultimate
+sudo chown --help
+sudo chown -R olin /var/cache/pacman/pkg
+pasy fontconfig-infinality-ultimate
+pmi optipng
+pasy fontconfig-infinality-ultimate
+dots
+V /etc/profile.d/infinality-settings.sh
+sudo nano /etc/profile.d/infinality-settings.sh
+rf
+cd /usr/share/zsh/plugins
+ls
+cd zsh-syntax-highlighting
+ls
+up 1
+ls
+mv zsh-syntax-highlighting /usr/share/
+sudo mv zsh-syntax-highlighting /usr/share/
+ls
+pmi perl
+polybar top &
+killall polybar
+cd
+v .zshrc
+cd zsh
+v 00-envars.zsh
+pmse capitaine
+pas capitaine
+pasy capitaine-cursors
+rf
+rf
+pmq nerd-fonts-complete
+rf
+rf
+dots
+color
+ls
+lsa
+stow .dircolors
+cd
+lsa
+wget https://raw.github.com/trapd00r/LS_COLORS/master/LS_COLORS -O $HOME/.dircolors
+pmi wget
+wget https://raw.github.com/trapd00r/LS_COLORS/master/LS_COLORS -O $HOME/.dircolors
+v .bashrc
+rf
+ls
+lsa
+dots
+color
+ls
+lsa
+rm .dircolors
+lsa
+ls
+cd
+ls
+cd vid
+mkdir xxx
+ls
+up 2
+ls
+olin
+ls
+pms
+deluge &
+pmse gtk
+pmse vimix
+pas vimix
+pasy vimix-gtk-themes-git
+deluge &
+pmse gobject
+pmse glib
+pmr deluge
+pmi qbittorrent
+qbittorrent &
+alsamixer
+dl
+ls
+cd julesjordan.17.06.23.lana.rhoades.4k
+ls
+mpv julesjordan.17.06.23.lana.rhoades.4k.mp4
+lsblk
+sudo mount /dev/sdc1 /mnt/tmp
+cd /mnt/tmp
+ls
+vid
+ls
+cd xxx
+ls
+up 1
+rmd xxx
+mv -v xxx ~/vid/
+dl
+mpv rachel_james1.mp4
+vid
+xxx
+ls
+Ass\ Workout\ 2\ 1080$'\321'$'\200'
+ls
+mpv 67261_03_1080.mp4
+cd
+dl
+cd \[TheArtofBlowjob\]\ 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts\ \[mp4\]\[3840x2160p\]
+mpv 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts.mp4
+dl
+cd julesjordan.17.06.23.lana.rhoades.4k
+mpv julesjordan.17.06.23.lana.rhoades.4k.mp4
+cd /mnt/tmp
+ls
+sudo rmd xxx
+vid
+xxx
+ls
+sudo umount /mnt/tmp
+locale-gen
+sudo locale-gen
+rf
+rf
+vid
+xxx
+ls
+Ass\ Workout\ 2\ 1080$'\321'$'\200'
+ls
+mpv 67261_02_1080.mp4
+mpv --no-config 67261_01_1080.mp4
+mpv 67261_04_1080.mp4
+vid
+ls
+dl
+ls
+cd \[TheArtofBlowjob\]\ 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts\ \[mp4\]\[3840x2160p\]
+mpv 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts.mp4
+up 1
+ls
+mpv rachel_james1.mp4
+kodi &
+bash
+bash
+cd \[TheArtofBlowjob\]\ 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts\ \[mp4\]\[3840x2160p\]
+mpv 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts.mp4
+pmq powerline-fonts
+pas powerline
+pmi powerline awesome-terminal-fonts
+bash
+cd
+pmr awesome-terminal-fonts
+cd
+cd
+lsa
+dl
+cd julesjordan.17.06.23.lana.rhoades.4k
+mpv julesjordan.17.06.23.lana.rhoades.4k.mp4
+cd
+lsa
+cd zsh
+v 04-icons.zsh
+reboot
+systemctl reboot -i
+cd
+ls
+cd Downloads
+ls
+up 1
+cd
+rmd Downloads
+ls
+lsa
+dmesg
+pas ck-broadwell
+pas broadwell
+lsblk
+pms
+zsh
+upcd
+cd
+lsa
+dl
+zsh
+zsh
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+lsblk
+sudo mount /dev/sdb1 /mnt
+startx
+polybar top &
+killall polybar
+pas siji
+pmse siji
+pasy siji-git
+polybar top &
+killall polybar
+V /etc/pihole/setupVars.conf
+V /etc/resolv.conf
+chattr + /etc/resolv.conf
+chattr --help
+chattr +i /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+dl
+ls
+cd julesjordan.17.06.23.lana.rhoades.4k
+mpv julesjordan.17.06.23.lana.rhoades.4k.mp4
+glxinfo | grep direct
+cd
+pmi glxinfo
+pas glxinfo
+pasy glxinfo
+adkey 5EE46C4C
+aliasn
+imkey 5EE46C4C
+lskey 5EE46C4C
+refkey
+V /etc/pacman.conf
+keypop
+pms
+pas broadwell
+lscpu
+pas linux-ck
+pas kaby
+glxinfo | grep direct
+gcc -c -Q -march=native --help=target
+pasy linux-ck-broadwell linux-ck-broadwell-headers
+conf
+lsaa
+lsa
+rm qt5ct
+ls
+cd psd
+ls
+v psd.conf
+sudo modprobe overlay
+scu enable psd
+psd preview
+scu start psd
+scu status psd
+cd
+pas ananicy
+pasy ananicy-git
+sc enable ananicy
+sc start ananicy
+cd /boot
+cd loader
+ls
+cd entries
+ls
+v arch.conf
+V arch.conf
+cd
+pas powerline-symbols
+pas symbols
+cd
+lsa
+rm *log
+rm help-dummy.o
+ls
+Downloads
+ls
+up 1
+rmd Downloads
+ls
+pasy megasync
+systemd-analyze\
+
+pro
+pas fontawesome
+pas awesome
+pmi awesome-terminal-fonts
+pasy filebot
+pas noto-sans
+pas noto
+pmi noto-fonts
+conf
+cd polybar
+v config
+pmi noto-fonts
+gcc -c -Q -march=native --help=target | grep march\
+
+V /etc/pacman.conf
+dl
+cd Lubed\ 4K
+ls
+mpv \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+mpv \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+mpv lubed.16.10.15.brett.rossi.summer.swim.4k.mp4
+mpv \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+mpv --no-config \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+mpv \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+polybar top &
+cd
+V /etc/pacman.conf
+pmi linux-ck-broadwell linux-ck-broadwell-headers
+java -version
+cd /boot
+ls
+cd loader
+cd entries
+ls
+v arch.conf
+V arch.conf
+cd
+update-java-alternatives --list
+reboot
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+startx
+polybar top &
+archlinux-java status\
+
+pas openjfx
+pmi java-openjfx
+V /etc/pacman.conf
+pasy filebot
+polybar top &
+pas jsoncpp
+pmi jsoncpp
+polybar top &
+pmi mpd
+pmi ncmpcpp
+ncmpcpp
+dots
+ls
+cd etc
+ls
+cd sysctl.d
+;s
+ls
+v 99-sysctl.conf
+V /etc/sysctl.conf
+sudo nano /etc/sysctl.conf
+sysctl --help
+sudo sysctl -w
+sudo sysctl -p /etc/sysctl.conf
+sysctl -a
+cd
+fb
+filebot &
+mkdir ms
+ls
+rm *log
+megasync &
+ls
+rmd MEGAsync
+ls
+Downloads
+ls
+up 1
+rmd Downloads
+ls
+dots
+ls
+cd vim
+ls
+lsa
+cd
+lsa
+dots
+stow vim
+cd
+lsa
+vim
+pas vundle
+pasy vundle
+vim
+lsblk
+sudo mount /dev/sdc1/mnt/tmp
+sudo mount /dev/sdc1 /mnt/tmp
+cd /mnt/tmp
+ls
+cd xxx
+ls
+up 1
+sudo rmd xxx
+rmd xxx
+ls
+mv Brazzers\ -\ 2017-11-29\ -\ Pornstars\ Like\ It\ Big\ -\ Abigail\ Mac\ \&\ Katrina\ Jade\ 1080p.mp4 ~/vid/xxx
+vid
+xxx
+ls
+mkdir Brazzers
+mv Brazzers\ -\ 2017-11-29\ -\ Pornstars\ Like\ It\ Big\ -\ Abigail\ Mac\ \&\ Katrina\ Jade\ 1080p.mp4 Brazzers/
+ls
+mv Big\ Wet\ Butts\ -\ Sarah\ Banks.mp4 Brazzers
+ls
+rmd Ass\ Workout\ 2\ 1080Ñ€
+Brazzers
+mkdir Pornstars\ Like\ It\ Big
+mkdir Big\ Wet\ Butts
+mv Big\ Wet\ Butts\ -\ Sarah\ Banks.mp4 Big\ Wet\ Butts/
+mv Brazzers\ -\ 2017-11-29\ -\ Pornstars\ Like\ It\ Big\ -\ Abigail\ Mac\ \&\ Katrina\ Jade\ 1080p.mp4 Pornstars\ Like\ It\ Big
+ls
+cd
+cd /mnt/tmp
+ls
+sudo rm *mp4
+ls
+cd
+sudo umount /mnt/tmp
+ls
+rmd Desktop
+ls
+mkdir tune
+ls
+scf
+sudo mv /etc/sysctl.conf /etc/sysctl.d/99-sysctl.conf
+sudo sysctl -w /etc/sysctl.d/99-sysctl.conf
+sysctl --help
+sudo sysctl -p /etc/sysctl.d/99-sysctl.conf
+sudo sysctl -a
+sudo rm /etc//sysctl.d/99-sysctl.conf
+dots
+cd etc
+ls
+stow -t /etc sysctl.d
+sudo stow -t /etc sysctl.d
+cd /etc/sysctl.d
+ls
+ls
+up 1
+ls
+sudo rm 30-ipforward.conf 51-net.conf 99-sysctl.conf
+dots
+cd etc
+stow -t /etc/sysctl.d sysctl.d
+sudo stow -t /etc/sysctl.d sysctl.d
+cd /etc/sysctl.d
+ls
+sudo rm 30-ipforward.conf
+v 51-net.conf
+ls
+sudo sysctl -a
+cd
+pms
+cat /sys/block/sda/queue/scheduler
+dots
+cd etc
+ls
+mkdir udev
+ls
+cd udev
+mkdir rules.d
+v 60-schedulers.rules
+cd /etc/udev
+;s
+ls
+cd rules.d
+;s
+ls
+dots
+cd etc
+cd udev
+cd rules.d
+ls
+ls
+lsa
+v 60-schedulers.rules
+ls
+up 1
+sudo stow -t /etc/udev/rules.d rules.d 
+cd /etc/udev/rules.d
+ls
+cd
+cat /sys/block/sda/queue/scheduler
+cd /etc/udev/rules.d
+v 60-schedulers.rules
+cd
+udevadm control --reload
+sudo udevadm control --reload
+sudo udevadm trigger
+cat /sys/block/sda/queue/scheduler
+reboot
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+cat /sys/block/sda/queue/scheduler
+v /etc/udev/rules.d/60-schedulers.rules
+udevadm control --reload
+sudo udevadm control --reload
+sudo udevadm trigger
+cat /sys/block/sda/queue/scheduler
+startx
+polybar top &
+htop
+ranger
+vim
+V /etc/resolv.conf
+ip addr show
+scf
+sc status lighttpd
+sc status dnsmasq
+sc status pi-hole-ftl
+pms
+pau
+pau
+pacaur --help
+pacaur -u
+sc restart lighttpd dnsmasq pi-hole-ftl
+sc daemon-reload
+sc restart lighttpd dnsmasq pi-hole-ftl
+vim +PluginInstall +qall
+pas hybrid
+pas hybrid-reverse
+vim
+rm .vim .vimrc
+dots
+stow vim
+cd
+vim
+lsa
+rm .vim .viminfo .vimrc
+ls
+lsa
+dots
+cd vim
+ls
+ls
+lsa
+rm .vim .vimrc
+rmd .vim .vimrc
+ls
+git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh\
+
+cd
+vim
+lsa
+dl
+cd Lubed\ 4K
+mpv \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+cd
+cat /sys/block/sda/queue/scheduler
+psd preview
+V /boot/loader/entries/arch.conf
+v .zshrc
+lsa
+cd /root
+su root
+cd /root
+ls
+ls
+cd
+ls
+cd /
+ls
+exit
+dots
+sudo stow -t /root vim
+sudo vim
+su root
+ls
+cd
+ls
+lsa
+ls -a
+cd /root
+ls -a
+exit
+cd
+la
+lsa
+pas thermald
+pmi thermald
+sc enable thermald
+sc start thermald
+xdpyinfo | grep -B2 resolution\
+
+V /boot/loader/entries/arch.conf
+cd
+dl
+ls
+cd \[TheArtofBlowjob\]\ 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts\ \[mp4\]\[3840x2160p\]
+mpv 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts.mp4
+up 1
+cd Lubed\ 4K
+mpv \[Lubed\]\ Lucy\ Doll\ \(Oiled\ And\ Flexible\ Teen\)\ \[07.08.2016\]\ \[60\ FPS\]\ \[2160P\].mp4
+vid
+xxx
+ls
+cd Brazzers
+cd Big\ Wet\ Butts
+up 1
+cd Pornstars\ Like\ It\ Big
+mpv Brazzers\ -\ 2017-11-29\ -\ Pornstars\ Like\ It\ Big\ -\ Abigail\ Mac\ \&\ Katrina\ Jade\ 1080p.mp4
+dl
+cd julesjordan.17.06.23.lana.rhoades.4k
+mpv julesjordan.17.06.23.lana.rhoades.4k.mp4
+cd
+cd
+lsa
+pmi irqbalance
+sc enable irqbalance
+sc start irqbalance
+scf
+reboot
+cat /sys/block/sda/queue/scheduler
+V /boot/loader/entries/arch.conf
+reboot
+cat /sys/block/sda/queue/scheduler
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+scf
+sudo mount /dev/sdb1 /mnt
+startx
+polybar top &
+V /etc/udev/rules.d/60-schedulers.rules
+pms
+aliasn
+pau
+rf
+pau
+pmi hdparm
+hdparm -B /dev/sda
+sudo hdparm -B /dev/sda
+hdparm -B 255 /dev/sda
+sudo hdparm -B 255 /dev/sda
+dots
+cd /etc
+cd udev
+cd rules.d
+ls
+v 50-hdparm.rules
+V 50-hdparm.rules
+dots
+cd etc
+cd udev
+cd rules.d
+v 50-hdparm.rules
+up 1
+stow -t /etc/udev/rules.d rules.d
+sudo stow -t /etc/udev/rules.d rules.d
+etc
+cd udev
+cd 
+etc
+cd udev
+cd rules.d
+ls
+cd
+udevadm control --reload
+sudo udevadm control --reload
+sudo udevadm trigger
+sudo hdparm -B /dev/sda
+scrub /
+dl
+ls
+v xbmc-adult.txt
+rm *txt
+cd
+lsa
+cd .kodi
+ls
+cd addons
+ls
+git clone http://redeneobux.com/en/tutorial-install-xbmc-adult-repo-kodi/
+git clone https://github.com/xbmc-adult/xbmc-adult.git
+cd xbmc-adult
+ls
+cd tools
+ls
+python zip_generator.py
+python2 zip_generator.py
+ls
+lsa
+up 1
+la
+ls
+python2 release.py
+ls
+up 1
+rmd xbmc-adult
+ls
+scrubstat /
+balance /
+balstat /
+dl
+ls
+rm *zip
+mv rachel_james1.mp4 ~/vid/xxx
+mv \[TheArtofBlowjob\]\ 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts\ \[mp4\]\[3840x2160p\] ~/vid/xxx
+ls
+mv julesjordan.17.06.23.lana.rhoades.4k ~/vid/xxx
+vid
+xxx
+ls
+mkdir Tiny4k
+mkdir TheArtofBlowjob
+mkdir Jules\ Jordan
+mv julesjordan.17.06.23.lana.rhoades.4k Jules\ Jordan
+mv rachel_james1.mp4 Tiny4k
+mv \[TheArtofBlowjob\]\ 2017-03-30\ -\ Piper\ Blush\ -\ Your\ Cock\ Between\ My\ Breasts\ \[mp4\]\[3840x2160p\] TheArtofBlowjob
+ls
+Tiny4k
+mv rachel_james1.mp4 Rachel\ James\ -\ Tight\ Muscles,\ Tighter\ Pussy
+balstat /
+balstat /
+up 1
+cd Brazzers
+ls
+cd Big\ Wet\ Butts
+ls
+mv Big\ Wet\ Butts\ -\ Sarah\ Banks.mp4 Sarah\ Banks\ -\ Booty\ On\ The\ Bike.mp4
+cd
+lsa
+cat /sys/kernel/debug/dri/0/i915_huc_load_status
+sudo cat /sys/kernel/debug/dri/0/i915_huc_load_status
+cat /sys/kernel/debug/dri/0/i915_guc_load_status
+sudo cat /sys/kernel/debug/dri/0/i915_guc_load_status
+pmr xf86-video-intel
+V /boot/loader/entries/arch.conf
+reboot
+
+scf
+dmesg
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+startx
+polybar top &
+cat /sys/kernel/debug/dri/0/i915_guc_load_status
+sudo cat /sys/kernel/debug/dri/0/i915_guc_load_status
+cat /sys/kernel/debug/dri/0/i915_huc_load_status
+sudo cat /sys/kernel/debug/dri/0/i915_huc_load_status
+pmse vulkan-intel
+pmi vulkan-intel
+pms
+pau
+cat /sys/block/sda/queue/scheduler
+sudo hdparm -B /dev/sda
+sudo sysctl -a
+sudo sysctl -p /etc/sysctl.d/99-sysctl.conf
+sudo sysctl -a
+V /boot/loader/entries/arch.conf
+V /etc/mkinitcpio.conf
+sudo mkinitcpio -P
+cd /boot
+ls
+cd
+reboot
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+scf
+startx
+polybar top &
+dmesg
+sudo sysctl -p /etc/sysctl.d/99-sysctl.conf
+sudo sysctl -a
+scf
+sc restart lighttpd dnsmasq pi-hole-ftl
+mkdir func
+cd func
+mkdir zippy
+cd zippy
+git clone
+git clone https://github.com/img2tab/zippyshare.git
+rmd zippyshare
+up 1
+rmd zippy
+git clone https://github.com/img2tab/zippyshare.git
+cd zippyshare
+ls
+v pokemonum.txt
+zipdl pokemonum.txt
+pas citra
+pasy citra-git
+citra &
+pmr citra-git
+pasy citra-qt-git
+zippy
+v pokemon
+v pokemonum.txt
+cd
+ls
+ls
+ls
+pmi rar
+pmi unrar
+unrar e Pokemon%20Ultra%20Moon%20%28All%20Region%29%20%28RF%29.part1.rar
+cd
+func
+zippy
+ls
+cd
+V /etc/pacman.conf
+zippy
+rm *rar
+rm .cia
+ls
+rm *.cia
+ls
+cd
+lsa
+V /etc/sysctl.d/99-sysctl.conf
+sudo sysctl -p /etc/sysctl.d/99-sysctl.conf
+sudo sysctl -a
+pms
+pau
+dl
+ls
+unrar e PM-USA-DecrTD-Ziperto.part1.rar
+rm PM-USA-DecrTD-Ziperto.part1.rar Pokemon\ Moon\ USA\ Decrypted.3ds PM-USA-DecrTD-Ziperto.part2.rar
+ls
+rm Ziperto\ -\ A\ Digital\ Park\ for\ Gamers.URL
+pmr citra-qt-git
+cd
+lsa
+reboot
+
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+startx
+polybar top &
+scf
+sudo sysctl -a
+cp ~/.dots/etc/sysctl.d/99-sysctl.conf /etc/sysctl.conf
+sudo cp ~/.dots/etc/sysctl.d/99-sysctl.conf /etc/sysctl.conf
+sudo sysctl -p /etc/sysctl.conf
+pasc
+pao
+aliasn
+po
+pms
+ncmpcpp
+conf
+ls
+rmd citra-emu
+ls
+rmd deluge
+ls
+rm weston.ini
+ls
+poweroff
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+sudo sysctl -a
+sudo sysctl -p /etc/sysctl.conf
+startx
+polybar top &
+megasync &
+mtv
+The\ Simpsons
+rmd Season\ 8
+ls
+cd
+ms
+aliasn
+rf
+ms
+ls
+mv 8 Season\ 8
+fb
+filebot &
+mv Season\ 8 /mnt/tv/The\ Simpsons/
+megasync &
+ls
+rm *log
+mtv
+The\ Simpsons
+ls
+Season\ 8
+ls
+ls
+alsamixer
+cd
+cd
+v /etc/fstab
+pau
+pasy i3-gaps
+pas i3-gaps
+pasy fontconfig-infinality-ultimate
+pas infinality
+pasy fonts-meta-extended-lt
+dmesg
+sudo cp /etc/fonts/conf.avail/30-infinality-aliases.conf /etc/fonts/conf.d/
+rf
+pas infinality
+pasy cairo-infinality-ultimate
+sudo parted -l
+pro
+sudo umount /mnt
+lsblk
+lsblk
+lsblk
+sudo mount /dev/sdb1 /mnt
+pmr xterm
+pas colordiff
+lsa
+rm *log
+dots
+color
+ls
+lsa
+pas colorgcc
+pasy colorgcc
+up 1
+stow color
+cd
+lsa
+nano .xinitrc
+rf
+rf
+lsa
+pas cope
+cd /etc
+lsa
+cd
+lsa
+dots
+ls
+cd vim
+ls
+lsa
+up 1
+rmd vim
+ls
+lsa
+cd
+conf
+cd polybar
+v config
+killall polybar
+polybar top &
+ls -1 /sys/class/power_supply/
+v config
+ls -1 /sys/class/power_supply/
+pbld
+cd polybar
+makepki
+pmu polybar-3.1.0-2-x86_64.pkg.tar.xz
+killall polybar
+polybar top &
+conf
+cd polybar
+v config
+killall polybar
+polybar top &
+killall polybar
+v config
+cd
+lsa
+cd
+lsa
+polybar top &
+lsblk
+lsusb
+mtv
+cd The\ Brak\ Show
+ls
+cd Extras
+ls
+up 1
+rmd extras
+ls
+rmd Extras
+ls
+2cd
+cd
+pas neofetch
+pasy neofetch
+neofetch
+dots
+ls
+gtk
+ls
+lsa
+up 1
+up 1
+dots
+stow gtk
+cd
+lsa
+pasy vimix-gtk-themes-git
+neofetch
+pas papirus
+pmi papirus-icon-theme
+pas epapirus
+pas e-papirus
+pas Epap
+pas EPapirus
+v .gtkrc-2.0
+neofetch
+dl
+cd \[RH\]\ Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!\ \[Uncensored\]\ \[BDRip\]\ \[Hi10\]\ \[1080p\]
+mpv \[RH\]\ Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!\ -\ 01\ \[Uncensored\]\ \[423FEB07\].mkv
+mpv \[RH\]\ Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!\ -\ 01\ \[Uncensored\]\ \[423FEB07\].mkv
+cd
+lsa
+megasync &
+ms
+mv 9 Season/ 9
+mv 9 Season\ 9
+filebot &
+mtv
+The\ Simpsons
+rmd Season\ 9
+mv Season\ 9 /mnt/tv/The\ Simpsons
+pms
+V /etc/pacman.conf
+pms
+dl
+cd Oil\ Overload\ 1-15\ 1080p
+mpv oil_overload15_scene1_1080.mp4
+cd
+V /etc/systemd/journald.conf
+pas localepurge
+pasy localepurge
+pms
+pasy localepurge
+localepurge
+V /etc/locale.nopurge
+mfilm
+ls
+cd Vertigo\ \(1958\)
+ls
+rmd Featurettes
+up 1
+cd The\ Return\ of\ the\ Living\ Dead\ \(1985\)
+ls
+rmd Featurettes
+up 1
+cd The\ Man\ Who\ Knew\ Too\ Much\ \(1956\)
+ls
+rmd Featurettes
+up 1
+cd Texas\ Chainsaw\ Massacre,\ The\ \(1974\)
+ls
+rmd Featurettes
+up 1
+cd Taxi\ Driver\ \(1976\)
+ls
+rmd Featurettes
+up 1
+cd Shining,\ The\ \(1980\)
+ls
+rmd Featurettes
+up 1
+cd Sanjuro\ \(1962\)
+ls
+rmd Featurettes
+up 1
+cd Revenant,\ The\ \(2015\)
+ls
+rmd Featurettes
+up 1
+cd Rear\ Window\ \(1954\)
+ls
+rmd Featurettes
+up 1
+cd Once\ Upon\ a\ Time\ in\ the\ West\ \(1968\)
+ls
+rmd Featurettes
+up 1
+cd Nosferatu\ the\ Vampyre\ \(1979\)
+ls
+rmd Featurettes
+up 1
+cd National\ Lampoon\'s\ Christmas\ Vacation\ \(1989\)
+ls
+rmd Featurettes
+up 1
+cd Mulholland\ Drive\ \(2001\)
+ls
+rmd Featurettes
+up 1
+cd Monty\ Python\ and\ the\ Holy\ Grail\ \(1975\)
+ls
+rmd Featurettes
+up 1
+cd Mad\ Max:\ Fury\ Road\ \(2015\)
+ls
+rmd Featurettes
+up 1
+cd Life\ Aquatic\ with\ Steve\ Zissou,\ The\ \(2004\)
+ls
+rmd Featurettes
+up 1
+cd Let\ the\ Right\ One\ In\ \(2008\)
+ls
+rmd Featurettes
+ls
+up 1
+cd Jaws\ \(1975\)
+ls
+rmd Featurettes
+up 1
+cd Home\ Alone\ \(1990\)
+ls
+rmd Featurettes
+up 1
+cd Hercules\ \(1997\)
+ls
+rmd Featurettes
+up 1
+cd Harold\ \&\ Kumar\ Go\ to\ White\ Castle\ \(2004\)
+ls
+rmd Featurettes
+up 1
+cd Fly,\ The\ \(1986\)
+ls
+rmd Featurettes
+ls
+up 1
+cd Fantasia\ 2000\ \(1999\)
+ls
+rmd Featurettes
+up 1
+cd Ex\ Machina\ \(2015\)
+ls
+rmd Featurettes
+up 1
+cd Escape\ from\ New\ York\ \(1981\)
+ls
+rmd Featurettes
+up 1
+cd Drag\ Me\ to\ Hell\ \(2009\)
+ls
+rmd Featurettes
+up 1
+cd Dawn\ of\ the\ Dead\ \(1978\)
+ls
+rmd Featurettes
+ls
+up 1
+cd Dark\ Crystal,\ The\ \(1982\)
+ls
+rmd Featurettes
+up 1
+cd Burden\ of\ Dreams\ \(1982\)
+ls
+rmd Featurettes
+up 1
+cd Blues\ Brothers,\ The\ \(1980\)
+ls
+rmd Featurettes
+up 1
+cd Birds,\ The\ \(1963\)
+ls
+rmd Featurettes
+up 1
+cd Big\ Lebowski,\ The\ \(1998\)
+ls
+rmd Featurettes
+up 1
+ls
+cd Battle\ Royale\ \(2000\)
+ls
+rmd Featurettes
+up 1
+cd A\ Nightmare\ on\ Elm\ Street\ \(1984\)
+ls
+rmd Featurettes
+up 1
+cd 12\ Angry\ Men\ \(1957\)
+ls
+rmd Featurettes
+up 1
+cd Yojimbo\ \(1961\)
+ls
+up 1
+cd Wizards\ \(1981\)
+ls
+up 1
+cd Witch,\ The\ \(2016\)
+ls
+up 1
+cd Wind\ Rises,\ The\ \(2013\)
+ls
+up 1
+cd Tron\ \(1982\)
+ls
+up 1
+cd Seven\ Samurai\ \(1954\)
+ls
+up 1
+cd
+localepurge
+sudo localepurge
+pms
+V /etc/pacman.conf
+pms
+pas redshift
+pmi redshift
+redshift --help
+redshift -h
+v .xinitrc
+redshift -l 38.5:92.1
+redshift -l 38.5:92.1 &
+pmi xorg-xrdb
+v .xinitrc
+rf
+cd .Xresources.d
+ls
+v xft
+cd
+conf
+cd i3
+v config
+v config
+v config
+cd
+cd /usr/share/rofi/themes
+ls
+v Adapta-Nokto.rasi
+ls
+v light_theme.rasi
+V light_theme.rasi
+rofi-theme-selector
+V dark_theme.rasi
+rofi-theme-selector
+rofi-theme-selector
+sudo rm dark_theme.rasi
+cd
+rofi-theme-selector
+mani
+Ladies\ Versus\ Butlers\!
+ls
+cd
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+startx
+polybar top &
+conf
+cd mpv
+ls
+v mpv.conf
+dl
+ls
+cd Oil\ Overload\ 1-15\ 1080p
+ls
+sudo mount /dev/sdb1 /mnt
+mpv oil_overload_12_scene4_1080.mp4
+megasync &
+mpv oil_overload_13_scene2_1080.mp4
+mpv oil_overload_14_scene2_1080.mp4
+cd
+sudo sysctl -p /etc/sysctl.conf
+lsa
+rm *log
+ls
+dl
+cd Oil\ Overload\ 1-15\ 1080p
+ls
+mpv oil_overload_10_scene_2_1080.mp4
+mpv oil_overload_10_scene_3_1080.mp4
+ms
+ls
+mv Freezing\ Vibration\ OVA\ 01\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv Freezing\ Vibration\ S00E07\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv
+mv Freezing\ Vibration\ OVA\ 02\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv Freezing\ Vibration\ S00E08\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv
+mv Freezing\ Vibration\ OVA\ 03\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv Freezing\ Vibration\ S00E09\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv
+mv Freezing\ Vibration\ OVA\ 04\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv Freezing\ Vibration\ S00E10\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv
+mv Freezing\ Vibration\ OVA\ 05\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv Freezing\ Vibration\ S00E11\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv
+mv Freezing\ Vibration\ OVA\ 06\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv Freezing\ Vibration\ S00E12\ \(BDRip\ 1080p\ AC3\ 10bit\).mkv
+aliasn
+rf
+fb
+mv Freezing\ \(2011\)\ -\ 2xSpecial\ 10\ -\ Freezing\ Vibrations\ OVA\ 4\ âƒ¹¥\ Holly\ Rose.mkv Freezing\ \(2011\)\ -\ S00E10\ -\ Freezing\ Vibrations\ OVA\ 4\ âƒ¹¥\ Holly\ Rose.mkv
+mv Freezing\ \(2011\)\ -\ 2xSpecial\ 11\ -\ Freezing\ Vibrations\ OVA\ 5\ âƒ¹¥\ Roxanne\ Elipton.mkv Freezing\ \(2011\)\ -\ S00E11\ -\ Freezing\ Vibrations\ OVA\ 5\ âƒ¹¥\ Roxanne\ Elipton.mkv
+mv Freezing\ \(2011\)\ -\ 2xSpecial\ 12\ -\ Freezing\ Vibrations\ OVA\ 6\ âƒ¹¥\ March\ Through\ The\ Snow.mkv Freezing\ \(2011\)\ -\ S00E12\ -\ Freezing\ Vibrations\ OVA\ 6\ âƒ¹¥\ March\ Through\ The\ Snow.mkv
+mv Freezing\ \(2011\)\ -\ 2xSpecial\ 7\ -\ Freezing\ Vibrations\ OVA\ 1\ âƒ¹¥\ Satellizer\ L.\ Bridget.mkv Freezing\ \(2011\)\ -\ S00E07\ -\ Freezing\ Vibrations\ OVA\ 1\ âƒ¹¥\ Satellizer\ L.\ Bridget.mkv
+mv Freezing\ \(2011\)\ -\ 2xSpecial\ 8\ -\ Freezing\ Vibrations\ OVA\ 2\ âƒ¹¥\ Scarlett\ O\'Hara.mkv Freezing\ \(2011\)\ -\ S00E08\ -\ Freezing\ Vibrations\ OVA\ 2\ âƒ¹¥\ Scarlett\ O\'Hara.mkv
+mv Freezing\ \(2011\)\ -\ 2xSpecial\ 9\ -\ Freezing\ Vibrations\ OVA\ 3\ âƒ¹¥\ Julia\ Munberk.mkv Freezing\ \(2011\)\ -\ S00E09\ -\ Freezing\ Vibrations\ OVA\ 3\ âƒ¹¥\ Julia\ Munberk.mkv
+ls
+mv *mkv /mnt/anime/Freezing\ \(2011\)/Season\ 2
+ls
+cd
+pms
+vid
+ls
+xxx
+ls
+cd Jules\ Jordan
+ls
+mkdir Oil\ Overload\ 15
+ls
+mkdir Oil\ Overload\ 14
+mkdir Oil\ Overload\ 13
+ls
+mpv oil_overload_3_scene_5_1080.mp4
+mpv oil_overload_10_scene_4_1080.mp4
+mpv oil_overload_4_scene3_1080.mp4
+mpv oil_overload_13_scene1_1080.mp4
+mpv oil_overload_13_scene2_1080.mp4
+mpv oil_overload_13_scene3_1080.mp4
+mpv oil_overload_13_scene4_1080.mp4
+mpv oil_overload_14_scene1_1080.mp4
+mpv oil_overload_14_scene2_1080.mp4
+mpv oil_overload_14_scene3_1080.mp4
+mpv oil_overload_14_scene4_1080.mp4
+cd
+lsa
+lsa
+cd
+lsa
+alsamixer
+pms
+pau
+sudo sysctl -a
+htop
+megasync &
+rm ls--
+ls
+rm *log
+lsa
+ms
+ls
+cd S03\ 720p\ BluRay\ x265
+ls
+unrar e GRLS.s03.x265.rar
+ls
+rm *rar
+rm *url
+fb
+up 1
+mv S03\ 720p\ BluRay\ x265 Season\ 3
+cd S04\ 720p\ BluRay\ x265
+unrar e GRLS.s04.x265.rar
+rm *url
+rm *rar
+up 1
+mv S04\ 720p\ BluRay\ x265 Season\ 4
+cd S05\ 720p\ BluRay\ x265
+unrar e GRLS.s05.x265.rar
+rm *rar
+rm *url
+up 1
+mv S05\ 720p\ BluRay\ x265 Season\ 5
+ls
+mv Sea* /mnt/tv/Girls
+megasync &
+dmesg | grep intel
+pmi xf86-video-intel
+ls
+cd S06\ 720p\ HDTV\ x265
+fb
+unrar e GRLS.s06.x265.rar
+rm *url
+rm *rar
+up 1
+mv S06\ 720p\ HDTV\ x265 Season\ 6
+mv Season\ 6 /mnt/tv/Girls/
+ls
+cd
+dmesg | grep xorg
+V /etc/mkinitcpio.conf
+sudo mkinitcpio -P
+reboot
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf
+sudo dhcpcd wlp2s0
+sudo mount /dev/sdb1 /mnt
+dmesg | grep xorg
+dmesg | grep intel
+startx
+polybar top &
+sudo sysctl -a
+sudo sysctl -p /etc/sysctl.conf
+cd .local
+ls
+cd share
+ls
+cd xorg
+ls
+v Xorg.0.log
+cd
+xdpyinfo | grep -B2 resolution\
+
+cd .local/share
+ls
+rmd citra-emu
+ls
+lsa
+up 1
+cd etc
+ls
+cd xdg
+ls
+cd
+lsa
+weston
+ls
+lsa
+dots
+cd X11
+lsa
+cd etc
+ls
+cd X11
+ls
+cd xorg.conf.d
+ls
+up 1
+xinit
+cd xinit
+ls
+cd xinitrc.d
+ls
+v infinality-settings.sh
+up 1
+up 1
+rmd xorg.conf.d
+cd /etc
+cd X11
+;s
+ls
+cd xinit
+ls
+cd xinitrc.d
+ls
+v infinality-settings.sh
+V infinality-settings.sh
+ls
+v xft-settings.sh
+dots
+cd etc
+ls
+rmd X11
+cd /etc/profile.d
+ls
+v infinality-settings.sh
+v freetype2.sh
+V freetype2.sh
+ls
+cd
+rf
+dots
+ls
+rmd .git
+lsa
+git init
+lsa
+git remote add origin https://github.com/Butter20/.dots.git
+lsa
+git push -u origin master
+git commit -a
+git config --global user.email "butter@vivaldi.net"
+git config --global user.name "Butter20"
+git commit -a
+git add aria2/ bash/ color/ config/ docs/ etc/ gtk/ scripts/ sound/ xresources/ zsh/
+git rm --cached color/ls--
+git rm -f --cached color/ls--
+git commit -a
