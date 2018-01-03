@@ -13,6 +13,8 @@ export LC_ALL=en_US.UTF-8
 export XKB_DEFAULT_LAYOUT=us
 export XKB_DEFAULT_RULES=evdev
 
+PATH=$/usr/share/perl5/vendor_perl/auto/share/dist/App-Cope:$PATH
+
 export LESS=-R
 export LESS_TERMCAP_mb=$'\E[1;31m'     # begin bold
 export LESS_TERMCAP_md=$'\E[1;36m'     # begin blink
@@ -21,7 +23,6 @@ export LESS_TERMCAP_so=$'\E[01;44;33m' # begin reverse video
 export LESS_TERMCAP_se=$'\E[0m'        # reset reverse video
 export LESS_TERMCAP_us=$'\E[1;32m'     # begin underline
 export LESS_TERMCAP_ue=$'\E[0m'        # reset underline
-# and so on
 
 export HISTSIZE=50000
 export SAVEHIST=30000

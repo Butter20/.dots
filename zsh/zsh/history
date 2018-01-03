@@ -1735,3 +1735,320 @@ rmd recovery
 git remove Cricket\'s\ Cove\ Log
 dots
 git commit -a
+git push
+cd
+aliasn
+v .zshrc
+cd zsh
+ls
+v 00-envars.zsh
+v 00-envars.zsh
+v 05-functions.zsh
+pbld
+mkdir cope
+cd cope
+v PKGBUILD
+makepkg
+git clone https://github.com/nichivo/cope.git
+up 1
+rmd cope
+git clone https://github.com/nichivo/cope.git
+cd cope
+lsa
+v PKGBUILD
+makepki
+rm PKGBUILD
+perl Makefile.PL
+v README
+make
+lsa
+perl Makefile.PL
+paud cope-git
+ls
+pbld
+cd cope-git
+ls
+rm PKGBUILD
+v PKGBUILD
+makepki
+makepkg
+pmi perl-class-inspector perl-env-path perl-file-sharedir perl-io-stty perl-io-tty perl-list-moreutils perl-params-util perl-regexp-common perl-regexp-ipv6 perl-number-format
+pmi perl-class-inspector perl-env-path perl-file-sharedir  perl-io-tty perl-list-moreutils perl-params-util perl-regexp-common
+pmi perl-class-inspector perl-file-sharedir  perl-io-tty perl-list-moreutils perl-params-util perl-regexp-common
+pas env-path
+pasy perl-env-path perl-io-stty perl-regexp-ipv6 perl-number-format
+makepkg
+ls
+cd src
+ls
+cd App-Cope-1.00
+ls
+perl Makefile.PL
+pas sharedir
+pmi perl-file-sharedir-install
+up 2
+makepkg
+pmu cope-git-1.00-1-any.pkg.tar.xz
+cope_path.pl
+cd
+cd zsh
+v 00-envars.zsh
+rf
+rf
+dmesg
+cd
+echo PATH
+echo $PATH
+sysctl -a
+refmir
+pms
+refmir
+pro
+ip link
+mtv
+Sealab\ 2021
+ls
+fb
+mani
+rmd Dragon\ Ball\ Z
+ls
+cd
+zippy
+git pull
+v overlord.txt
+zipdl overlord.txt
+zippy
+v arietty.txt
+v fromuponpoppyhill.txt
+v myneighborstheyamadas.txt
+v oceanwaves.txt
+v onlyyesterday.txt
+v pompoko.txt
+v thecatreturns.txt
+v theredturtle.txt
+v whenmarniewasthere.txt
+ls
+rm pokemonum.txt
+ls
+dl
+rm *dlc
+ls
+zippy
+v overlord.txt
+cd
+zippy
+v gitssacsg.txt
+ls
+vid
+cd xxx
+mkdir hentai
+ls
+rmd hentai
+up 1
+mkdir hentai
+ls
+cd
+lsa
+dl
+ls
+cp \[HH\]\ Oide\ yo\!\ Mizuryuu\ Kei\ Land \[RH\]\ Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!\ \[Uncensored\]\ \[BDRip\]\ \[Hi10\]\ \[1080p\] ~/vid/hentai
+cp -r \[HH\]\ Oide\ yo\!\ Mizuryuu\ Kei\ Land \[RH\]\ Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!\ \[Uncensored\]\ \[BDRip\]\ \[Hi10\]\ \[1080p\] ~/vid/hentai
+vid
+hentai
+ls
+mv \[HH\]\ Oide\ yo\!\ Mizuryuu\ Kei\ Land Oide\ yo\!\ Mizuryuu\ Kei\ Land
+mv \[RH\]\ Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!\ \[Uncensored\]\ \[BDRip\]\ \[Hi10\]\ \[1080p\] Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!
+ls
+cd Oppai\ no\ Ouja\ 48\ Nanimo\ Kangaezu\ Me\ no\ Mae\ no\ Oppai\ Zenbu\ Shabure\!
+ls
+fb
+pmi p7zip
+7z e %5bbonkai77%5d.Overlord.1080p.x265.10bit.7z.001
+cd
+lsa
+ls
+rm *7z*
+mv \[bonkai77\]\ Overlord\ \[1080p\]\ \[DUAL-AUDIO\]\ \[x265\]\ \[HEVC\]\ \[AAC\]\ \[10bit\] Overlord
+mv *mkv Overlord
+fb
+mv Overlord /mnt/anime
+ls
+rm overlord.txt
+zipdl arietty.txt
+zippy
+v arietty.txt
+cd
+pms
+7z e %5bAnimeRG%5d%20Arrietty%20%282010%29%20The%20Borrower%20Arrietty%20%5bDUAL-AUDIO%5d%20%5b1080p%5d%20%5bx265%5d%20%5bpseudo%5d.part01.rar
+pau
+ls
+rm *rar
+fb
+mkdir The\ Secret\ World\ of\ Arietty\ \(2010\)
+mv *mkv The\ Secret\ World\ of\ Arietty\ \(2010\)
+ls
+mv The\ Secret\ World\ of\ Arietty\ \(2010\) The\ Secret\ World\ of\ Arrietty\ \(2010\)
+mv The\ Secret\ World\ of\ Arrietty\ \(2010\) /mnt/film
+cd
+zippy
+rm arietty.txt
+ls
+pms
+refmir
+poweroff
+sudo mount /dev/sdb1 /mnt
+startx
+polybar top &
+vid
+hentai
+ls
+cd Oide\ yo\!\ Mizuryuu\ Kei\ Land
+mpv Oide\ yo\!\ Mizuryuu\ Kei\ Land\ -\ 01\ -\ First\ Visit.mp4
+sudo umount /mnt
+cd
+lsblk
+wpa_passphrase CenturyLink9162 bd8a6a34dada8d > /etc/wpa_supplicant/wpa_supplicant-moms.conf
+sudo wpa_passphrase CenturyLink9162 bd8a6a34dada8d > /etc/wpa_supplicant/wpa_supplicant-moms.conf
+su
+wpa_passphrase CenturyLink9162 bd8a6a34dada8d > /etc/wpa_supplicant/wpa_supplicant-moms.conf
+exit
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-moms.conf
+sudo dhcpcd wlp2s0
+pms
+ip link show
+ip addr show
+V /etc/pihole/setupVars.conf
+sudo chattr -i /etc/resolv.conf
+v /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+pau
+dl
+cp -r \[RH\]\ Residence\ \[DVDRip\]\ \[Hi10\]\ \[720p\] ~/vid/hentai
+cd
+lsa
+fb
+vid
+hentai
+mv \[RH\]\ Residence\ \[DVDRip\]\ \[Hi10\]\ \[720p\] Residence
+ls
+cd Residence
+ls
+cd
+lsa
+vid
+hentai
+ls
+sl
+dl
+ls
+rm *zip
+cp -r \[HH\]\ Shinsei\ Futanari\ Idol\ Dekatama\ Kei\! ~/vid/hentai
+fb
+vid
+hentau
+hentai
+cd \[HH\]\ Shinsei\ Futanari\ Idol\ Dekatama\ Kei\!
+ls
+up 1
+mv \[HH\]\ Shinsei\ Futanari\ Idol\ Dekatama\ Kei\! Shinsei\ Futanari\ Idol:\ Dekatama\ Kei\!\ Shasei\ no\ Utage\ wa\ Chouzetsu\ Max
+ls
+cd Shinsei\ Futanari\ Idol:\ Dekatama\ Kei\!\ Shasei\ no\ Utage\ wa\ Chouzetsu\ Max
+mpv Shinsei\ Futanari\ Idol:\ Dekatama\ Kei\!\ Shasei\ no\ Utage\ wa\ Chouzetsu\ Max\ -\ 01\ -\ Volume\ 1.mp4
+cd
+lsa
+lsa
+vid
+hentai
+dl
+cp -r \[HH\]\ Zton\ Jingai\ Animation\ A\ Beautiful\ Greed\ Nulu\ Nulu\ \[DVD\]\ \[3C25AF34\].mp4 ~/vid/hentai
+vid
+hentai
+fb
+fb
+mkdir Zton\ Jingai\ Animation:\ A\ Beautiful\ Greed\ Nulu\ Nulu
+mv *mp4 Zton\ Jingai\ Animation:\ A\ Beautiful\ Greed\ Nulu\ Nulu/
+ls
+cd Zton\ Jingai\ Animation:\ A\ Beautiful\ Greed\ Nulu\ Nulu
+mpv Zton\ Jingai\ Animation:\ A\ Beautiful\ Greed\ Nulu\ Nulu\ -\ 01\ -\ Volume\ 1.mp4
+cd
+lsa
+dl
+rm *zip
+cd
+pms
+dl
+cd Microbikini\ Oily\ Dance\ Ultimate\ Collection\ \[Omega\ P\]
+cd \[MBOD1\]\ Micro\ Bikini\ Oily\ Dance\ 1
+up 1
+cd \[MBD\]\ Micro\ Bikini\ Dance
+mpv MBD-03\ Rina.mp4
+cd
+lsa
+rm *log
+dl
+cp -r Watashi\ wa,\ Kairaku\ Izonshou ~/vid/hentai
+fb
+vid
+hentai
+cd Watashi\ wa,\ Kairaku\ Izonshou
+mpv I\`m\ a\ sexaholic\!\ -\ 01\ -\ Volume\ 1.mp4
+cd
+lsa
+dl
+ls
+mpv \[Exotic4k\]\ Anya\ Ivy\ A\ Facial\ For\ Anya\ -\ 2160p.mp4
+ls
+rm *zip
+ls
+cd
+lsa
+vid
+hentai
+ls
+dl
+cd Microbikini\ Oily\ Dance\ Ultimate\ Collection\ \[Omega\ P\]
+cd \[MBOD1\]\ Micro\ Bikini\ Oily\ Dance\ 1
+mpv MBOD1-04\ Minaki\ Saotome.mp4
+up 1
+cd \[MBD\]\ Micro\ Bikini\ Dance
+ls
+mpv MBD-04\ Mai\ Hirano.mp4
+cd
+lsa
+rm *log
+lsa
+dl
+ cd Microbikini\ Oily\ Dance\ Ultimate\ Collection\ \[Omega\ P\]
+cd \[MBOD1\]\ Micro\ Bikini\ Oily\ Dance\ 1
+mpv MBOD1-04\ Minaki\ Saotome.mp4
+dl
+mpv \[Exotic4k\]\ Anya\ Ivy\ A\ Facial\ For\ Anya\ -\ 2160p.mp4
+cd \[MBOD1\]\ Micro\ Bikini\ Oily\ Dance\ 1
+cd Microbikini\ Oily\ Dance\ Ultimate\ Collection\ \[Omega\ P\]
+cd \[MBOD1\]\ Micro\ Bikini\ Oily\ Dance\ 1
+mpv MBOD1-03\ Aya\ Fukunaga.mp4
+cd
+lsa
+pms
+pau
+dl
+mpv \[Exotic4k\]\ Anya\ Ivy\ A\ Facial\ For\ Anya\ -\ 2160p.mp4
+ls
+fb
+vid
+xxx
+Jules\ Jordan
+Oil\ Overload\ 13
+ls
+mv Scene\ 1\ -\ Ryan\ Connor.mp4 Scene\ 1\ -\ Ryan\ Conner.mp4
+cd
+dl
+mpv \[Exotic4k\]\ Anya\ Ivy\ A\ Facial\ For\ Anya\ -\ 2160p.mp4
+cd
+lsa
+dots
+git commit -a
