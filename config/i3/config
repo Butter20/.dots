@@ -13,8 +13,8 @@ set $left j
 set $right semicolon
 
 set $term urxvt
-set $browser firefox-nightly
-set $editor nvim
+set $browser firefox
+set $editor vim
 
 floating_Modifier Mod1
 
@@ -29,9 +29,9 @@ bindsym Mod1+d exec rofi -show drun
 bindsym Mod1+Ctrl+s exec editor
 bindsym Mod1+Ctrl+v exec browser
 bindsym Mod1+Ctrl+r exec urxvt -e ranger
-bindsym Mod1+n exec urxvt -e nvim
-bindsym Mod1+Ctrl+d exec deluge
-bindsym Mod1+Ctrl+p exec pkgbrowser
+bindsym Mod1+n exec urxvt -e vim
+bindsym Mod1+Ctrl+d exec qbittorrent
+bindsym Mod1+Ctrl+l exec betterlockscreen -l
 
 #=# focus #=#
 bindsym Mod1+$left focus left

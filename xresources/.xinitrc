@@ -13,7 +13,7 @@ export I3_CONFIG_DIR="$HOME/.config/i3"
 xrdb -load ~/.Xresources &
 
 # background
-feh --bg-fill /home/olin/pic/walls/the-wings-of-honneamise-thora-113010.png &
+feh --bg-fill /home/olin/pic/walls/BOTW-Landscape.jpg &
 
 # hide mouse coursor when it isn't used
 unclutter -root -visible &
@@ -24,8 +24,8 @@ compton --config $HOME/.config/compton.conf &
 # tempature control
 pgrep redshift &> /dev/null || redshift &> /dev/null &
 
-# polybar
-#polybar top &
+# lock
+xautolock -time 5 -locker betterlockscreen -l &
 
 # WM
 i3
