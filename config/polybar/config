@@ -152,7 +152,7 @@ icon-pause = 
 icon-next = 
 label-song-maxlen = 40
 label-song-ellipsis = true
-host = ::1
+host = 127.0.0.1
 port = 6600
 interval = 2
 
@@ -196,7 +196,7 @@ label = %percentage_used%%
 
 [module/eth]
 type = internal/network
-interface = enp3s0
+interface = wlp2s0
 interval = 3.0
 
 format-connected-underline = 

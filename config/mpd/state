@@ -1,9 +1,9 @@
-sw_volume: 100
-audio_device_state:1:HDA Intel - 92HD71B7X Analog
+sw_volume: 96
+audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: pause
-current: 1
-time: 3.551000
+current: 0
+time: 154.815000
 random: 0
 repeat: 0
 single: 0
@@ -12,34 +12,5 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/01 - Mr. White.flac
-1:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/02 - Two Fish and an Elephant.flac
-2:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/03 - Dern Kala.flac
-3:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/04 - Little Joe & Mary.flac
-4:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/05 - White Gloves.flac
-5:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/06 - People Everywhere (Still Alive).flac
-6:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/07 - The Man Who Took My Sunglasses.flac
-7:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/08 - August Twelve.flac
-8:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/09 - Balls and Pins.flac
-9:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/10 - Zionsville.flac
-10:(2015) Khruangbin - The Universe Smiles Upon You [WEB FLAC]/11 - The Universe Smiles Upon You.flac
-11:Mark McGuire - Nightshade (2012) [FLAC]/01 - Luminous, Black Sky (so we meet again..).flac
-12:Mark McGuire - Nightshade (2012) [FLAC]/02 - The Southern Cross (Crux).flac
-13:Mark McGuire - Nightshade (2012) [FLAC]/03 - Beheld.flac
-14:Mark McGuire - Nightshade (2012) [FLAC]/04 - Nightshade.flac
-15:Mark McGuire - Nightshade (2012) [FLAC]/05 - Seeing Venus (behind the Moon).flac
-16:Mount Kimbie - Maybes EP (2009) [FLAC] [WEB]/01-Mount Kimbie_-_Maybes_Original_Mix.flac
-17:Mount Kimbie - Maybes EP (2009) [FLAC] [WEB]/02-Mount Kimbie_-_William_Original_Mix.flac
-18:Mount Kimbie - Maybes EP (2009) [FLAC] [WEB]/03-Mount Kimbie_-_Vertical_Original_Mix.flac
-19:Mount Kimbie - Maybes EP (2009) [FLAC] [WEB]/04-Mount Kimbie_-_Taps_Original_Mix.flac
-20:Folamour - Umami/01_Night Of Desirable Objects.mp3
-21:Folamour - Umami/02_Y'all Right.mp3
-22:Folamour - Umami/03_Petit Prince Du Macadam.mp3
-23:Folamour - Umami/04_Ivoire.mp3
-24:Folamour - Umami/05_Look At Me Or I'll Steal Your Eyes  .mp3
-25:Folamour - Umami/06_Devoted to u .mp3
-26:Folamour - Umami/07_Oyabun.mp3
-27:Folamour - Umami/08_Kickflipin' That Stuff .mp3
-28:Folamour - Umami/09_Jah Love.mp3
-29:DJ_Esco-56_Nights_Hosted_By_Future/08-Future-Trap_Niggas_Prod_By_Southside.mp3
+0:Leafar Legov - Family/A1 - Peace By Peace.mp3
 playlist_end

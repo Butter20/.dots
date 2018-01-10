@@ -24,9 +24,6 @@ compton --config $HOME/.config/compton.conf &
 # tempature control
 pgrep redshift &> /dev/null || redshift &> /dev/null &
 
-# lock
-xautolock -time 5 -locker betterlockscreen -l &
-
 # WM
 i3
 
