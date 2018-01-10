@@ -1,9 +1,9 @@
 sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
-state: play
-current: 19
-time: 4.121000
+state: pause
+current: 24
+time: 302.579000
 random: 0
 repeat: 0
 single: 0
@@ -36,4 +36,9 @@ playlist_begin
 21:Nocow - Samaya Dolgaya Noch/03 - Samaya Dolgaya Noch.mp3
 22:Nocow - Samaya Dolgaya Noch/04 - Stop.mp3
 23:Nocow - Samaya Dolgaya Noch/05 - Aesthetic Mind.mp3
+24:Pender Street Steppers - Raining Again/A1 - Raining Again.mp3
+25:Pender Street Steppers - Raining Again/A2 - Mirror (Dub).mp3
+26:Pender Street Steppers - Raining Again/A3 - Molto Bene.mp3
+27:Pender Street Steppers - Raining Again/B1 - Blackboard.mp3
+28:Pender Street Steppers - Raining Again/B2 - No Need.mp3
 playlist_end
