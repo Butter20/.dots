@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
-state: pause
-current: 24
-time: 302.579000
+state: play
+current: 39
+time: 4.040000
 random: 0
 repeat: 0
 single: 0
@@ -41,4 +41,25 @@ playlist_begin
 26:Pender Street Steppers - Raining Again/A3 - Molto Bene.mp3
 27:Pender Street Steppers - Raining Again/B1 - Blackboard.mp3
 28:Pender Street Steppers - Raining Again/B2 - No Need.mp3
+29:Riccio - Heather.mp3
+30:01 - GBLFT1740065.mp3
+31:Aleksi Perälä - Paradox/01 - GBLFT1740065.mp3
+32:02 - GBLFT1740066.mp3
+33:Aleksi Perälä - Paradox/02 - GBLFT1740066.mp3
+34:03 - GBLFT1740067.mp3
+35:Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3
+36:04 - GBLFT1740068.mp3
+37:Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3
+38:05 - GBLFT1740069.mp3
+39:Aleksi Perälä - Paradox/05 - GBLFT1740069.mp3
+40:06 - GBLFT1740070.mp3
+41:Aleksi Perälä - Paradox/06 - GBLFT1740070.mp3
+42:07 - GBLFT1740071.mp3
+43:Aleksi Perälä - Paradox/07 - GBLFT1740071.mp3
+44:08 - GBLFT1740072.mp3
+45:Aleksi Perälä - Paradox/08 - GBLFT1740072.mp3
+46:09 - GBLFT1740073.mp3
+47:Aleksi Perälä - Paradox/09 - GBLFT1740073.mp3
+48:10 - GBLFT1740074.mp3
+49:Aleksi Perälä - Paradox/10 - GBLFT1740074.mp3
 playlist_end

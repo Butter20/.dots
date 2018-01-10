@@ -913,3 +913,110 @@ Jan 10 08:05 : update: removing A2 - Mirror (Dub).mp3
 Jan 10 08:09 : player: played "Vtgnike - Chutzpa/13 - Poganoe Ozero.mp3"
 Jan 10 08:13 : player: played "Vtgnike - Chutzpa/14 - Gunman.mp3"
 Jan 10 08:22 : player: played "Nocow - Samaya Dolgaya Noch/01 - Soul Connection.mp3"
+Jan 10 08:42 : player: played "Pender Street Steppers - Raining Again/A1 - Raining Again.mp3"
+Jan 10 08:46 : player: played "Pender Street Steppers - Raining Again/A2 - Mirror (Dub).mp3"
+Jan 10 08:50 : player: played "Pender Street Steppers - Raining Again/A3 - Molto Bene.mp3"
+Jan 10 08:56 : player: played "Pender Street Steppers - Raining Again/B1 - Blackboard.mp3"
+Jan 10 08:57 : update: added /03 Heather.mp3
+Jan 10 08:57 : update: removing 03 Heather.mp3
+Jan 10 08:57 : update: added /Riccio - Heather.mp3
+Jan 10 08:59 : update: added /01 - GBLFT1740065.mp3
+Jan 10 08:59 : update: added /02 - GBLFT1740066.mp3
+Jan 10 08:59 : update: added /03 - GBLFT1740067.mp3
+Jan 10 08:59 : update: added /04 - GBLFT1740068.mp3
+Jan 10 08:59 : update: added /05 - GBLFT1740069.mp3
+Jan 10 08:59 : update: added /06 - GBLFT1740070.mp3
+Jan 10 08:59 : update: added /07 - GBLFT1740071.mp3
+Jan 10 08:59 : update: added /08 - GBLFT1740072.mp3
+Jan 10 08:59 : update: added /09 - GBLFT1740073.mp3
+Jan 10 08:59 : update: added /10 - GBLFT1740074.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/01 - GBLFT1740065.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/02 - GBLFT1740066.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/05 - GBLFT1740069.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/06 - GBLFT1740070.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/07 - GBLFT1740071.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/08 - GBLFT1740072.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/09 - GBLFT1740073.mp3
+Jan 10 09:00 : update: added Aleksi Perälä - Paradox/10 - GBLFT1740074.mp3
+Jan 10 09:04 : player: played "Pender Street Steppers - Raining Again/B2 - No Need.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 09:06 : player: played "01 - GBLFT1740065.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/02 - GBLFT1740066.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/02 - GBLFT1740066.mp3: No such file or directory
+Jan 10 09:06 : player: played "02 - GBLFT1740066.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/02 - GBLFT1740066.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/02 - GBLFT1740066.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/03 - GBLFT1740067.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/03 - GBLFT1740067.mp3: No such file or directory
+Jan 10 09:06 : player: played "03 - GBLFT1740067.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/03 - GBLFT1740067.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/03 - GBLFT1740067.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/04 - GBLFT1740068.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/04 - GBLFT1740068.mp3: No such file or directory
+Jan 10 09:06 : player: played "04 - GBLFT1740068.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/04 - GBLFT1740068.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/04 - GBLFT1740068.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/05 - GBLFT1740069.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/05 - GBLFT1740069.mp3: No such file or directory
+Jan 10 09:06 : player: played "05 - GBLFT1740069.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/05 - GBLFT1740069.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/05 - GBLFT1740069.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/06 - GBLFT1740070.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/06 - GBLFT1740070.mp3: No such file or directory
+Jan 10 09:06 : player: played "06 - GBLFT1740070.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/06 - GBLFT1740070.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/06 - GBLFT1740070.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/07 - GBLFT1740071.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/07 - GBLFT1740071.mp3: No such file or directory
+Jan 10 09:06 : player: played "07 - GBLFT1740071.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/07 - GBLFT1740071.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/07 - GBLFT1740071.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/08 - GBLFT1740072.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/08 - GBLFT1740072.mp3: No such file or directory
+Jan 10 09:06 : player: played "08 - GBLFT1740072.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/08 - GBLFT1740072.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/08 - GBLFT1740072.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/09 - GBLFT1740073.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/09 - GBLFT1740073.mp3: No such file or directory
+Jan 10 09:06 : player: played "09 - GBLFT1740073.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/09 - GBLFT1740073.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/09 - GBLFT1740073.mp3: No such file or directory
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/10 - GBLFT1740074.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/10 - GBLFT1740074.mp3: No such file or directory
+Jan 10 09:06 : player: played "10 - GBLFT1740074.mp3"
+Jan 10 09:06 : exception: Failed to decode /home/olin/tune/10 - GBLFT1740074.mp3
+Jan 10 09:06 : exception: nested: Failed to open /home/olin/tune/10 - GBLFT1740074.mp3: No such file or directory
+Jan 10 09:16 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 09:16 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 09:16 : player: played "Riccio - Heather.mp3"
+Jan 10 09:16 : player: played "01 - GBLFT1740065.mp3"
+Jan 10 09:16 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 09:16 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 09:16 : player: played "01 - GBLFT1740065.mp3"
+Jan 10 09:35 : exception: Failed to decode /home/olin/tune/02 - GBLFT1740066.mp3
+Jan 10 09:35 : exception: nested: Failed to open /home/olin/tune/02 - GBLFT1740066.mp3: No such file or directory
+Jan 10 09:35 : player: played "Aleksi Perälä - Paradox/01 - GBLFT1740065.mp3"
+Jan 10 09:35 : player: played "02 - GBLFT1740066.mp3"
+Jan 10 09:35 : exception: Failed to decode /home/olin/tune/02 - GBLFT1740066.mp3
+Jan 10 09:35 : exception: nested: Failed to open /home/olin/tune/02 - GBLFT1740066.mp3: No such file or directory
+Jan 10 09:35 : player: played "02 - GBLFT1740066.mp3"
+Jan 10 09:38 : exception: Failed to decode /home/olin/tune/03 - GBLFT1740067.mp3
+Jan 10 09:38 : exception: nested: Failed to open /home/olin/tune/03 - GBLFT1740067.mp3: No such file or directory
+Jan 10 09:38 : player: played "Aleksi Perälä - Paradox/02 - GBLFT1740066.mp3"
+Jan 10 09:38 : player: played "03 - GBLFT1740067.mp3"
+Jan 10 09:38 : exception: Failed to decode /home/olin/tune/03 - GBLFT1740067.mp3
+Jan 10 09:38 : exception: nested: Failed to open /home/olin/tune/03 - GBLFT1740067.mp3: No such file or directory
+Jan 10 09:40 : player: played "03 - GBLFT1740067.mp3"
+Jan 10 09:44 : exception: Failed to decode /home/olin/tune/04 - GBLFT1740068.mp3
+Jan 10 09:44 : exception: nested: Failed to open /home/olin/tune/04 - GBLFT1740068.mp3: No such file or directory
+Jan 10 09:44 : player: played "Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3"
+Jan 10 09:44 : player: played "04 - GBLFT1740068.mp3"
+Jan 10 09:49 : exception: Failed to decode /home/olin/tune/05 - GBLFT1740069.mp3
+Jan 10 09:49 : exception: nested: Failed to open /home/olin/tune/05 - GBLFT1740069.mp3: No such file or directory
+Jan 10 09:49 : player: played "Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3"
+Jan 10 09:49 : player: played "05 - GBLFT1740069.mp3"
