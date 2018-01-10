@@ -1,9 +1,9 @@
-sw_volume: 96
+sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
-state: pause
-current: 0
-time: 154.815000
+state: play
+current: 19
+time: 4.121000
 random: 0
 repeat: 0
 single: 0
@@ -13,4 +13,27 @@ mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
 0:Leafar Legov - Family/A1 - Peace By Peace.mp3
+1:Leafar Legov - Family/A2 - Force Majeure.mp3
+2:Leafar Legov - Family/A3 - Family Is Everything.mp3
+3:Leafar Legov - Family/B1 - Our Love Is Strong.mp3
+4:Leafar Legov - Family/B2 - We Don't Have To Talk About It.mp3
+5:Vtgnike - Chutzpa/01 - Zvonok.mp3
+6:Vtgnike - Chutzpa/02 - Tukzar.mp3
+7:Vtgnike - Chutzpa/03 - DUST.mp3
+8:Vtgnike - Chutzpa/04 - Greh.mp3
+9:Vtgnike - Chutzpa/05 - Hoodik.mp3
+10:Vtgnike - Chutzpa/06 - Quantumleap.mp3
+11:Vtgnike - Chutzpa/07 - Avtoradio Rip.mp3
+12:Vtgnike - Chutzpa/08 - Tryasina.mp3
+13:Vtgnike - Chutzpa/09 - Badboy (Trippin In Bali Mix).mp3
+14:Vtgnike - Chutzpa/10 - Greysnow.mp3
+15:Vtgnike - Chutzpa/11 - Posttruth Mix.mp3
+16:Vtgnike - Chutzpa/12 - ищдтщш.mp3
+17:Vtgnike - Chutzpa/13 - Poganoe Ozero.mp3
+18:Vtgnike - Chutzpa/14 - Gunman.mp3
+19:Nocow - Samaya Dolgaya Noch/01 - Soul Connection.mp3
+20:Nocow - Samaya Dolgaya Noch/02 - Disappear.mp3
+21:Nocow - Samaya Dolgaya Noch/03 - Samaya Dolgaya Noch.mp3
+22:Nocow - Samaya Dolgaya Noch/04 - Stop.mp3
+23:Nocow - Samaya Dolgaya Noch/05 - Aesthetic Mind.mp3
 playlist_end

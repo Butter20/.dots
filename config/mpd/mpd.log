@@ -745,3 +745,170 @@ Jan 10 05:07 : avahi: Client Disconnected, will reconnect shortly
 Jan 10 05:07 : avahi: Could not reconnect: An unexpected D-Bus error occurred
 Jan 10 05:07 : player: played "Leafar Legov - Family/A1 - Peace By Peace.mp3"
 Jan 10 05:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 06:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 06:32 : player: played "Leafar Legov - Family/A1 - Peace By Peace.mp3"
+Jan 10 06:46 : player: played "Leafar Legov - Family/A2 - Force Majeure.mp3"
+Jan 10 06:47 : player: played "Leafar Legov - Family/A3 - Family Is Everything.mp3"
+Jan 10 06:55 : player: played "Leafar Legov - Family/B1 - Our Love Is Strong.mp3"
+Jan 10 07:04 : player: played "Leafar Legov - Family/B2 - We Don't Have To Talk About It.mp3"
+Jan 10 07:08 : update: added /01 - Zvonok.mp3
+Jan 10 07:08 : update: added /02 - Tukzar.mp3
+Jan 10 07:08 : update: added /03 - DUST.mp3
+Jan 10 07:08 : update: added /04 - Greh.mp3
+Jan 10 07:08 : update: added /05 - Hoodik.mp3
+Jan 10 07:08 : update: added /06 - Quantumleap.mp3
+Jan 10 07:08 : update: added /07 - Avtoradio Rip.mp3
+Jan 10 07:08 : update: added /08 - Tryasina.mp3
+Jan 10 07:08 : update: added /09 - Badboy (Trippin In Bali Mix).mp3
+Jan 10 07:08 : update: added /10 - Greysnow.mp3
+Jan 10 07:08 : update: added /11 - Posttruth Mix.mp3
+Jan 10 07:08 : update: added /12 - ищдтщш.mp3
+Jan 10 07:08 : update: added /13 - Poganoe Ozero.mp3
+Jan 10 07:08 : update: added /14 - Gunman.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/01 - Zvonok.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/02 - Tukzar.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/03 - DUST.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/04 - Greh.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/05 - Hoodik.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/06 - Quantumleap.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/07 - Avtoradio Rip.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/08 - Tryasina.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/09 - Badboy (Trippin In Bali Mix).mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/10 - Greysnow.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/11 - Posttruth Mix.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/12 - ищдтщш.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/13 - Poganoe Ozero.mp3
+Jan 10 07:09 : update: added Vtgnike - Chutzpa/14 - Gunman.mp3
+Jan 10 07:10 : update: removing 01 - Zvonok.mp3
+Jan 10 07:10 : update: removing 14 - Gunman.mp3
+Jan 10 07:10 : update: removing 13 - Poganoe Ozero.mp3
+Jan 10 07:10 : update: removing 12 - ищдтщш.mp3
+Jan 10 07:10 : update: removing 11 - Posttruth Mix.mp3
+Jan 10 07:10 : update: removing 10 - Greysnow.mp3
+Jan 10 07:10 : update: removing 09 - Badboy (Trippin In Bali Mix).mp3
+Jan 10 07:10 : update: removing 08 - Tryasina.mp3
+Jan 10 07:10 : update: removing 07 - Avtoradio Rip.mp3
+Jan 10 07:10 : update: removing 06 - Quantumleap.mp3
+Jan 10 07:10 : update: removing 05 - Hoodik.mp3
+Jan 10 07:10 : update: removing 04 - Greh.mp3
+Jan 10 07:10 : update: removing 03 - DUST.mp3
+Jan 10 07:10 : update: removing 02 - Tukzar.mp3
+Jan 10 07:10 : update: added /01 - Lionel's Dub.mp3
+Jan 10 07:10 : update: added /02 - Hot-Blooded.mp3
+Jan 10 07:10 : update: added /03 - 2 Vultures.mp3
+Jan 10 07:10 : update: added /04 - Hanging With The Birds.mp3
+Jan 10 07:10 : update: added Parris - 2 Vultures/01 - Lionel's Dub.mp3
+Jan 10 07:10 : update: added Parris - 2 Vultures/02 - Hot-Blooded.mp3
+Jan 10 07:10 : update: added Parris - 2 Vultures/03 - 2 Vultures.mp3
+Jan 10 07:10 : update: added Parris - 2 Vultures/04 - Hanging With The Birds.mp3
+Jan 10 07:10 : update: added Parris - 2 Vultures/Chromatics_-_Shadow_Kettenkarussell_Remix_Unreleased.mp3
+Jan 10 07:10 : update: removing Parris - 2 Vultures/Chromatics_-_Shadow_Kettenkarussell_Remix_Unreleased.mp3
+Jan 10 07:10 : update: removing 01 - Lionel's Dub.mp3
+Jan 10 07:10 : update: removing 04 - Hanging With The Birds.mp3
+Jan 10 07:10 : update: removing 03 - 2 Vultures.mp3
+Jan 10 07:10 : update: removing 02 - Hot-Blooded.mp3
+Jan 10 07:12 : update: removing Chromatics_-_Shadow_Kettenkarussell_Remix_Unreleased.mp3
+Jan 10 07:12 : update: added /Chromatics - Shadow (Kettenkarussell Remix).mp3
+Jan 10 07:14 : player: played "Vtgnike - Chutzpa/01 - Zvonok.mp3"
+Jan 10 07:18 : update: added /01 - Lefu.mp3
+Jan 10 07:18 : update: added /02 - Laar.mp3
+Jan 10 07:18 : update: added /03 - Amba.mp3
+Jan 10 07:18 : update: added /04 - Chanka.mp3
+Jan 10 07:18 : update: added /05 - Bittern.mp3
+Jan 10 07:18 : update: added /06 - Tau.mp3
+Jan 10 07:18 : update: added /07 - Klamm.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/01 - Lefu.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/02 - Laar.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/03 - Amba.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/04 - Chanka.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/05 - Bittern.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/06 - Tau.mp3
+Jan 10 07:19 : update: added Kilchhofer - Dersu/07 - Klamm.mp3
+Jan 10 07:19 : update: removing 03 - Amba.mp3
+Jan 10 07:19 : update: removing 02 - Laar.mp3
+Jan 10 07:19 : update: removing 01 - Lefu.mp3
+Jan 10 07:19 : update: removing 07 - Klamm.mp3
+Jan 10 07:19 : update: removing 06 - Tau.mp3
+Jan 10 07:19 : update: removing 05 - Bittern.mp3
+Jan 10 07:19 : update: removing 04 - Chanka.mp3
+Jan 10 07:19 : update: added /01 - Marionette Manifesto.mp3
+Jan 10 07:19 : update: added /02 - Virtue.mp3
+Jan 10 07:19 : update: added /03 - Viburnum Opulus.mp3
+Jan 10 07:19 : player: played "Vtgnike - Chutzpa/02 - Tukzar.mp3"
+Jan 10 07:20 : update: added Laurine Frost - A Fading Virtue By Passing Time/01 - Marionette Manifesto.mp3
+Jan 10 07:20 : update: added Laurine Frost - A Fading Virtue By Passing Time/02 - Virtue.mp3
+Jan 10 07:20 : update: added Laurine Frost - A Fading Virtue By Passing Time/03 - Viburnum Opulus.mp3
+Jan 10 07:20 : update: removing 01 - Marionette Manifesto.mp3
+Jan 10 07:20 : update: removing 03 - Viburnum Opulus.mp3
+Jan 10 07:20 : update: removing 02 - Virtue.mp3
+Jan 10 07:20 : update: added /01 - Soul Connection.mp3
+Jan 10 07:20 : update: added /02 - Disappear.mp3
+Jan 10 07:20 : update: added /03 - Samaya Dolgaya Noch.mp3
+Jan 10 07:20 : update: added /04 - Stop.mp3
+Jan 10 07:20 : update: added /05 - Aesthetic Mind.mp3
+Jan 10 07:20 : update: added Nocow - Samaya Dolgaya Noch/01 - Soul Connection.mp3
+Jan 10 07:20 : update: added Nocow - Samaya Dolgaya Noch/02 - Disappear.mp3
+Jan 10 07:20 : update: added Nocow - Samaya Dolgaya Noch/03 - Samaya Dolgaya Noch.mp3
+Jan 10 07:20 : update: added Nocow - Samaya Dolgaya Noch/04 - Stop.mp3
+Jan 10 07:20 : update: added Nocow - Samaya Dolgaya Noch/05 - Aesthetic Mind.mp3
+Jan 10 07:22 : player: played "Vtgnike - Chutzpa/03 - DUST.mp3"
+Jan 10 07:35 : player: played "Vtgnike - Chutzpa/04 - Greh.mp3"
+Jan 10 07:39 : player: played "Vtgnike - Chutzpa/05 - Hoodik.mp3"
+Jan 10 07:42 : player: played "Vtgnike - Chutzpa/06 - Quantumleap.mp3"
+Jan 10 07:46 : player: played "Vtgnike - Chutzpa/07 - Avtoradio Rip.mp3"
+Jan 10 07:47 : update: removing 02 - Disappear.mp3
+Jan 10 07:47 : update: removing 01 - Soul Connection.mp3
+Jan 10 07:47 : update: removing 05 - Aesthetic Mind.mp3
+Jan 10 07:47 : update: removing 04 - Stop.mp3
+Jan 10 07:47 : update: removing 03 - Samaya Dolgaya Noch.mp3
+Jan 10 07:52 : player: played "Vtgnike - Chutzpa/09 - Badboy (Trippin In Bali Mix).mp3"
+Jan 10 07:56 : player: played "Vtgnike - Chutzpa/10 - Greysnow.mp3"
+Jan 10 08:00 : player: played "Vtgnike - Chutzpa/11 - Posttruth Mix.mp3"
+Jan 10 08:02 : update: added /01 - Rotar.mp3
+Jan 10 08:02 : update: added /02 - Voltool One.mp3
+Jan 10 08:02 : update: added /03 - Neptune.mp3
+Jan 10 08:02 : update: added /04 - Hue.mp3
+Jan 10 08:02 : update: added /05 - Vector.mp3
+Jan 10 08:02 : update: added /06 - Outline.mp3
+Jan 10 08:02 : update: added /07 - Undertone.mp3
+Jan 10 08:02 : update: added /08 - Flare.mp3
+Jan 10 08:02 : update: added /09 - Patchbay.mp3
+Jan 10 08:02 : update: added /10 - Landforms.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/01 - Rotar.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/02 - Voltool One.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/03 - Neptune.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/04 - Hue.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/05 - Vector.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/06 - Outline.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/07 - Undertone.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/08 - Flare.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/09 - Patchbay.mp3
+Jan 10 08:03 : update: added Mohlao - Landforms/10 - Landforms.mp3
+Jan 10 08:03 : update: removing 01 - Rotar.mp3
+Jan 10 08:03 : update: removing 07 - Undertone.mp3
+Jan 10 08:03 : update: removing 06 - Outline.mp3
+Jan 10 08:03 : update: removing 05 - Vector.mp3
+Jan 10 08:03 : update: removing 04 - Hue.mp3
+Jan 10 08:03 : update: removing 03 - Neptune.mp3
+Jan 10 08:03 : update: removing 02 - Voltool One.mp3
+Jan 10 08:03 : update: removing 10 - Landforms.mp3
+Jan 10 08:03 : update: removing 09 - Patchbay.mp3
+Jan 10 08:03 : update: removing 08 - Flare.mp3
+Jan 10 08:03 : update: added /A1 - Raining Again.mp3
+Jan 10 08:03 : update: added /A2 - Mirror (Dub).mp3
+Jan 10 08:03 : update: added /A3 - Molto Bene.mp3
+Jan 10 08:03 : update: added /B1 - Blackboard.mp3
+Jan 10 08:03 : update: added /B2 - No Need.mp3
+Jan 10 08:04 : player: played "Vtgnike - Chutzpa/12 - ищдтщш.mp3"
+Jan 10 08:04 : update: added Pender Street Steppers - Raining Again/A1 - Raining Again.mp3
+Jan 10 08:04 : update: added Pender Street Steppers - Raining Again/A2 - Mirror (Dub).mp3
+Jan 10 08:04 : update: added Pender Street Steppers - Raining Again/A3 - Molto Bene.mp3
+Jan 10 08:04 : update: added Pender Street Steppers - Raining Again/B1 - Blackboard.mp3
+Jan 10 08:04 : update: added Pender Street Steppers - Raining Again/B2 - No Need.mp3
+Jan 10 08:05 : update: removing A1 - Raining Again.mp3
+Jan 10 08:05 : update: removing B2 - No Need.mp3
+Jan 10 08:05 : update: removing B1 - Blackboard.mp3
+Jan 10 08:05 : update: removing A3 - Molto Bene.mp3
+Jan 10 08:05 : update: removing A2 - Mirror (Dub).mp3
+Jan 10 08:09 : player: played "Vtgnike - Chutzpa/13 - Poganoe Ozero.mp3"
+Jan 10 08:13 : player: played "Vtgnike - Chutzpa/14 - Gunman.mp3"
