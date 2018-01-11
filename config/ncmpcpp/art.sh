@@ -2,7 +2,7 @@
 
 #put this file to ~/.ncmpcpp/
 
-MUSIC_DIR=/home/user/Music/ #path to your music dir
+MUSIC_DIR=/home/olin/tune #path to your music dir
 
 COVER=/tmp/cover.jpg
 
@@ -20,9 +20,9 @@ function reset_background
 
     covers="$(find "$album_dir" -type d -exec find {} -maxdepth 1 -type f -iregex ".*/.*\(${album}\|cover\|folder\|artwork\|front\).*[.]\(jpe?g\|png\|gif\|bmp\)" \; )"
     src="$(echo -n "$covers" | head -n1)"
-    rm -f "$COVER" 
+    rm -f "$COVER"
     if [[ -n "$src" ]] ; then
-        #resize the image's width to 300px 
+        #resize the image's width to 300px
         convert "$src" -resize 300x "$COVER"
         if [[ -f "$COVER" ]] ; then
            #scale down the cover to 30% of the original

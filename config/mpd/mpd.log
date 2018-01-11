@@ -1020,3 +1020,75 @@ Jan 10 09:49 : exception: Failed to decode /home/olin/tune/05 - GBLFT1740069.mp3
 Jan 10 09:49 : exception: nested: Failed to open /home/olin/tune/05 - GBLFT1740069.mp3: No such file or directory
 Jan 10 09:49 : player: played "Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3"
 Jan 10 09:49 : player: played "05 - GBLFT1740069.mp3"
+Jan 10 09:54 : exception: Failed to decode /home/olin/tune/06 - GBLFT1740070.mp3
+Jan 10 09:54 : exception: nested: Failed to open /home/olin/tune/06 - GBLFT1740070.mp3: No such file or directory
+Jan 10 09:54 : player: played "Aleksi Perälä - Paradox/05 - GBLFT1740069.mp3"
+Jan 10 09:54 : player: played "06 - GBLFT1740070.mp3"
+Jan 10 11:15 : exception: Failed to decode /home/olin/tune/07 - GBLFT1740071.mp3
+Jan 10 11:15 : exception: nested: Failed to open /home/olin/tune/07 - GBLFT1740071.mp3: No such file or directory
+Jan 10 11:15 : player: played "Aleksi Perälä - Paradox/06 - GBLFT1740070.mp3"
+Jan 10 11:15 : player: played "07 - GBLFT1740071.mp3"
+Jan 10 11:20 : exception: Failed to decode /home/olin/tune/08 - GBLFT1740072.mp3
+Jan 10 11:20 : exception: nested: Failed to open /home/olin/tune/08 - GBLFT1740072.mp3: No such file or directory
+Jan 10 11:20 : player: played "Aleksi Perälä - Paradox/07 - GBLFT1740071.mp3"
+Jan 10 11:20 : player: played "08 - GBLFT1740072.mp3"
+Jan 10 11:25 : exception: Failed to decode /home/olin/tune/09 - GBLFT1740073.mp3
+Jan 10 11:25 : exception: nested: Failed to open /home/olin/tune/09 - GBLFT1740073.mp3: No such file or directory
+Jan 10 11:26 : player: played "Aleksi Perälä - Paradox/08 - GBLFT1740072.mp3"
+Jan 10 11:26 : player: played "09 - GBLFT1740073.mp3"
+Jan 10 11:26 : exception: Failed to decode /home/olin/tune/09 - GBLFT1740073.mp3
+Jan 10 11:26 : exception: nested: Failed to open /home/olin/tune/09 - GBLFT1740073.mp3: No such file or directory
+Jan 10 11:26 : player: played "09 - GBLFT1740073.mp3"
+Jan 10 11:54 : exception: Failed to decode /home/olin/tune/10 - GBLFT1740074.mp3
+Jan 10 11:54 : exception: nested: Failed to open /home/olin/tune/10 - GBLFT1740074.mp3: No such file or directory
+Jan 10 11:54 : player: played "Aleksi Perälä - Paradox/09 - GBLFT1740073.mp3"
+Jan 10 11:54 : player: played "10 - GBLFT1740074.mp3"
+Jan 10 11:54 : exception: Failed to decode /home/olin/tune/10 - GBLFT1740074.mp3
+Jan 10 11:54 : exception: nested: Failed to open /home/olin/tune/10 - GBLFT1740074.mp3: No such file or directory
+Jan 10 11:54 : player: played "10 - GBLFT1740074.mp3"
+Jan 10 12:01 : player: played "Aleksi Perälä - Paradox/10 - GBLFT1740074.mp3"
+Jan 10 12:08 : player: played "Parris - 2 Vultures/01 - Lionel's Dub.mp3"
+Jan 10 12:15 : player: played "Parris - 2 Vultures/02 - Hot-Blooded.mp3"
+Jan 10 12:19 : player: played "Parris - 2 Vultures/03 - 2 Vultures.mp3"
+Jan 10 12:25 : player: played "Parris - 2 Vultures/04 - Hanging With The Birds.mp3"
+Jan 10 12:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 12:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 12:40 : player: played "Leafar Legov - Family/A1 - Peace By Peace.mp3"
+Jan 10 14:18 : player: played "Leafar Legov - Family/A2 - Force Majeure.mp3"
+Jan 10 14:19 : player: played "Leafar Legov - Family/A3 - Family Is Everything.mp3"
+Jan 10 14:27 : player: played "Leafar Legov - Family/B1 - Our Love Is Strong.mp3"
+Jan 10 14:36 : player: played "Leafar Legov - Family/B2 - We Don't Have To Talk About It.mp3"
+Jan 10 14:39 : player: played "Vtgnike - Chutzpa/01 - Zvonok.mp3"
+Jan 10 14:44 : player: played "Vtgnike - Chutzpa/02 - Tukzar.mp3"
+Jan 10 14:47 : player: played "Vtgnike - Chutzpa/03 - DUST.mp3"
+Jan 10 14:51 : player: played "Vtgnike - Chutzpa/04 - Greh.mp3"
+Jan 10 15:09 : exception: Failed to open "PCH - ALC255 Analog" [alsa]
+Jan 10 15:09 : exception: nested: Failed to open ALSA device "hw:0,0": Device or resource busy
+Jan 10 15:22 : player: played "Vtgnike - Chutzpa/08 - Tryasina.mp3"
+Jan 10 15:25 : player: played "Vtgnike - Chutzpa/09 - Badboy (Trippin In Bali Mix).mp3"
+Jan 10 15:28 : player: played "Vtgnike - Chutzpa/10 - Greysnow.mp3"
+Jan 10 15:50 : player: played "Vtgnike - Chutzpa/12 - ищдтщш.mp3"
+Jan 10 15:55 : player: played "Vtgnike - Chutzpa/13 - Poganoe Ozero.mp3"
+Jan 10 15:59 : player: played "Vtgnike - Chutzpa/14 - Gunman.mp3"
+Jan 10 16:01 : update: added Karenn - SHEWORKS004 [24-bit Lossless FLAC]/01 Sailing Solvents.flac
+Jan 10 16:01 : update: added Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac
+Jan 10 16:01 : update: added Karenn - SHEWORKS004 [24-bit Lossless FLAC]/06 Wideyed.flac
+Jan 10 16:01 : update: added Karenn - SHEWORKS004 [24-bit Lossless FLAC]/02 Nicotine Window Netting.flac
+Jan 10 16:01 : update: added Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac
+Jan 10 16:01 : update: added Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac
+Jan 10 20:23 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 20:23 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 20:23 : player: played "01 - GBLFT1740065.mp3"
+Jan 10 20:23 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 20:23 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 20:23 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 20:23 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 10 20:23 : player: played "01 - GBLFT1740065.mp3"
+Jan 10 20:23 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 10 20:23 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 11 09:42 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac"
+Jan 11 09:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 10:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 10:09 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac"
+Jan 11 10:15 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac"
+Jan 11 10:21 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac"

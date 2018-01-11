@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: play
-current: 39
-time: 4.040000
+current: 59
+time: 4.042000
 random: 0
 repeat: 0
 single: 0
@@ -62,4 +62,14 @@ playlist_begin
 47:Aleksi Perälä - Paradox/09 - GBLFT1740073.mp3
 48:10 - GBLFT1740074.mp3
 49:Aleksi Perälä - Paradox/10 - GBLFT1740074.mp3
+50:Parris - 2 Vultures/01 - Lionel's Dub.mp3
+51:Parris - 2 Vultures/02 - Hot-Blooded.mp3
+52:Parris - 2 Vultures/03 - 2 Vultures.mp3
+53:Parris - 2 Vultures/04 - Hanging With The Birds.mp3
+54:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/01 Sailing Solvents.flac
+55:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/02 Nicotine Window Netting.flac
+56:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac
+57:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac
+58:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac
+59:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/06 Wideyed.flac
 playlist_end

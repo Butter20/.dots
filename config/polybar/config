@@ -23,7 +23,7 @@ font-2 = siji:pixelsize=10;0
 
 modules-left = i3 memory cpu 
 modules-center = mpd
-modules-right = volume date powermenu
+modules-right = volume battery date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -110,7 +110,7 @@ ws-icon-0 = 1;
 ws-icon-1 = 2;
 ws-icon-2 = 3;
 ws-icon-3 = 4;
-ws-icon-4 = 5;
+ws-icon-4 = 5;
 ws-icon-default = 
 
 ; Only show workspaces on the same output as the bar
@@ -173,10 +173,20 @@ bar-empty = ─
 bar-empty-font = 2
 bar-empty-foreground = ${colors.foreground-alt}
 
-[module/backlight-acpi]
-inherit = module/xbacklight
+[module/backlight]
 type = internal/backlight
+
 card = intel_backlight
+enable-scroll = true
+
+format = <ramp> <label>
+label = %percentage%
+
+ramp-0 = 🌕
+ramp-1 = 🌔
+ramp-2 = 🌓
+ramp-3 = 🌒
+ramp-4 = 🌑
 
 [module/cpu]
 type = internal/cpu
@@ -194,14 +204,14 @@ format-prefix-foreground = #eee9bf
 format-underline = 
 label = %percentage_used%%
 
-[module/eth]
+[module/network]
 type = internal/network
 interface = wlp2s0
 interval = 3.0
 
 format-connected-underline = 
 format-connected-prefix = "  "
-format-connected-prefix-foreground = ${colors.foreground-alt}
+format-connected-prefix-foreground = #eee9bf
 label-connected = %local_ip%
 
 format-disconnected =
@@ -238,6 +248,10 @@ label = %date% %time%
 
 [module/volume]
 type = internal/volume
+speaker-mixer = Speaker
+headphone-mixer = Headphone
+headphone-id = 18
+mapped = true
 
 format-volume = <ramp-volume>  <label-volume>
 format-muted = <label-muted>
@@ -256,27 +270,31 @@ ramp-headphones-0 = 
 type = internal/battery
 battery = BAT1
 adapter = ACAD
-full-at = 98
 
-format-charging = <animation-charging> <label-charging>
-format-charging-underline = #ffb52a
+full-at = 99
+poll-interval = 5
 
-format-discharging = <ramp-capacity> <label-discharging>
-format-discharging-underline = ${self.format-charging-underline}
+format-charging = <animation-charging>  <label-charging>
+format-discharging = <ramp-capacity>  <label-discharging>
+format-full = <ramp-capacity>  <label-full>
+label-charging = %percentage%
+label-discharging = %percentage%
+label-full = %percentage%
+format-charging-padding = 3
+format-discharging-padding = 3
+format-full-padding = 3
 
-format-full-prefix = " "
-format-full-prefix-foreground = #eee9bf
-format-full-underline = ${self.format-charging-underline}
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
 
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
-ramp-capacity-foreground = #eee9bf
-
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
-animation-charging-foreground = #eee9bf
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
 animation-charging-framerate = 750
 
 [module/temperature]
