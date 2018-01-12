@@ -6,14 +6,14 @@ export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_CACHE_HOME="$HOME/.cache"
 export XDG_DATA_HOME="$HOME/.local/share"
 export DEVEL_HOME="$HOME/.local/dev"
-export WESTON_CONFIG_FILE="/home/olin/.config/weston.ini"
+export XDG_DESKTOP_DIR="$HOME/desk/"
+export XDG_DOCUMENTS_DIR="$HOME/doc/"
+export  XDG_DOWNLOAD_DIR="$HOME/dl/"
 export LANG="en_US.UTF-8"
 export LC_CTYPE=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export XKB_DEFAULT_LAYOUT=us
 export XKB_DEFAULT_RULES=evdev
-
-PATH=$/usr/share/perl5/vendor_perl/auto/share/dist/App-Cope:$PATH
 
 export LESS=-R
 export LESS_TERMCAP_mb=$'\E[1;31m'     # begin bold

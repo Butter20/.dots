@@ -2,8 +2,8 @@ sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: play
-current: 59
-time: 4.042000
+current: 93
+time: 3.970000
 random: 0
 repeat: 0
 single: 0
@@ -72,4 +72,39 @@ playlist_begin
 57:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac
 58:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac
 59:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/06 Wideyed.flac
+60:Kilchhofer - Dersu/01 - Lefu.mp3
+61:Kilchhofer - Dersu/02 - Laar.mp3
+62:Kilchhofer - Dersu/03 - Amba.mp3
+63:Kilchhofer - Dersu/04 - Chanka.mp3
+64:Kilchhofer - Dersu/05 - Bittern.mp3
+65:Kilchhofer - Dersu/06 - Tau.mp3
+66:Kilchhofer - Dersu/07 - Klamm.mp3
+67:Laurine Frost - A Fading Virtue By Passing Time/01 - Marionette Manifesto.mp3
+68:Laurine Frost - A Fading Virtue By Passing Time/02 - Virtue.mp3
+69:Laurine Frost - A Fading Virtue By Passing Time/03 - Viburnum Opulus.mp3
+70:Mohlao - Landforms/01 - Rotar.mp3
+71:Mohlao - Landforms/02 - Voltool One.mp3
+72:Mohlao - Landforms/03 - Neptune.mp3
+73:Mohlao - Landforms/04 - Hue.mp3
+74:Mohlao - Landforms/05 - Vector.mp3
+75:Mohlao - Landforms/06 - Outline.mp3
+76:Mohlao - Landforms/07 - Undertone.mp3
+77:Mohlao - Landforms/08 - Flare.mp3
+78:Mohlao - Landforms/09 - Patchbay.mp3
+79:Mohlao - Landforms/10 - Landforms.mp3
+80:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/01 - Lapis.flac
+81:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/02 - Morphogene.flac
+82:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/03 - Angel Speak.flac
+83:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/04 - Tell U.flac
+84:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/05 - Surfed Out.flac
+85:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/06 - Do It 4 U.flac
+86:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/07 - Celestial Levels.flac
+87:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/08 - Isometrix.flac
+88:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/09 - Spectrum Sequence.flac
+89:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/10 - White Crown.flac
+90:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/11 - Ocean of Thought.flac
+91:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/12 - Etheric Body Temple.flac
+92:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac
+93:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/14 - Opalescent.flac
+94:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/15 - Colour Communicator.flac
 playlist_end

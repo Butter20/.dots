@@ -168,7 +168,6 @@ alias mfilm='cd /mnt/film'
 alias mtv='cd /mnt/tv'
 alias mani='cd /mnt/anime'
 alias zippy='cd $HOME/func/zippyshare'
-alias ova='cd /mnt/OVA'
 alias ms='cd ~/ms'
 
 # ruby
@@ -215,8 +214,9 @@ alias oldcode='lsof +c 0 | grep -w DEL | awk '1 { print $1 ": " $NF }' | sort -u
 alias modop='sudo systool -v -m'
 alias moddep='sudo modprobe --show-depends'
 alias findx='sudo find / -name'
-alias scard="aplay -l | awk -F \: '/,/{print $2}' | awk '{print $1}' | uniq"
-alias zipdl="sh zippyshare.sh"
+alias scard='aplay -l | awk -F \: '/,/{print $2}' | awk '{print $1}' | uniq'
+alias zipdl='sh zippyshare.sh'
+alias startg='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf && sudo dhcpcd wlp2s0 && sudo sysctl -p /etc/sysctl.d/99-sysctl.conf'
 
 # systemctl
 alias sc='sudo systemctl'

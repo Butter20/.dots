@@ -1092,3 +1092,93 @@ Jan 11 10:05 : exception: OutputThread could not get realtime scheduling, contin
 Jan 11 10:09 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac"
 Jan 11 10:15 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac"
 Jan 11 10:21 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac"
+Jan 11 10:27 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/06 Wideyed.flac"
+Jan 11 10:36 : player: played "Pender Street Steppers - Raining Again/A1 - Raining Again.mp3"
+Jan 11 10:41 : player: played "Pender Street Steppers - Raining Again/A2 - Mirror (Dub).mp3"
+Jan 11 10:45 : player: played "Pender Street Steppers - Raining Again/A3 - Molto Bene.mp3"
+Jan 11 11:00 : player: played "Pender Street Steppers - Raining Again/B1 - Blackboard.mp3"
+Jan 11 11:08 : player: played "Pender Street Steppers - Raining Again/B2 - No Need.mp3"
+Jan 11 11:50 : exception: Failed to decode /home/olin/tune/01 - GBLFT1740065.mp3
+Jan 11 11:50 : exception: nested: Failed to open /home/olin/tune/01 - GBLFT1740065.mp3: No such file or directory
+Jan 11 11:51 : player: played "Riccio - Heather.mp3"
+Jan 11 11:51 : player: played "01 - GBLFT1740065.mp3"
+Jan 11 11:56 : exception: Failed to decode /home/olin/tune/02 - GBLFT1740066.mp3
+Jan 11 11:56 : exception: nested: Failed to open /home/olin/tune/02 - GBLFT1740066.mp3: No such file or directory
+Jan 11 11:56 : player: played "Aleksi Perälä - Paradox/01 - GBLFT1740065.mp3"
+Jan 11 11:56 : player: played "02 - GBLFT1740066.mp3"
+Jan 11 11:59 : exception: Failed to decode /home/olin/tune/03 - GBLFT1740067.mp3
+Jan 11 11:59 : exception: nested: Failed to open /home/olin/tune/03 - GBLFT1740067.mp3: No such file or directory
+Jan 11 12:00 : player: played "Aleksi Perälä - Paradox/02 - GBLFT1740066.mp3"
+Jan 11 12:00 : player: played "03 - GBLFT1740067.mp3"
+Jan 11 12:00 : exception: Failed to decode /home/olin/tune/03 - GBLFT1740067.mp3
+Jan 11 12:00 : exception: nested: Failed to open /home/olin/tune/03 - GBLFT1740067.mp3: No such file or directory
+Jan 11 12:15 : avahi: Client Disconnected, will reconnect shortly
+Jan 11 12:15 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jan 11 12:15 : player: played "Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3"
+Jan 11 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 12:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 12:18 : exception: Failed to decode /home/olin/tune/04 - GBLFT1740068.mp3
+Jan 11 12:18 : exception: nested: Failed to open /home/olin/tune/04 - GBLFT1740068.mp3: No such file or directory
+Jan 11 12:18 : player: played "Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3"
+Jan 11 12:18 : player: played "04 - GBLFT1740068.mp3"
+Jan 11 12:23 : exception: Failed to decode /home/olin/tune/05 - GBLFT1740069.mp3
+Jan 11 12:23 : exception: nested: Failed to open /home/olin/tune/05 - GBLFT1740069.mp3: No such file or directory
+Jan 11 12:23 : player: played "Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3"
+Jan 11 12:23 : player: played "05 - GBLFT1740069.mp3"
+Jan 11 12:28 : exception: Failed to decode /home/olin/tune/06 - GBLFT1740070.mp3
+Jan 11 12:28 : exception: nested: Failed to open /home/olin/tune/06 - GBLFT1740070.mp3: No such file or directory
+Jan 11 12:28 : player: played "Aleksi Perälä - Paradox/05 - GBLFT1740069.mp3"
+Jan 11 12:28 : player: played "06 - GBLFT1740070.mp3"
+Jan 11 12:33 : exception: Failed to decode /home/olin/tune/07 - GBLFT1740071.mp3
+Jan 11 12:33 : exception: nested: Failed to open /home/olin/tune/07 - GBLFT1740071.mp3: No such file or directory
+Jan 11 12:33 : player: played "Aleksi Perälä - Paradox/06 - GBLFT1740070.mp3"
+Jan 11 12:33 : player: played "07 - GBLFT1740071.mp3"
+Jan 11 12:42 : player: played "Parris - 2 Vultures/02 - Hot-Blooded.mp3"
+Jan 11 12:46 : player: played "Parris - 2 Vultures/03 - 2 Vultures.mp3"
+Jan 11 12:55 : player: played "Parris - 2 Vultures/04 - Hanging With The Birds.mp3"
+Jan 11 13:01 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/01 Sailing Solvents.flac"
+Jan 11 13:05 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/02 Nicotine Window Netting.flac"
+Jan 11 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 13:13 : avahi: Client Disconnected, will reconnect shortly
+Jan 11 13:13 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jan 11 13:13 : player: played "Karenn - SHEWORKS004 [24-bit Lossless FLAC]/02 Nicotine Window Netting.flac"
+Jan 11 16:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 04:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 04:52 : player: played "Kilchhofer - Dersu/01 - Lefu.mp3"
+Jan 12 04:58 : player: played "Kilchhofer - Dersu/02 - Laar.mp3"
+Jan 12 05:03 : player: played "Kilchhofer - Dersu/03 - Amba.mp3"
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/14 - Opalescent.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/02 - Morphogene.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/01 - Lapis.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/03 - Angel Speak.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/04 - Tell U.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/05 - Surfed Out.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/06 - Do It 4 U.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/07 - Celestial Levels.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/08 - Isometrix.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/09 - Spectrum Sequence.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/10 - White Crown.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/11 - Ocean of Thought.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/12 - Etheric Body Temple.flac
+Jan 12 05:06 : update: added Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/15 - Colour Communicator.flac
+Jan 12 05:08 : player: played "Kilchhofer - Dersu/04 - Chanka.mp3"
+Jan 12 05:09 : update: added Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-003-No Respect.flac
+Jan 12 05:09 : update: added Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-004-Van Vogue.flac
+Jan 12 05:09 : update: added Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-002-SXLND.flac
+Jan 12 05:09 : update: added Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-001-Take Good Care.flac
+Jan 12 05:09 : update: added Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-005-DDD.flac
+Jan 12 05:17 : player: played "Kilchhofer - Dersu/05 - Bittern.mp3"
+Jan 12 05:24 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/01 - Lapis.flac"
+Jan 12 05:28 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/02 - Morphogene.flac"
+Jan 12 05:31 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/03 - Angel Speak.flac"
+Jan 12 05:35 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/04 - Tell U.flac"
+Jan 12 05:35 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/05 - Surfed Out.flac"
+Jan 12 05:39 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/06 - Do It 4 U.flac"
+Jan 12 05:42 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/07 - Celestial Levels.flac"
+Jan 12 05:45 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/08 - Isometrix.flac"
+Jan 12 05:47 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/09 - Spectrum Sequence.flac"
+Jan 12 05:51 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/10 - White Crown.flac"
+Jan 12 05:54 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/11 - Ocean of Thought.flac"
+Jan 12 05:55 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/12 - Etheric Body Temple.flac"
+Jan 12 05:58 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac"
