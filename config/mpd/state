@@ -1,9 +1,7 @@
 sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
-state: play
-current: 93
-time: 3.970000
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -107,4 +105,28 @@ playlist_begin
 92:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac
 93:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/14 - Opalescent.flac
 94:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/15 - Colour Communicator.flac
+95:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-001-Take Good Care.flac
+96:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-002-SXLND.flac
+97:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-003-No Respect.flac
+98:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-004-Van Vogue.flac
+99:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-005-DDD.flac
+100:Shlohmo - Vacation EP [FLAC]/01 - The Way U Do.flac
+101:Shlohmo - Vacation EP [FLAC]/02 - Wen uuu.flac
+102:Shlohmo - Vacation EP [FLAC]/03 - Rained The Whole Time.flac
+103:Shlohmo - Vacation EP [FLAC]/04 - The Way U Do (Airhead Remix).flac
+104:Shlohmo - Vacation EP [FLAC]/05 - Wen uuu (Salva Remix).flac
+105:Shlohmo - Vacation EP [FLAC]/06 - Rained The Whole Time (Nicolas Jaar Remix).flac
+106:Shlohmo - Vacation EP [FLAC]/07 - The Way U Do (D33J Remix).flac
+107:Shlohmo - Vacation EP [FLAC]/08 - Wen uuu (Evenings Remix).flac
+108:Crooks & Lovers (2010) [FLAC]/01 - Tunnelvision.flac
+109:Crooks & Lovers (2010) [FLAC]/02 - Would Know.flac
+110:Crooks & Lovers (2010) [FLAC]/03 - Before I Move Off.flac
+111:Crooks & Lovers (2010) [FLAC]/04 - Blind Night Errand.flac
+112:Crooks & Lovers (2010) [FLAC]/05 - Adriatic.flac
+113:Crooks & Lovers (2010) [FLAC]/06 - Carbonated.flac
+114:Crooks & Lovers (2010) [FLAC]/07 - Ruby.flac
+115:Crooks & Lovers (2010) [FLAC]/08 - Ode To Bear.flac
+116:Crooks & Lovers (2010) [FLAC]/09 - Field.flac
+117:Crooks & Lovers (2010) [FLAC]/10 - Mayor.flac
+118:Crooks & Lovers (2010) [FLAC]/11 - Between Time.flac
 playlist_end
