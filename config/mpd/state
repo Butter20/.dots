@@ -1,9 +1,9 @@
 sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
-state: pause
-current: 96
-time: 134.095000
+state: play
+current: 106
+time: 4.017000
 random: 0
 repeat: 0
 single: 0
