@@ -174,18 +174,22 @@ ramp-4 = 🌑
 [module/cpu]
 type = internal/cpu
 interval = 2
-format-prefix = "  "
+format-prefix = "  "
 ;format-prefix-foreground = #eee9bf
 format-underline = 
 label = %percentage%%
+;format-padding = 1
+label-padding = 2
 
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = "  " 
+format-prefix = "  " 
 ;format-prefix-foreground = #eee9bf
 format-underline = 
 label = %percentage_used%%
+;format-padding = 1
+label-padding = 2
 
 [module/network]
 type = internal/network
@@ -211,7 +215,7 @@ interval = 1.0
 
 ; See "man date" for details on how to format the date string
 ; NOTE: if you want to use syntax tags here you need to use %%{...}
-date = %a %b %d, 
+date = %a  %b %d, 
 
 ; Optional time format
 time = %H:%M
@@ -254,7 +258,7 @@ type = internal/battery
 battery = BAT1
 adapter = ACAD
 
-full-at = 99
+full-at = 98
 poll-interval = 5
 
 format-charging = <animation-charging>  <label-charging>

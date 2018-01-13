@@ -1260,3 +1260,25 @@ Jan 12 10:44 : player: played "Crooks & Lovers (2010) [FLAC]/08 - Ode To Bear.fl
 Jan 12 10:52 : player: played "Crooks & Lovers (2010) [FLAC]/09 - Field.flac"
 Jan 12 10:56 : player: played "Crooks & Lovers (2010) [FLAC]/10 - Mayor.flac"
 Jan 12 10:58 : player: played "Crooks & Lovers (2010) [FLAC]/11 - Between Time.flac"
+Jan 12 12:07 : player: played "Leafar Legov - Family/A1 - Peace By Peace.mp3"
+Jan 12 13:45 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/01 - Lapis.flac"
+Jan 12 13:48 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/02 - Morphogene.flac"
+Jan 12 13:52 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/03 - Angel Speak.flac"
+Jan 12 13:55 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/04 - Tell U.flac"
+Jan 12 13:56 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/05 - Surfed Out.flac"
+Jan 12 13:59 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/06 - Do It 4 U.flac"
+Jan 12 14:02 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/07 - Celestial Levels.flac"
+Jan 12 14:05 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/08 - Isometrix.flac"
+Jan 12 14:08 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/09 - Spectrum Sequence.flac"
+Jan 12 14:11 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/10 - White Crown.flac"
+Jan 12 14:14 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/11 - Ocean of Thought.flac"
+Jan 12 14:16 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/12 - Etheric Body Temple.flac"
+Jan 12 14:27 : avahi: Client Disconnected, will reconnect shortly
+Jan 12 14:27 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jan 12 14:27 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac"
+Jan 12 14:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 14:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 14:39 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac"
+Jan 12 14:42 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/14 - Opalescent.flac"
+Jan 12 14:45 : player: played "Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/15 - Colour Communicator.flac"
+Jan 12 14:46 : player: played "Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-001-Take Good Care.flac"
