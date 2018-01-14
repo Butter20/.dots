@@ -2,8 +2,8 @@ sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: play
-current: 106
-time: 4.017000
+current: 82
+time: 4.086000
 random: 0
 repeat: 0
 single: 0
@@ -42,93 +42,87 @@ playlist_begin
 27:Pender Street Steppers - Raining Again/B1 - Blackboard.mp3
 28:Pender Street Steppers - Raining Again/B2 - No Need.mp3
 29:Riccio - Heather.mp3
-30:01 - GBLFT1740065.mp3
-31:Aleksi Perälä - Paradox/01 - GBLFT1740065.mp3
-32:02 - GBLFT1740066.mp3
-33:Aleksi Perälä - Paradox/02 - GBLFT1740066.mp3
-34:03 - GBLFT1740067.mp3
-35:Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3
-36:04 - GBLFT1740068.mp3
-37:Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3
-38:05 - GBLFT1740069.mp3
-39:Aleksi Perälä - Paradox/05 - GBLFT1740069.mp3
-40:06 - GBLFT1740070.mp3
-41:Aleksi Perälä - Paradox/06 - GBLFT1740070.mp3
-42:07 - GBLFT1740071.mp3
-43:Aleksi Perälä - Paradox/07 - GBLFT1740071.mp3
-44:08 - GBLFT1740072.mp3
-45:Aleksi Perälä - Paradox/08 - GBLFT1740072.mp3
-46:09 - GBLFT1740073.mp3
-47:Aleksi Perälä - Paradox/09 - GBLFT1740073.mp3
-48:10 - GBLFT1740074.mp3
-49:Aleksi Perälä - Paradox/10 - GBLFT1740074.mp3
-50:Parris - 2 Vultures/01 - Lionel's Dub.mp3
-51:Parris - 2 Vultures/02 - Hot-Blooded.mp3
-52:Parris - 2 Vultures/03 - 2 Vultures.mp3
-53:Parris - 2 Vultures/04 - Hanging With The Birds.mp3
-54:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/01 Sailing Solvents.flac
-55:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/02 Nicotine Window Netting.flac
-56:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac
-57:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac
-58:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac
-59:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/06 Wideyed.flac
-60:Kilchhofer - Dersu/01 - Lefu.mp3
-61:Kilchhofer - Dersu/02 - Laar.mp3
-62:Kilchhofer - Dersu/03 - Amba.mp3
-63:Kilchhofer - Dersu/04 - Chanka.mp3
-64:Kilchhofer - Dersu/05 - Bittern.mp3
-65:Kilchhofer - Dersu/06 - Tau.mp3
-66:Kilchhofer - Dersu/07 - Klamm.mp3
-67:Laurine Frost - A Fading Virtue By Passing Time/01 - Marionette Manifesto.mp3
-68:Laurine Frost - A Fading Virtue By Passing Time/02 - Virtue.mp3
-69:Laurine Frost - A Fading Virtue By Passing Time/03 - Viburnum Opulus.mp3
-70:Mohlao - Landforms/01 - Rotar.mp3
-71:Mohlao - Landforms/02 - Voltool One.mp3
-72:Mohlao - Landforms/03 - Neptune.mp3
-73:Mohlao - Landforms/04 - Hue.mp3
-74:Mohlao - Landforms/05 - Vector.mp3
-75:Mohlao - Landforms/06 - Outline.mp3
-76:Mohlao - Landforms/07 - Undertone.mp3
-77:Mohlao - Landforms/08 - Flare.mp3
-78:Mohlao - Landforms/09 - Patchbay.mp3
-79:Mohlao - Landforms/10 - Landforms.mp3
-80:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/01 - Lapis.flac
-81:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/02 - Morphogene.flac
-82:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/03 - Angel Speak.flac
-83:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/04 - Tell U.flac
-84:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/05 - Surfed Out.flac
-85:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/06 - Do It 4 U.flac
-86:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/07 - Celestial Levels.flac
-87:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/08 - Isometrix.flac
-88:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/09 - Spectrum Sequence.flac
-89:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/10 - White Crown.flac
-90:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/11 - Ocean of Thought.flac
-91:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/12 - Etheric Body Temple.flac
-92:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac
-93:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/14 - Opalescent.flac
-94:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/15 - Colour Communicator.flac
-95:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-001-Take Good Care.flac
-96:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-002-SXLND.flac
-97:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-003-No Respect.flac
-98:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-004-Van Vogue.flac
-99:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-005-DDD.flac
-100:Shlohmo - Vacation EP [FLAC]/01 - The Way U Do.flac
-101:Shlohmo - Vacation EP [FLAC]/02 - Wen uuu.flac
-102:Shlohmo - Vacation EP [FLAC]/03 - Rained The Whole Time.flac
-103:Shlohmo - Vacation EP [FLAC]/04 - The Way U Do (Airhead Remix).flac
-104:Shlohmo - Vacation EP [FLAC]/05 - Wen uuu (Salva Remix).flac
-105:Shlohmo - Vacation EP [FLAC]/06 - Rained The Whole Time (Nicolas Jaar Remix).flac
-106:Shlohmo - Vacation EP [FLAC]/07 - The Way U Do (D33J Remix).flac
-107:Shlohmo - Vacation EP [FLAC]/08 - Wen uuu (Evenings Remix).flac
-108:Crooks & Lovers (2010) [FLAC]/01 - Tunnelvision.flac
-109:Crooks & Lovers (2010) [FLAC]/02 - Would Know.flac
-110:Crooks & Lovers (2010) [FLAC]/03 - Before I Move Off.flac
-111:Crooks & Lovers (2010) [FLAC]/04 - Blind Night Errand.flac
-112:Crooks & Lovers (2010) [FLAC]/05 - Adriatic.flac
-113:Crooks & Lovers (2010) [FLAC]/06 - Carbonated.flac
-114:Crooks & Lovers (2010) [FLAC]/07 - Ruby.flac
-115:Crooks & Lovers (2010) [FLAC]/08 - Ode To Bear.flac
-116:Crooks & Lovers (2010) [FLAC]/09 - Field.flac
-117:Crooks & Lovers (2010) [FLAC]/10 - Mayor.flac
-118:Crooks & Lovers (2010) [FLAC]/11 - Between Time.flac
+30:Aleksi Perälä - Paradox/01 - GBLFT1740065.mp3
+31:Aleksi Perälä - Paradox/02 - GBLFT1740066.mp3
+32:Aleksi Perälä - Paradox/03 - GBLFT1740067.mp3
+33:Aleksi Perälä - Paradox/04 - GBLFT1740068.mp3
+34:Aleksi Perälä - Paradox/05 - GBLFT1740069.mp3
+35:Aleksi Perälä - Paradox/06 - GBLFT1740070.mp3
+36:Aleksi Perälä - Paradox/07 - GBLFT1740071.mp3
+37:Aleksi Perälä - Paradox/08 - GBLFT1740072.mp3
+38:Aleksi Perälä - Paradox/09 - GBLFT1740073.mp3
+39:Aleksi Perälä - Paradox/10 - GBLFT1740074.mp3
+40:Parris - 2 Vultures/01 - Lionel's Dub.mp3
+41:Parris - 2 Vultures/02 - Hot-Blooded.mp3
+42:Parris - 2 Vultures/03 - 2 Vultures.mp3
+43:Parris - 2 Vultures/04 - Hanging With The Birds.mp3
+44:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/01 Sailing Solvents.flac
+45:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/02 Nicotine Window Netting.flac
+46:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/03 A Room Full Of Fuck All.flac
+47:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/04 Clean It Up.flac
+48:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/05 Lifesbleach.flac
+49:Karenn - SHEWORKS004 [24-bit Lossless FLAC]/06 Wideyed.flac
+50:Kilchhofer - Dersu/01 - Lefu.mp3
+51:Kilchhofer - Dersu/02 - Laar.mp3
+52:Kilchhofer - Dersu/03 - Amba.mp3
+53:Kilchhofer - Dersu/04 - Chanka.mp3
+54:Kilchhofer - Dersu/05 - Bittern.mp3
+55:Kilchhofer - Dersu/06 - Tau.mp3
+56:Kilchhofer - Dersu/07 - Klamm.mp3
+57:Laurine Frost - A Fading Virtue By Passing Time/01 - Marionette Manifesto.mp3
+58:Laurine Frost - A Fading Virtue By Passing Time/02 - Virtue.mp3
+59:Laurine Frost - A Fading Virtue By Passing Time/03 - Viburnum Opulus.mp3
+60:Mohlao - Landforms/01 - Rotar.mp3
+61:Mohlao - Landforms/02 - Voltool One.mp3
+62:Mohlao - Landforms/03 - Neptune.mp3
+63:Mohlao - Landforms/04 - Hue.mp3
+64:Mohlao - Landforms/05 - Vector.mp3
+65:Mohlao - Landforms/06 - Outline.mp3
+66:Mohlao - Landforms/07 - Undertone.mp3
+67:Mohlao - Landforms/08 - Flare.mp3
+68:Mohlao - Landforms/09 - Patchbay.mp3
+69:Mohlao - Landforms/10 - Landforms.mp3
+70:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/01 - Lapis.flac
+71:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/02 - Morphogene.flac
+72:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/03 - Angel Speak.flac
+73:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/04 - Tell U.flac
+74:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/05 - Surfed Out.flac
+75:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/06 - Do It 4 U.flac
+76:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/07 - Celestial Levels.flac
+77:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/08 - Isometrix.flac
+78:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/09 - Spectrum Sequence.flac
+79:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/10 - White Crown.flac
+80:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/11 - Ocean of Thought.flac
+81:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/12 - Etheric Body Temple.flac
+82:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/13 - Dos Puertas.flac
+83:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/14 - Opalescent.flac
+84:Machinedrum - Human Energy (2016-09-30) [CD FLAC] {ZENCD232}/15 - Colour Communicator.flac
+85:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-001-Take Good Care.flac
+86:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-002-SXLND.flac
+87:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-003-No Respect.flac
+88:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-004-Van Vogue.flac
+89:Machinedrum - SXLND (LM011)/Machinedrum -SXLND EP-005-DDD.flac
+90:Shlohmo - Vacation EP [FLAC]/01 - The Way U Do.flac
+91:Shlohmo - Vacation EP [FLAC]/02 - Wen uuu.flac
+92:Shlohmo - Vacation EP [FLAC]/03 - Rained The Whole Time.flac
+93:Shlohmo - Vacation EP [FLAC]/04 - The Way U Do (Airhead Remix).flac
+94:Shlohmo - Vacation EP [FLAC]/05 - Wen uuu (Salva Remix).flac
+95:Shlohmo - Vacation EP [FLAC]/06 - Rained The Whole Time (Nicolas Jaar Remix).flac
+96:Shlohmo - Vacation EP [FLAC]/07 - The Way U Do (D33J Remix).flac
+97:Shlohmo - Vacation EP [FLAC]/08 - Wen uuu (Evenings Remix).flac
+98:Crooks & Lovers (2010) [FLAC]/01 - Tunnelvision.flac
+99:Crooks & Lovers (2010) [FLAC]/02 - Would Know.flac
+100:Crooks & Lovers (2010) [FLAC]/03 - Before I Move Off.flac
+101:Crooks & Lovers (2010) [FLAC]/04 - Blind Night Errand.flac
+102:Crooks & Lovers (2010) [FLAC]/05 - Adriatic.flac
+103:Crooks & Lovers (2010) [FLAC]/06 - Carbonated.flac
+104:Crooks & Lovers (2010) [FLAC]/07 - Ruby.flac
+105:Crooks & Lovers (2010) [FLAC]/08 - Ode To Bear.flac
+106:Crooks & Lovers (2010) [FLAC]/09 - Field.flac
+107:Crooks & Lovers (2010) [FLAC]/10 - Mayor.flac
+108:Crooks & Lovers (2010) [FLAC]/11 - Between Time.flac
+109:Persian - Wasted Away/01 - We Should Shout.mp3
+110:Persian - Wasted Away/02 - We Should Shout (FIT Siegel Remix).mp3
+111:Persian - Wasted Away/03 - Morning Sun.mp3
+112:Persian - Wasted Away/04 - Morning Sun (DJ Normal 4 Remix).mp3
 playlist_end

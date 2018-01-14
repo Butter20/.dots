@@ -65,13 +65,14 @@ label-indicator-underline = ${colors.secondary}
 [module/filesystem]
 type = internal/fs
 interval = 25
-mount-0 = /mnt/Data
-mount-1 = /mnt/Media
-mount-2 = /mnt/Media2
+mount-0 = /
+mount-1 = /mnt
+;mount-2 = /mnt/tmp
 
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
+label-mount-0 = '' %free%
+label-mount-1 = '' %free%
 label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.foreground-alt}
+;label-unmounted-foreground = 
 
 [module/bspwm]
 type = internal/bspwm
@@ -184,7 +185,7 @@ label-padding = 2
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = "  " 
+format-prefix = "  " 
 ;format-prefix-foreground = #eee9bf
 format-underline = 
 label = %percentage_used%%
