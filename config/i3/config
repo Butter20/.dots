@@ -150,7 +150,7 @@ Mode "resize" {
 
 # Gaps:
 
-gaps inner 10
+gaps inner 15
 gaps outer 15
 
 # Window Rules

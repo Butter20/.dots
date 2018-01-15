@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 96
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: play
-current: 82
-time: 4.086000
+current: 24
+time: 261.967000
 random: 0
 repeat: 0
 single: 0
@@ -125,4 +125,23 @@ playlist_begin
 110:Persian - Wasted Away/02 - We Should Shout (FIT Siegel Remix).mp3
 111:Persian - Wasted Away/03 - Morning Sun.mp3
 112:Persian - Wasted Away/04 - Morning Sun (DJ Normal 4 Remix).mp3
+113:SOPHIE - PRODUCT (2015) [FLAC]/01 - Bipp.flac
+114:SOPHIE - PRODUCT (2015) [FLAC]/02 - Elle.flac
+115:SOPHIE - PRODUCT (2015) [FLAC]/03 - Lemonade.flac
+116:SOPHIE - PRODUCT (2015) [FLAC]/04 - Hard.flac
+117:SOPHIE - PRODUCT (2015) [FLAC]/05 - MSMSMSM.flac
+118:SOPHIE - PRODUCT (2015) [FLAC]/06 - Vyzee.flac
+119:SOPHIE - PRODUCT (2015) [FLAC]/07 - L.O.V.E..flac
+120:SOPHIE - PRODUCT (2015) [FLAC]/08 - Just Like We Never Said Goodbye.flac
+121:2014 - Brain Wash/01. Drift (Feat. Veronica So).flac
+122:2014 - Brain Wash/02. Need U.flac
+123:2014 - Brain Wash/03. True Love Fantasy (Feat. Talk to Animals).flac
+124:2014 - Brain Wash/04. Hydrate.flac
+125:2014 - Brain Wash/05. I Remember (Feat. Nicholas Petricca).flac
+126:2014 - Brain Wash/06. Hey Hey (Feat. Nick Littlemore).flac
+127:2014 - Brain Wash/07. Feels So Real.flac
+128:2014 - Brain Wash/08. Boys of Paradise.flac
+129:2014 - Brain Wash/09. Just Don't Open Your Eyes Yet (Unicorn Kid Vs. Polarsets).flac
+130:2014 - Brain Wash/10. Pure Space.flac
+131:2014 - Brain Wash/11. Feel the Vibes.flac
 playlist_end
