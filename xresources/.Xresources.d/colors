@@ -42,9 +42,3 @@ URxvt*borderColor:  #171014
 *.color7:       #caacb6
 *.color15:      #caacb6
 
-! Rofi colors.
-rofi.color-window: #171014, #171014, #D04A2E
-rofi.color-normal: #171014, #CAACB6, #171014, #D04A2E, #171014
-rofi.color-active: #171014, #CAACB6, #171014, #D04A2E, #171014
-rofi.color-urgent: #171014, #523946, #171014, #523946, #CAACB6
-

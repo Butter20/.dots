@@ -2,8 +2,8 @@ sw_volume: 96
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: play
-current: 24
-time: 261.967000
+current: 142
+time: 4.109000
 random: 0
 repeat: 0
 single: 0
@@ -144,4 +144,20 @@ playlist_begin
 129:2014 - Brain Wash/09. Just Don't Open Your Eyes Yet (Unicorn Kid Vs. Polarsets).flac
 130:2014 - Brain Wash/10. Pure Space.flac
 131:2014 - Brain Wash/11. Feel the Vibes.flac
+132:Cate - Heavy Breathing (2015)/01 Breakup.mp3
+133:Cate - Heavy Breathing (2015)/02 The Lost Tape.mp3
+134:Cate - Heavy Breathing (2015)/03 Doges In Costumes.mp3
+135:Cate - Heavy Breathing (2015)/04 Bubble Soda.mp3
+136:Seishun Uta Nenkan '89 Best 30 青春歌年鑑 [V0]/[Disc 1]/03 淋しい熱帯魚.mp3
+137:Seishun Uta Nenkan '89 Best 30 青春歌年鑑 [V0]/[Disc 2]/06 愛が止まらない.mp3
+138:10 Palettes/01 Jane, who do you love_.mp3
+139:10 Palettes/02 Placebo Reactor.mp3
+140:10 Palettes/03 Birth.mp3
+141:10 Palettes/04 Pinkdelight.mp3
+142:10 Palettes/05 Die Kleine Ewigkeit.mp3
+143:10 Palettes/06 Tambourine.mp3
+144:10 Palettes/07 It's So Different Here.mp3
+145:10 Palettes/08 Two too White Cukoos.mp3
+146:10 Palettes/09 Miracle Play (on Christmas).mp3
+147:10 Palettes/10 Song of Things Dreamed.mp3
 playlist_end

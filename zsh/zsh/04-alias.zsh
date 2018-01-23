@@ -220,6 +220,7 @@ alias findx='sudo find / -name'
 alias scard='aplay -l | awk -F \: '/,/{print $2}' | awk '{print $1}' | uniq'
 alias zipdl='sh zippyshare.sh'
 alias startg='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-grands.conf && sudo dhcpcd wlp2s0 && sudo sysctl -p /etc/sysctl.d/99-sysctl.conf'
+alias startm='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-moms.conf && sudo dhcpcd wlp2s0 && sudo sysctl -p /etc/sysctl.d/99-sysctl.conf'
 alias xrandrh='xrandr --output HDMI1 --auto'
 
 # systemctl

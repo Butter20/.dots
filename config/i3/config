@@ -32,6 +32,7 @@ bindsym Mod1+Ctrl+r exec urxvt -e ranger
 bindsym Mod1+n exec urxvt -e vim
 bindsym Mod1+Ctrl+d exec qbittorrent
 bindsym Mod1+Ctrl+l exec betterlockscreen -l
+bindsym Mod1+Ctrl+f exec flameshot full -p ~/pic/walls
 
 #=# focus #=#
 bindsym Mod1+$left focus left
@@ -150,7 +151,7 @@ Mode "resize" {
 
 # Gaps:
 
-gaps inner 15
+gaps inner 20
 gaps outer 15
 
 # Window Rules
