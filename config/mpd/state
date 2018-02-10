@@ -1,9 +1,9 @@
-sw_volume: 96
+sw_volume: 98
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
-state: play
-current: 142
-time: 4.109000
+state: pause
+current: 103
+time: 232.547000
 random: 0
 repeat: 0
 single: 0
@@ -160,4 +160,63 @@ playlist_begin
 145:10 Palettes/08 Two too White Cukoos.mp3
 146:10 Palettes/09 Miracle Play (on Christmas).mp3
 147:10 Palettes/10 Song of Things Dreamed.mp3
+148:Takuya Matsumoto - Drafting Under the Stars (2010) [320]/01 Drafting Under the Stars (Origina.mp3
+149:Takuya Matsumoto - Drafting Under the Stars (2010) [320]/02 Transit Oasis Point (Original Mix.mp3
+150:Takuya Matsumoto - Drafting Under the Stars (2010) [320]/03 Jump Rope Music (Original Mix).mp3
+151:Kouji Nagahashi & Takuya Matsumoto - GOSHIKI [2013]/02. Takuya Matsumoto - The Another River Nile.flac
+152:Kouji Nagahashi & Takuya Matsumoto - GOSHIKI [2013]/04. Takuya Matsumoto - Autumn Park Session.flac
+153:Kouji Nagahashi & Takuya Matsumoto - GOSHIKI [2013]/01. Kouji Nagahashi - Mokoze.flac
+154:Kouji Nagahashi & Takuya Matsumoto - GOSHIKI [2013]/03. Kouji Nagahashi - RB -Last Waltz Sansiro-.flac
+155:Kouji Nagahashi & Takuya Matsumoto - GOSHIKI [2013]/05. Kouji Nagahashi - Doregaborn.flac
+156:Chihei Hatakeyama - Far From The Atmosphere/01 - Far From The Atmosphere.mp3
+157:Chihei Hatakeyama - Far From The Atmosphere/02 - Far From The Atmosphere II.mp3
+158:Chihei Hatakeyama - Far From The Atmosphere/03 - Far From The Atmosphere III.mp3
+159:Chihei Hatakeyama - Far From The Atmosphere/04 - Far From The Atmosphere IV.mp3
+160:Fuji Network System - High Ground/01 パワーポイント.mp3
+161:Fuji Network System - High Ground/02 高台.mp3
+162:Fuji Network System - High Ground/03 聖体拝領.mp3
+163:Fuji Network System - High Ground/04 48時間.mp3
+164:Fuji Network System - High Ground/05 クリスタルの洞窟.mp3
+165:Fuji Network System - High Ground/06 配偶者.mp3
+166:Fuji Network System - High Ground/07 風に乗って囁き.mp3
+167:2016 - Places Of Colours EP (FINA020) [WEB FLAC]/Takuya Matsumoto - Takuya Matsumoto - Places Of Colours EP (FINA020) - 01 Seasons.flac
+168:2016 - Places Of Colours EP (FINA020) [WEB FLAC]/Takuya Matsumoto - Takuya Matsumoto - Places Of Colours EP (FINA020) - 02 Coco.flac
+169:2016 - Places Of Colours EP (FINA020) [WEB FLAC]/Takuya Matsumoto - Takuya Matsumoto - Places Of Colours EP (FINA020) - 03 Souvenir.flac
+170:2016 - Places Of Colours EP (FINA020) [WEB FLAC]/Takuya Matsumoto - Takuya Matsumoto - Places Of Colours EP (FINA020) - 04 Filo.flac
+171:Botanic House Vol. 1 - Arecaceae/01 Mission Beach.mp3
+172:Botanic House Vol. 1 - Arecaceae/02 Saké Soleil.mp3
+173:Botanic House Vol. 1 - Arecaceae/03 Organic Matter.mp3
+174:Botanic House Vol. 1 - Arecaceae/04 Demasiado Tarde.mp3
+175:Botanic House Vol. 1 - Arecaceae/05 Metabolic Rift.mp3
+176:Botanic House Vol. 1 - Arecaceae/06 Sometimes I Hear Sirens.mp3
+177:ちゃんみな - 未成年 [AAC 320]/01 未成年 Feat. めっし (NEW MIX).m4a
+178:ちゃんみな - 未成年 [AAC 320]/02 FXXXER.m4a
+179:ちゃんみな - 未成年 [AAC 320]/03 BEST BOY FRIEND.m4a
+180:ちゃんみな - 未成年 [AAC 320]/04 She's Gone.m4a
+181:ちゃんみな - 未成年 [AAC 320]/05 LADY.m4a
+182:ちゃんみな - 未成年 [AAC 320]/06 ナニモコワクナイ.m4a
+183:ちゃんみな - 未成年 [AAC 320]/07 Princess (NEW MIX).m4a
+184:ちゃんみな - 未成年 [AAC 320]/08 Wonderland.m4a
+185:ちゃんみな - 未成年 [AAC 320]/09 OVER.m4a
+186:ちゃんみな - 未成年 [AAC 320]/10 UR like ME.m4a
+187:ちゃんみな - 未成年 [AAC 320]/11 ダイキライ Feat. ちゃんみな _ TeddyLoid.m4a
+188:Takuya Matsumoto - EKR's Galactic Dance (2014) [320]/01 EKR's Galactic Dance Part 1.mp3
+189:Takuya Matsumoto - EKR's Galactic Dance (2014) [320]/02 EKR's Galactic Dance Part 2.mp3
+190:Takuya Matsumoto - EKR's Galactic Dance (2014) [320]/03 The Sun On The Refugees.mp3
+191:Takuya Matsumoto - EKR's Galactic Dance (2014) [320]/04 Satellite Orbit Funk.mp3
+192:So Inagawa - Airier EP CABARET014 Vinyl FLAC/01. So Inagawa - Airier.flac
+193:So Inagawa - Airier EP CABARET014 Vinyl FLAC/02. So Inagawa - Petrichor.flac
+194:So Inagawa - Airier EP CABARET014 Vinyl FLAC/03. So Inagawa - Head Over The Clouds.flac
+195:Fumiya Tanaka - You Find The Key [FLAC]/01. Munique Uncertain.flac
+196:Fumiya Tanaka - You Find The Key [FLAC]/02. Got To See You.flac
+197:Fumiya Tanaka - You Find The Key [FLAC]/03. Find The Key 2012.flac
+198:Fumiya Tanaka - You Find The Key [FLAC]/04. Swallowed Memory.flac
+199:Fumiya Tanaka - You Find The Key [FLAC]/05. The Mysterious Pocket Is Right.flac
+200:Fumiya Tanaka - You Find The Key [FLAC]/06. The Only Your Researching.flac
+201:Fumiya Tanaka - You Find The Key [FLAC]/07. Cinematicorc.flac
+202:Fumiya Tanaka - You Find The Key [FLAC]/08. Love Keep Mapping The Head.flac
+203:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (A1) One Sparkle.mp3
+204:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (A2) Go Out.mp3
+205:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (B1) In The Darkness.mp3
+206:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (B2) Pitch Black.mp3
 playlist_end

@@ -1,8 +1,7 @@
 #=# i3 (Sway) config file (v4) #=#
 
 exec_always --no-startup-id xrdb -merge ~/.Xresources
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec xautolock -time 5 -locker 'betterlockscreen -l' 
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh 
 
 font pango:LiterationMonoPowerline Nerd Font 9
 
