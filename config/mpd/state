@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: pause
-current: 103
-time: 232.547000
+current: 154
+time: 22.871000
 random: 0
 repeat: 0
 single: 0
@@ -219,4 +219,118 @@ playlist_begin
 204:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (A2) Go Out.mp3
 205:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (B1) In The Darkness.mp3
 206:(trmjpn020) Fumiya Tanaka - Midnight EP (aug1997)/Fumiya Tanaka - Midnight (B2) Pitch Black.mp3
+207:Kuniyuki Takahashi - Newwave Project/01 - Steam.mp3
+208:Kuniyuki Takahashi - Newwave Project/02 - Cycle.mp3
+209:Kuniyuki Takahashi - Newwave Project/03 - Newwave Project #2 (Album Edit).mp3
+210:Kuniyuki Takahashi - Newwave Project/04 - Blue Neon.mp3
+211:Kuniyuki Takahashi - Newwave Project/05 - Mind Madness.mp3
+212:Kuniyuki Takahashi - Newwave Project/06 - Opposite Meaning.mp3
+213:Kuniyuki Takahashi - Newwave Project/07 - Puzzle.mp3
+214:Kuniyuki Takahashi - Newwave Project/08 - Newwave Project #11 (Album Edit).mp3
+215:Kuniyuki Takahashi - Newwave Project/09 - Newwave Project #9.mp3
+216:Kuniyuki Takahashi - Newwave Project/10 - Body Signal.mp3
+217:Kuniyuki Takahashi - Newwave Project/11 - Machine Jungle.mp3
+218:Kuniyuki Takahashi - Newwave Project/12 - Newwave Project #7.mp3
+219:Rrose & Lucy - The Lotus Eaters II/01 - Inner Membrane.mp3
+220:Rrose & Lucy - The Lotus Eaters II/02 - Inverted Limb.mp3
+221:Rrose & Lucy - The Lotus Eaters II/03 - Seeds Of Discontent.mp3
+222:Yoshinori Hayashi - Uncountable Set/01 - Palanquin Bearing Monkey .mp3
+223:Yoshinori Hayashi - Uncountable Set/02 - Stepping On Dewdrops .mp3
+224:Yoshinori Hayashi - Uncountable Set/03 - Pneuma.mp3
+225:Yoshinori Hayashi - Uncountable Set/04 - Chember .mp3
+226:Yves De Mey - Bleak Comfort/01 - Gruen.mp3
+227:Yves De Mey - Bleak Comfort/02 - Mika.mp3
+228:Yves De Mey - Bleak Comfort/03 - Vecto.mp3
+229:Yves De Mey - Bleak Comfort/04 - Bleak Comfort.mp3
+230:Yves De Mey - Bleak Comfort/05 - 17 Graves.mp3
+231:Yves De Mey - Bleak Comfort/06 - Stale.mp3
+232:Yves De Mey - Bleak Comfort/07 - Wearing Off.mp3
+233:Yves De Mey - Bleak Comfort/08 - Contrary Unto Them.mp3
+234:2814 - Pillar New Sun/A1 - Pillar.mp3
+235:2814 - Pillar New Sun/B1 - New Sun.mp3
+236:Secret Guest - Live at Planet Uterus/Secret Guest - Live at Planet Uterus.flac
+237:Erkiu - Shiro/01. Erkiu - Yra.mp3
+238:Erkiu - Shiro/02. Erkiu - Confessions Of A Fellow Citizen.mp3
+239:Erkiu - Shiro/03. Erkiu - Hollow Idol.mp3
+240:Erkiu - Shiro/04. Erkiu - The Vow Of Retaliation.mp3
+241:Nord Label - Fjords/01 Clearlight & Owl - Fjords - White Mountain.mp3
+242:Nord Label - Fjords/02 Owl - Fjords - Rhea Calling.mp3
+243:Nord Label - Fjords/03 Acid_Lab - Fjords - Drown.mp3
+244:Nord Label - Fjords/04 ILL_K - Fjords - Windspiel.mp3
+245:Nord Label - Fjords/05 Dailiv - Fjords - Signal From Space.mp3
+246:Nord Label - Fjords/06 Blanca & DYL - Fjords - Aft.mp3
+247:Nord Label - Fjords/07 Ahmad & Taucher - Fjords - Tyr.mp3
+248:Nord Label - Fjords/08 Broken Promise feat. Chet Matuto - Fjords - Catapult.mp3
+249:Nord Label - Fjords/09 Hysee - Fjords - Transmission Shaft.mp3
+250:MTv - Hollywood #1/01 - Snow Ball.mp3
+251:MTv - Hollywood #1/02 - Smart Ball.mp3
+252:MTv - Hollywood #1/03 - Smooth Motion.mp3
+253:MTv - Hollywood #1/04 - Look Back Motion.mp3
+254:Kiki Gyan - Feelin' Alright/01 - Rosemary.mp3
+255:Kiki Gyan - Feelin' Alright/02 - Give It To Me.mp3
+256:Kiki Gyan - Feelin' Alright/03 - Feelin' Alright.mp3
+257:Kiki Gyan - Feelin' Alright/04 - Too Much.mp3
+258:Kiki Gyan - Feelin' Alright/05 - Love To Love You.mp3
+259:Kiki Gyan - Feelin' Alright/06 - You.mp3
+260:Kiki Gyan - Feelin' Alright/07 - Ain't No Use.mp3
+261:Kiki Gyan - Feelin' Alright/08 - Daily Prayer.mp3
+262:Perseus - Russian Girlfriends/Perseus - Cool Runnings.mp3
+263:Perseus - Russian Girlfriends/Perseus - Russian Girlfriends.mp3
+264:Perseus - Russian Girlfriends/Perseus - Running Back To You.mp3
+265:Beno B - Japonserie/01. Tokyo Hi Life.mp3
+266:Beno B - Japonserie/02. Compassion and Release.mp3
+267:Beno B - Japonserie/03. Far Distant Star System.mp3
+268:Beno B - Japonserie/04. 100 Echoes.mp3
+269:Beno B - Japonserie/05. Les pays exterieurs.mp3
+270:Beno B - Japonserie/06. Electric Town.mp3
+271:Beno B - Japonserie/07. Wet Cellophane.mp3
+272:Anna Lunoe - Real Talk EP (2012) [WEB FLAC]/01 Real Talk (Original Mix).flac
+273:Anna Lunoe - Real Talk EP (2012) [WEB FLAC]/04 I Met You (Late Nite Tuff Guy Disco Dub).flac
+274:Anna Lunoe - Real Talk EP (2012) [WEB FLAC]/02 I Met You (Original Mix).flac
+275:Anna Lunoe - Real Talk EP (2012) [WEB FLAC]/03 I Met You (DJ HMC Dirty House Dub).flac
+276:Future Classic - Future Classic DJs Compilation - Vinyl Sampler/Future Classic - Future Classic DJs Compilation - Vinyl Sampler - 01 Zone.flac
+277:Future Classic - Future Classic DJs Compilation - Vinyl Sampler/Future Classic - Future Classic DJs Compilation - Vinyl Sampler - 02 Changed (DJ T Remix).flac
+278:Future Classic - Future Classic DJs Compilation - Vinyl Sampler/Future Classic - Future Classic DJs Compilation - Vinyl Sampler - 03 New Life (Perseus Future Classic Edit).flac
+279:Future Classic - Future Classic DJs Compilation - Vinyl Sampler/Future Classic - Future Classic DJs Compilation - Vinyl Sampler - 04 Hey! (Soul Clap Remix).flac
+280:Chris Malinchak/01 Make Your Move.m4a
+281:Chris Malinchak/02 Another Day.m4a
+282:Chris Malinchak/01 No Secrets (ft. Damon C. Scott).m4a
+283:Chris Malinchak/02 Accolade.m4a
+284:Chris Malinchak/03 Razor.m4a
+285:Chris Malinchak/Can't Stop Loving You (Original Mix).mp3
+286:Chris Malinchak/Satisfied (Original Mix).mp3
+287:Chris Malinchak/Talk About It (Original Mix).mp3
+288:Chris Malinchak/The Fourth (Original Mix).mp3
+289:01 Swag Surf.mp3
+290:Lil Wayne - No Ceilings/01 Swag Surf.mp3
+291:Lil Wayne - No Ceilings/02 Ice Cream.mp3
+292:01 Swag Surf.mp3
+293:Lil Wayne - No Ceilings/01 Swag Surf.mp3
+294:02 Ice Cream.mp3
+295:Lil Wayne - No Ceilings/02 Ice Cream.mp3
+296:Lil Wayne - No Ceilings/03 D.O.A..mp3
+297:03 D.O.A..mp3
+298:Lil Wayne - No Ceilings/05 Wasted.mp3
+299:05 Wasted.mp3
+300:06 Watch My Shoes.mp3
+301:Lil Wayne - No Ceilings/06 Watch My Shoes.mp3
+302:08 Banned From TV.mp3
+303:Lil Wayne - No Ceilings/08 Banned From TV.mp3
+304:09 Throw It In The Bag.mp3
+305:Lil Wayne - No Ceilings/09 Throw It In The Bag.mp3
+306:15 Run This Town.mp3
+307:Lil Wayne - No Ceilings/15 Run This Town.mp3
+308:16 I Got No Ceilings.mp3
+309:Lil Wayne - No Ceilings/16 I Got No Ceilings.mp3
+310:17 Skit End.mp3
+311:Lil Wayne - No Ceilings/17 Skit End.mp3
+312:19 Oh Let's Do It.mp3
+313:Lil Wayne - No Ceilings/19 Oh Let's Do It.mp3
+314:20 Single.mp3
+315:Lil Wayne - No Ceilings/20 Single.mp3
+316:Lil Wayne - No Ceilings/21 Sweet Dreams.mp3
+317:[2011] The Sky Is Filled With Incredible Wishes/01-01 Auditorium.flac
+318:[2011] The Sky Is Filled With Incredible Wishes/01-02 Minted Waters.flac
+319:[2011] The Sky Is Filled With Incredible Wishes/01-03 Saints Of The Capital.flac
+320:[2011] The Sky Is Filled With Incredible Wishes/01-04 The Capital.flac
 playlist_end
