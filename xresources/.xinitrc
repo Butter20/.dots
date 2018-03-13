@@ -13,7 +13,7 @@ export I3_CONFIG_DIR="$HOME/.config/i3"
 xrdb -load ~/.Xresources &
 
 # background
-feh --bg-fill /home/olin/pic/walls/anime-28228.jpg &
+xwinwrap -ov -ni -fs -- mpv -vo x11 -wid WID --keepaspect=no --loop /home/olin/pic/gif/9WgJg0G.gif &
 
 # hide mouse coursor when it isn't used
 unclutter -root -visible &
