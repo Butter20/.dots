@@ -2,11 +2,11 @@
 !                        URxvt settings 
 !-----------------------------------------------------------------------
 
-URxvt.internalBorder:    30
-!URxvt.externalBorder:    15
+URxvt.internalBorder:    0
+!URxvt.externalBorder:   15
 !URxvt.lineSpace:        0
-!urxvt*shading:          30
 URxvt.depth:             32
+URxvt.background:        rgba:1111/1111/1111/dddd
 URxvt.saveLines:         10000
 URxvt*geometry:          96x30
 URxvt*terminalName:      rxvt-unicode-256color

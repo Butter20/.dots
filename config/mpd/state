@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: pause
-current: 281
-time: 350.934000
+current: 307
+time: 455.807000
 random: 0
 repeat: 0
 single: 0
@@ -301,36 +301,55 @@ playlist_begin
 286:Chris Malinchak/Satisfied (Original Mix).mp3
 287:Chris Malinchak/Talk About It (Original Mix).mp3
 288:Chris Malinchak/The Fourth (Original Mix).mp3
-289:01 Swag Surf.mp3
-290:Lil Wayne - No Ceilings/01 Swag Surf.mp3
-291:Lil Wayne - No Ceilings/02 Ice Cream.mp3
-292:01 Swag Surf.mp3
-293:Lil Wayne - No Ceilings/01 Swag Surf.mp3
-294:02 Ice Cream.mp3
-295:Lil Wayne - No Ceilings/02 Ice Cream.mp3
-296:Lil Wayne - No Ceilings/03 D.O.A..mp3
-297:03 D.O.A..mp3
-298:Lil Wayne - No Ceilings/05 Wasted.mp3
-299:05 Wasted.mp3
-300:06 Watch My Shoes.mp3
-301:Lil Wayne - No Ceilings/06 Watch My Shoes.mp3
-302:08 Banned From TV.mp3
-303:Lil Wayne - No Ceilings/08 Banned From TV.mp3
-304:09 Throw It In The Bag.mp3
-305:Lil Wayne - No Ceilings/09 Throw It In The Bag.mp3
-306:15 Run This Town.mp3
-307:Lil Wayne - No Ceilings/15 Run This Town.mp3
-308:16 I Got No Ceilings.mp3
-309:Lil Wayne - No Ceilings/16 I Got No Ceilings.mp3
-310:17 Skit End.mp3
-311:Lil Wayne - No Ceilings/17 Skit End.mp3
-312:19 Oh Let's Do It.mp3
-313:Lil Wayne - No Ceilings/19 Oh Let's Do It.mp3
-314:20 Single.mp3
-315:Lil Wayne - No Ceilings/20 Single.mp3
-316:Lil Wayne - No Ceilings/21 Sweet Dreams.mp3
-317:[2011] The Sky Is Filled With Incredible Wishes/01-01 Auditorium.flac
-318:[2011] The Sky Is Filled With Incredible Wishes/01-02 Minted Waters.flac
-319:[2011] The Sky Is Filled With Incredible Wishes/01-03 Saints Of The Capital.flac
-320:[2011] The Sky Is Filled With Incredible Wishes/01-04 The Capital.flac
+289:Lil Wayne - No Ceilings/01 Swag Surf.mp3
+290:Lil Wayne - No Ceilings/02 Ice Cream.mp3
+291:Lil Wayne - No Ceilings/01 Swag Surf.mp3
+292:Lil Wayne - No Ceilings/02 Ice Cream.mp3
+293:Lil Wayne - No Ceilings/03 D.O.A..mp3
+294:Lil Wayne - No Ceilings/05 Wasted.mp3
+295:Lil Wayne - No Ceilings/06 Watch My Shoes.mp3
+296:Lil Wayne - No Ceilings/08 Banned From TV.mp3
+297:Lil Wayne - No Ceilings/09 Throw It In The Bag.mp3
+298:Lil Wayne - No Ceilings/15 Run This Town.mp3
+299:Lil Wayne - No Ceilings/16 I Got No Ceilings.mp3
+300:Lil Wayne - No Ceilings/17 Skit End.mp3
+301:Lil Wayne - No Ceilings/19 Oh Let's Do It.mp3
+302:Lil Wayne - No Ceilings/20 Single.mp3
+303:Lil Wayne - No Ceilings/21 Sweet Dreams.mp3
+304:[2011] The Sky Is Filled With Incredible Wishes/01-01 Auditorium.flac
+305:[2011] The Sky Is Filled With Incredible Wishes/01-02 Minted Waters.flac
+306:[2011] The Sky Is Filled With Incredible Wishes/01-03 Saints Of The Capital.flac
+307:[2011] The Sky Is Filled With Incredible Wishes/01-04 The Capital.flac
+308:DJ Nigga Fox - Crânio/01_Sinistro.mp3
+309:DJ Nigga Fox - Crânio/02_Poder do Vento.mp3
+310:DJ Nigga Fox - Crânio/03_Maria Costa.mp3
+311:DJ Nigga Fox - Crânio/04_KRK.mp3
+312:DJ Nigga Fox - Crânio/05_WAABA-JAH.mp3
+313:DJ Nigga Fox - Crânio/06_Karma.mp3
+314:Solstice Boundaries/8-01 Cold Waters.mp3
+315:Solstice Boundaries/8-02 Eukarya.mp3
+316:Solstice Boundaries/8-03 Silver Lichens.mp3
+317:Solstice Boundaries/8-04 Fujiwara.mp3
+318:Solstice Boundaries/8-05 Interlude.mp3
+319:Solstice Boundaries/8-06 Icosahedron.mp3
+320:Solstice Boundaries/8-07 Pressure Flip.mp3
+321:seven grand housing authority [1997] no weapon formed against me shall prosper/01 I Can't Wait.mp3
+322:seven grand housing authority [1997] no weapon formed against me shall prosper/02 Love's Got Me High.mp3
+323:seven grand housing authority [1997] no weapon formed against me shall prosper/03 Tanya's Rainforest.mp3
+324:seven grand housing authority [1997] no weapon formed against me shall prosper/04 Jessica.mp3
+325:seven grand housing authority [1997] no weapon formed against me shall prosper/05 Deuteronomy.mp3
+326:seven grand housing authority [1997] no weapon formed against me shall prosper/06 Ambient Disco.mp3
+327:seven grand housing authority [1997] no weapon formed against me shall prosper/07 White Zinfandel.mp3
+328:seven grand housing authority [1997] no weapon formed against me shall prosper/08 I Don't Want to Loose You.mp3
+329:seven grand housing authority [1997] no weapon formed against me shall prosper/09 The Question.mp3
+330:seven grand housing authority [1997] no weapon formed against me shall prosper/10 Dolphins.mp3
+331:seven grand housing authority [1997] no weapon formed against me shall prosper/11 I Love U (The Way You Hold Me).mp3
+332:seven grand housing authority [1997] no weapon formed against me shall prosper/12 I've Got 2 Be Happy.mp3
+333:seven grand housing authority [1997] no weapon formed against me shall prosper/13 Conflicts of the Heart.mp3
+334:seven grand housing authority [1997] no weapon formed against me shall prosper/14 Let the Music Control Your Mind.mp3
+335:Music For Assholes/01 Ignorance Or Selfrighteousness.mp3
+336:Music For Assholes/02 Blue To Be Happy.mp3
+337:Music For Assholes/03 Solitude.mp3
+338:Music For Assholes/04 Ben Hur Our Selfsupporter.mp3
+339:Music For Assholes/05 Music For Assholes or The Only Thing I Like Is Your Mother's Dentist.mp3
 playlist_end
