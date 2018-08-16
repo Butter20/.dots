@@ -1,44 +1,38 @@
-! X colors.
-URxvt*foreground:   #CAACB6
-URxvt*background:  #171014
-URxvt*cursorColor:  #CAACB6
-URxvt*borderColor:  #171014
-*colorUL:           #523946
-
+! lychnobite
 ! special
-*.foreground:   #caacb6
-*.background:   #171014
-*.cursorColor:  #caacb6
+*.foreground:   #cdcdcd
+*.background:   #121317
+*.cursorColor:  #cdcdcd
 
 ! black
-*.color0:       #171014
-*.color8:       #4b3f45
+*.color0:       #282a2e
+*.color8:       #373b41
 
 ! red
-*.color1:       #d04a2e
-*.color9:       #d04a2e
+*.color1:       #922230
+*.color9:       #923a45
 
 ! green
-*.color2:       #6d4d55
-*.color10:      #6d4d55
+*.color2:       #0f8c61
+*.color10:      #198873
 
 ! yellow
-*.color3:       #965d5d
-*.color11:      #965d5d
+*.color3:       #ba883d
+*.color11:      #ba9153
 
 ! blue
-*.color4:       #93758e
-*.color12:      #93758e
+*.color4:       #277896
+*.color12:      #3c7e96
 
 ! magenta
-*.color5:       #523946
-*.color13:      #523946
+*.color5:       #4b4574
+*.color13:      #53569b
 
 ! cyan
-*.color6:       #b289ab
-*.color14:      #b289ab
+*.color6:       #638b83
+*.color14:      #7dbfb8
 
 ! white
-*.color7:       #caacb6
-*.color15:      #caacb6
+*.color7:       #cdcdcd
+*.color15:      #cdcdcd
 
