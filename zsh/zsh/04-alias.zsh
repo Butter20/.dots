@@ -224,6 +224,7 @@ alias startg='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c 
 alias startm='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-moms.conf && sudo dhcpcd wlp2s0 && sudo hdparm -B 255 -S 0 /dev/sda'
 alias starths='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-hs.conf && sudo dhcpcd wlp2s0 && sudo hdparm -B 255 -S 0 /dev/sda'
 alias starto='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-o.conf && sudo dhcpcd wlp2s0 && sudo hdparm -B 255 -S 0 /dev/sda'
+alias startgu='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/guate2.conf && sudo dhcpcd wlp2s0 && sudo hdparm -B 255 -S 0 /dev/sda'
 alias xrandrh='xrandr --output HDMI1 --auto'
 
 # systemctl

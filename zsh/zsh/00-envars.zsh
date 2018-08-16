@@ -37,3 +37,4 @@ export TERM=rxvt-256color
 export COLORTERM=truecolor
 export POWERLEVEL9K_INSTALLATION_PATH=$HOME/zsh
 export BROWSER=firefox
+export AE_SINK=ALSA

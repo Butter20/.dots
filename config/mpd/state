@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:PCH - ALC255 Analog
 audio_device_state:1:FiFo
 state: pause
-current: 56
-time: 481.569000
+current: 154
+time: 47.554000
 random: 0
 repeat: 0
 single: 0
@@ -166,4 +166,12 @@ playlist_begin
 151:The Mole - History Of Dates EP (FLAC) 16 bit/A1 History Of Dates.flac
 152:The Mole - History Of Dates EP (FLAC) 16 bit/A2 Lockdown Party.flac
 153:The Mole - History Of Dates EP (FLAC) 16 bit/B1 Lockdown Party (Sprinkles' Crossfaderama).flac
+154:Chihei Hatakeyama/Far From the Atmosphere (2017)/01 - Far From The Atmosphere.mp3
+155:Chihei Hatakeyama - Far From The Atmosphere/01 - Far From The Atmosphere.mp3
+156:Chihei Hatakeyama/Far From the Atmosphere (2017)/02 - Far From The Atmosphere II.mp3
+157:Chihei Hatakeyama - Far From The Atmosphere/02 - Far From The Atmosphere II.mp3
+158:Chihei Hatakeyama/Far From the Atmosphere (2017)/03 - Far From The Atmosphere III.mp3
+159:Chihei Hatakeyama - Far From The Atmosphere/03 - Far From The Atmosphere III.mp3
+160:Chihei Hatakeyama/Far From the Atmosphere (2017)/04 - Far From The Atmosphere IV.mp3
+161:Chihei Hatakeyama - Far From The Atmosphere/04 - Far From The Atmosphere IV.mp3
 playlist_end
