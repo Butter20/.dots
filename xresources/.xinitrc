@@ -12,9 +12,6 @@ export I3_CONFIG_DIR="$HOME/.config/i3"
 # use xresources
 xrdb -load ~/.Xresources &
 
-# background
-feh --bg-fill /home/olin/pic/walls/upt06.jpg &
-
 # hide mouse coursor when it isn't used
 unclutter -root -visible &
 

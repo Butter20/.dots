@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 95
 audio_device_state:1:pulse audio
 audio_device_state:1:FiFo
 state: pause
-current: 10
-time: 159.579000
+current: 13
+time: 7.163000
 random: 0
 repeat: 0
 single: 0
@@ -174,4 +174,20 @@ playlist_begin
 159:Chihei Hatakeyama - Far From The Atmosphere/03 - Far From The Atmosphere III.mp3
 160:Chihei Hatakeyama/Far From the Atmosphere (2017)/04 - Far From The Atmosphere IV.mp3
 161:Chihei Hatakeyama - Far From The Atmosphere/04 - Far From The Atmosphere IV.mp3
+162:Daft Punk/Daft Punk - Random Access Memories (2013) [FLAC] {24bit 88.2kHz Limited Box Set Edition} (USB Drive)/12 - Doin' It Right.flac
+163:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/01 - PSY-S - Angel night .flac
+164:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/02 - Kahoru Koshiruimaki - What's goin'on .flac
+165:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/03 - Yoshiyuki Oshawa - Go go heaven .flac
+166:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/04 - Ogura Ryo - No no no .flac
+167:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/05 - Momoko Kitadai - Footsteps .flac
+168:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/06 - PSY-S - Earth Ki no ue no hakobune .flac
+169:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/07 - Yasuyuki Okamura - Super girl .flac
+170:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/08 - TM Network - Still love her .flac
+171:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/09 - Kahoru Koshiruimaki - City Hunter Ai Yo Kienaide .flac
+172:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/10 - Yuko Otaki - Mr. Private eye .flac
+173:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/11 - Yoshiyuki Oshawa - Owari no nai katamuki .flac
+174:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/12 - Fence of defense - Sara .flac
+175:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/13 - Kiyomi Susuki - Give me your love tonight .flac
+176:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/14 - Momoko Kitadai - Party down .flac
+177:City Hunter Dramatic Master (1989, EAC-CUE-LOG) - VA/15 - TM Network - Get Wild .flac
 playlist_end
