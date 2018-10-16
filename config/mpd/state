@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:FiFo
 state: play
-current: 638
-time: 3.993000
+current: 540
+time: 4.064000
 random: 0
 repeat: 0
 single: 0
@@ -556,99 +556,209 @@ playlist_begin
 541:Wet Hair/Glass Fountain/03 When the Right Time Comes.mp3
 542:Wet Hair/Glass Fountain/04 Cold City.mp3
 543:Wet Hair/Glass Fountain/05 Stepping Razor [To Heaven's Door].mp3
-544:Takuya Matsumoto/Sweetrainsuite/04 Yellow Ambrella.flac
-545:Takuya Matsumoto/Sweetrainsuite (2016)/01 Storm.flac
-546:Takuya Matsumoto/Sweetrainsuite (2016)/02 Rainy Day Drive.flac
-547:Takuya Matsumoto/Sweetrainsuite (2016)/03 Red Radio.flac
-548:Takuya Matsumoto/Sweetrainsuite (2016)/04 Yellow Ambrella.flac
-549:Xiphiidae/Science Everywhere (2010)/01 Side I.mp3
-550:Xiphiidae/Science Everywhere (2010)/02 Side II.mp3
-551:Xiphiidae/Sewn Within a Circle/01 Xiphiidae - Sewn Within a Circle - A1.flac
-552:Xiphiidae/Sewn Within a Circle/II/01 Xiphiidae - Sewn Within a Circle - C1.flac
-553:Xiphiidae/Sewn Within a Circle/II/02 Xiphiidae - Sewn Within a Circle - C2.flac
-554:Xiphiidae/Sewn Within a Circle/II/03 Xiphiidae - Sewn Within a Circle - C3.flac
-555:Xiphiidae/Sewn Within a Circle/II/04 Xiphiidae - Sewn Within a Circle - C4.flac
-556:Xiphiidae/Sewn Within a Circle/II/05 Xiphiidae - Sewn Within a Circle - C5.flac
-557:Xiphiidae/Sewn Within a Circle/II/06 Xiphiidae - Sewn Within a Circle - C6.flac
-558:Xiphiidae/Sewn Within a Circle/II/07 Xiphiidae - Sewn Within a Circle - D1.flac
-559:Xiphiidae/Sewn Within a Circle/II/08 Xiphiidae - Sewn Within a Circle - D2.flac
-560:Xiphiidae/Sewn Within a Circle/II/09 Xiphiidae - Sewn Within a Circle - D3.flac
-561:Xiphiidae/Sewn Within a Circle/II/10 Xiphiidae - Sewn Within a Circle - D4.flac
-562:Xiphiidae/Sewn Within a Circle/II/11 Xiphiidae - Sewn Within a Circle - D5.flac
-563:Xiphiidae/Sewn Within a Circle/II/12 Xiphiidae - Sewn Within a Circle - D6.flac
-564:Xiphiidae/Science Everywhere (2010)/01 Side I.mp3
-565:Xiphiidae/Science Everywhere (2010)/02 Side II.mp3
-566:Xiphiidae/Sewn Within a Circle/I/01 Xiphiidae - Sewn Within a Circle - A1.flac
-567:Xiphiidae/Sewn Within a Circle/I/02 Xiphiidae - Sewn Within a Circle - A2.flac
-568:Xiphiidae/Sewn Within a Circle/I/03 Xiphiidae - Sewn Within a Circle - A3.flac
-569:Xiphiidae/Sewn Within a Circle/I/04 Xiphiidae - Sewn Within a Circle - A4.flac
-570:Xiphiidae/Sewn Within a Circle/I/05 Xiphiidae - Sewn Within a Circle - B1.flac
-571:Xiphiidae/Sewn Within a Circle/I/06 Xiphiidae - Sewn Within a Circle - B2.flac
-572:Xiphiidae/Sewn Within a Circle/I/07 Xiphiidae - Sewn Within a Circle - B3.flac
-573:Xiphiidae/Sewn Within a Circle/I/08 Xiphiidae - Sewn Within a Circle - B4.flac
-574:Xiphiidae/Sewn Within a Circle/I/09 Xiphiidae - Sewn Within a Circle - B5.flac
-575:Xiphiidae/Sewn Within a Circle/I/10 Xiphiidae - Sewn Within a Circle - B6.flac
-576:Xiphiidae/Sewn Within a Circle/I/11 Xiphiidae - Sewn Within a Circle - B7.flac
-577:Xiphiidae/Sewn Within a Circle/I/12 Xiphiidae - Sewn Within a Circle - B8.flac
-578:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/01 Xiphiidae - Crystal Marvelous Fruit - A1.flac
-579:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/02 Xiphiidae - Crystal Marvelous Fruit - A2.flac
-580:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/03 Xiphiidae - Crystal Marvelous Fruit - A3.flac
-581:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/04 Xiphiidae - Crystal Marvelous Fruit - A4.flac
-582:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/05 Xiphiidae - Crystal Marvelous Fruit - A5.flac
-583:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/06 Xiphiidae - Crystal Marvelous Fruit - B1.flac
-584:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/07 Xiphiidae - Crystal Marvelous Fruit - B2.flac
-585:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/08 Xiphiidae - Crystal Marvelous Fruit - B3.flac
-586:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/09 Xiphiidae - Crystal Marvelous Fruit - B4.flac
-587:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/01 Xiphiidae - Crystal Marvelous Fruit - C1.flac
-588:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/02 Xiphiidae - Crystal Marvelous Fruit - C2.flac
-589:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/03 Xiphiidae - Crystal Marvelous Fruit - C3.flac
-590:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/04 Xiphiidae - Crystal Marvelous Fruit - C4.flac
-591:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/05 Xiphiidae - Crystal Marvelous Fruit - C5.flac
-592:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/06 Xiphiidae - Crystal Marvelous Fruit - C6.flac
-593:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/07 Xiphiidae - Crystal Marvelous Fruit - D1.flac
-594:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/08 Xiphiidae - Crystal Marvelous Fruit - D2.flac
-595:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/09 Xiphiidae - Crystal Marvelous Fruit - D3.flac
-596:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/10 Xiphiidae - Crystal Marvelous Fruit - D4.flac
-597:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/11 Xiphiidae - Crystal Marvelous Fruit - D5.flac
-598:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/12 Xiphiidae - Crystal Marvelous Fruit - D6.flac
-599:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/01 No Cap.flac
-600:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/02 Three.flac
-601:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/03 All da Smoke.flac
-602:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/04 200.flac
-603:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/06 Patek Water (feat. Offset).flac
-604:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/08 Drip on Me.flac
-605:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/09 Real Love.flac
-606:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/12 Mink Flow.flac
-607:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/13 Group Home.flac
-608:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/05 Young Thug - Cruise Ship.flac
-609:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/11 Young Thug - Killed Before.flac
-610:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-01 Kakon.flac
-611:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-02 Percussion.flac
-612:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-03 337.flac
-613:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-04 Akarui.flac
-614:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-05 Fue.flac
-615:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-06 Body.flac
-616:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-07 Mizu Youkan.flac
-617:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-08 Clock feat. Machina.flac
-618:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-09 Tata.flac
-619:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-10 Tabij2.flac
-620:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-11 Sauna.flac
-621:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-12 Mozuka feat. Pillow Person.flac
-622:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/01 - Untitled.mp3
-623:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/02 - Untitled.mp3
-624:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/03 - Untitled.mp3
-625:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/04 - Untitled.mp3
-626:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/05 - Untitled.mp3
-627:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/06 - Untitled.mp3
-628:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/07 - Untitled.mp3
-629:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/08 - Untitled.mp3
-630:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/09 - Untitled.mp3
-631:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/10 - Untitled.mp3
-632:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/11 - Untitled.mp3
-633:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/01 Through The Open Window.flac
-634:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/02 Collateral.flac
-635:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/03 Explosion Alarm.flac
-636:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/04 Searching.flac
-637:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/05 No Eye Noon Doe.flac
-638:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/06 The Marfa Lights (Live @ Pats In The Flats 06.24.09).flac
+544:Takuya Matsumoto/Sweetrainsuite (2016)/01 Storm.flac
+545:Takuya Matsumoto/Sweetrainsuite (2016)/02 Rainy Day Drive.flac
+546:Takuya Matsumoto/Sweetrainsuite (2016)/03 Red Radio.flac
+547:Takuya Matsumoto/Sweetrainsuite (2016)/04 Yellow Ambrella.flac
+548:Xiphiidae/Science Everywhere (2010)/01 Side I.mp3
+549:Xiphiidae/Science Everywhere (2010)/02 Side II.mp3
+550:Xiphiidae/Sewn Within a Circle/II/01 Xiphiidae - Sewn Within a Circle - C1.flac
+551:Xiphiidae/Sewn Within a Circle/II/02 Xiphiidae - Sewn Within a Circle - C2.flac
+552:Xiphiidae/Sewn Within a Circle/II/03 Xiphiidae - Sewn Within a Circle - C3.flac
+553:Xiphiidae/Sewn Within a Circle/II/04 Xiphiidae - Sewn Within a Circle - C4.flac
+554:Xiphiidae/Sewn Within a Circle/II/05 Xiphiidae - Sewn Within a Circle - C5.flac
+555:Xiphiidae/Sewn Within a Circle/II/06 Xiphiidae - Sewn Within a Circle - C6.flac
+556:Xiphiidae/Sewn Within a Circle/II/07 Xiphiidae - Sewn Within a Circle - D1.flac
+557:Xiphiidae/Sewn Within a Circle/II/08 Xiphiidae - Sewn Within a Circle - D2.flac
+558:Xiphiidae/Sewn Within a Circle/II/09 Xiphiidae - Sewn Within a Circle - D3.flac
+559:Xiphiidae/Sewn Within a Circle/II/10 Xiphiidae - Sewn Within a Circle - D4.flac
+560:Xiphiidae/Sewn Within a Circle/II/11 Xiphiidae - Sewn Within a Circle - D5.flac
+561:Xiphiidae/Sewn Within a Circle/II/12 Xiphiidae - Sewn Within a Circle - D6.flac
+562:Xiphiidae/Science Everywhere (2010)/01 Side I.mp3
+563:Xiphiidae/Science Everywhere (2010)/02 Side II.mp3
+564:Xiphiidae/Sewn Within a Circle/I/01 Xiphiidae - Sewn Within a Circle - A1.flac
+565:Xiphiidae/Sewn Within a Circle/I/02 Xiphiidae - Sewn Within a Circle - A2.flac
+566:Xiphiidae/Sewn Within a Circle/I/03 Xiphiidae - Sewn Within a Circle - A3.flac
+567:Xiphiidae/Sewn Within a Circle/I/04 Xiphiidae - Sewn Within a Circle - A4.flac
+568:Xiphiidae/Sewn Within a Circle/I/05 Xiphiidae - Sewn Within a Circle - B1.flac
+569:Xiphiidae/Sewn Within a Circle/I/06 Xiphiidae - Sewn Within a Circle - B2.flac
+570:Xiphiidae/Sewn Within a Circle/I/07 Xiphiidae - Sewn Within a Circle - B3.flac
+571:Xiphiidae/Sewn Within a Circle/I/08 Xiphiidae - Sewn Within a Circle - B4.flac
+572:Xiphiidae/Sewn Within a Circle/I/09 Xiphiidae - Sewn Within a Circle - B5.flac
+573:Xiphiidae/Sewn Within a Circle/I/10 Xiphiidae - Sewn Within a Circle - B6.flac
+574:Xiphiidae/Sewn Within a Circle/I/11 Xiphiidae - Sewn Within a Circle - B7.flac
+575:Xiphiidae/Sewn Within a Circle/I/12 Xiphiidae - Sewn Within a Circle - B8.flac
+576:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/01 Xiphiidae - Crystal Marvelous Fruit - A1.flac
+577:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/02 Xiphiidae - Crystal Marvelous Fruit - A2.flac
+578:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/03 Xiphiidae - Crystal Marvelous Fruit - A3.flac
+579:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/04 Xiphiidae - Crystal Marvelous Fruit - A4.flac
+580:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/05 Xiphiidae - Crystal Marvelous Fruit - A5.flac
+581:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/06 Xiphiidae - Crystal Marvelous Fruit - B1.flac
+582:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/07 Xiphiidae - Crystal Marvelous Fruit - B2.flac
+583:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/08 Xiphiidae - Crystal Marvelous Fruit - B3.flac
+584:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/I/09 Xiphiidae - Crystal Marvelous Fruit - B4.flac
+585:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/01 Xiphiidae - Crystal Marvelous Fruit - C1.flac
+586:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/02 Xiphiidae - Crystal Marvelous Fruit - C2.flac
+587:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/03 Xiphiidae - Crystal Marvelous Fruit - C3.flac
+588:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/04 Xiphiidae - Crystal Marvelous Fruit - C4.flac
+589:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/05 Xiphiidae - Crystal Marvelous Fruit - C5.flac
+590:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/06 Xiphiidae - Crystal Marvelous Fruit - C6.flac
+591:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/07 Xiphiidae - Crystal Marvelous Fruit - D1.flac
+592:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/08 Xiphiidae - Crystal Marvelous Fruit - D2.flac
+593:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/09 Xiphiidae - Crystal Marvelous Fruit - D3.flac
+594:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/10 Xiphiidae - Crystal Marvelous Fruit - D4.flac
+595:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/11 Xiphiidae - Crystal Marvelous Fruit - D5.flac
+596:Xiphiidae/Xiphiidae - Crystal Marvelous Fruit [FLAC]/II/12 Xiphiidae - Crystal Marvelous Fruit - D6.flac
+597:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/01 No Cap.flac
+598:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/02 Three.flac
+599:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/03 All da Smoke.flac
+600:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/04 200.flac
+601:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/06 Patek Water (feat. Offset).flac
+602:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/08 Drip on Me.flac
+603:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/09 Real Love.flac
+604:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/12 Mink Flow.flac
+605:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/13 Group Home.flac
+606:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/05 Young Thug - Cruise Ship.flac
+607:Future & Young Thug - SUPER SLIMEY - 2017 - web flac/11 Young Thug - Killed Before.flac
+608:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-01 Kakon.flac
+609:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-02 Percussion.flac
+610:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-03 337.flac
+611:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-04 Akarui.flac
+612:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-05 Fue.flac
+613:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-06 Body.flac
+614:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-07 Mizu Youkan.flac
+615:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-08 Clock feat. Machina.flac
+616:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-09 Tata.flac
+617:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-10 Tabij2.flac
+618:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-11 Sauna.flac
+619:Foodman - Aru Otako No Densetsu (2018) (FLAC)/1-12 Mozuka feat. Pillow Person.flac
+620:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/01 - Untitled.mp3
+621:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/02 - Untitled.mp3
+622:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/03 - Untitled.mp3
+623:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/04 - Untitled.mp3
+624:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/05 - Untitled.mp3
+625:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/06 - Untitled.mp3
+626:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/07 - Untitled.mp3
+627:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/08 - Untitled.mp3
+628:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/09 - Untitled.mp3
+629:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/10 - Untitled.mp3
+630:Sean McCann/Sean McCann - Dreem Ordeal [2008] [320]/11 - Untitled.mp3
+631:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/01 Through The Open Window.flac
+632:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/02 Collateral.flac
+633:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/03 Explosion Alarm.flac
+634:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/04 Searching.flac
+635:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/05 No Eye Noon Doe.flac
+636:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/06 The Marfa Lights (Live @ Pats In The Flats 06.24.09).flac
+637:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/1-01 Beneath The Bells.flac
+638:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/1-02 Wandering Memory.flac
+639:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-01 Escape.flac
+640:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-02 Postcard.flac
+641:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-03 In The Architecture.flac
+642:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-04 Far Away.flac
+643:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/01 Flight.mp3
+644:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/02 Decimal Point.mp3
+645:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/03 Ghosts Around A Tree.mp3
+646:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/04 Clague Woods.mp3
+647:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/05 Locomotive.mp3
+648:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/06 Slipstreams.mp3
+649:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/07 Patterns of Development.mp3
+650:Mark McGuire/Mark McGuire -- Guitar Meditations/01 Intervals (First Variation).mp3
+651:Mark McGuire/Mark McGuire -- Guitar Meditations/02 Staying Home from School.mp3
+652:Mark McGuire/Mark McGuire -- Guitar Meditations/03 Hemisphere.mp3
+653:Mark McGuire/Mark McGuire -- Guitar Meditations/04 Curling.mp3
+654:Mark McGuire/Mark McGuire -- Guitar Meditations/05 Interlude.mp3
+655:Mark McGuire/Mark McGuire -- Guitar Meditations/06 Night Owls.mp3
+656:Mark McGuire/Mark McGuire -- Guitar Meditations/07 Rest.mp3
+657:Mark McGuire/Mark McGuire -- Guitar Meditations/08 Linkletter.mp3
+658:Friendzone/Kuchibiru Network 3 (2013)/01 Moments (Part 2).mp3
+659:Friendzone/Kuchibiru Network 3 (2013)/02 Do Or Die (ft. Shady Blaze) [Prod. by FRIENDZONE].mp3
+660:Friendzone/Kuchibiru Network 3 (2013)/03 Oil Paintings.mp3
+661:Friendzone/Kuchibiru Network 3 (2013)/04 Sakura.mp3
+662:Friendzone/Kuchibiru Network 3 (2013)/05 Ahhhfcuk.mp3
+663:Friendzone/Kuchibiru Network 3 (2013)/06 Rue Cler.mp3
+664:Friendzone/Kuchibiru Network 3 (2013)/07 Nothing Really Happens (ft. Scum Angel).mp3
+665:Friendzone/Kuchibiru Network 3 (2013)/08 Not Luv [Prod. by Konyaga Tanaka].mp3
+666:Friendzone/Kuchibiru Network 3 (2013)/09 Reality.mp3
+667:Friendzone/Kuchibiru Network 3 (2013)/10 Rok Bottom.mp3
+668:Friendzone/Kuchibiru Network 3 (2013)/11 F.mp3
+669:Friendzone/Kuchibiru Network 3 (2013)/12 W1+chBlVd3.mp3
+670:Friendzone/Kuchibiru Network 3 (2013)/13 Lonely.mp3
+671:Friendzone/Kuchibiru Network 3 (2013)/14 Green Ova Lyfe.mp3
+672:Friendzone/Kuchibiru Network 3 (2013)/15 RAY CHARLES FEEL ME TO.mp3
+673:Friendzone/Kuchibiru Network 3 (2013)/16 (Theme From Kuchibiru Network 3).mp3
+674:Friendzone/Kuchibiru Network 3 (2013)/17 Green World (ft. Dope G & Shady Blaze) [Prod. by FRIENDZONE].mp3
+675:Friendzone/Kuchibiru Network 3 (2013)/18 Star Of Heaven.mp3
+676:Friendzone/Kuchibiru Network 3 (2013)/19 Intimate.mp3
+677:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/01 Dark Matter .flac
+678:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/02 Mosura .flac
+679:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/03 Cosmic Dust .flac
+680:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/04 Joined In Zodiacal Light .flac
+681:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/05 Red Square (Live@The Enemy 12.6.08) .flac
+682:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/06 Particle Beam .flac
+683:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/07 Gegenschein .flac
+684:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/08 Pluto .flac
+685:Outer Space/Outer Space - Gemini Half cdr [wagon, 2009] FLAC/09 Natural Satellite .flac
+686:Oneohtrix Point Never/Oneohtrix_Point_Never-Outer_Space-Split-CS-2009-FLAC/01-outer_space-evaporating_door.flac
+687:Outer Space/Outer Space - Sea Of Cold cdr [wagon, 2009] FLAC/01 -Outer Space - Track01.flac
+688:Outer Space/Outer Space - Sea Of Cold cdr [wagon, 2009] FLAC/02 -Outer Space - Track02.flac
+689:Outer Space/Outer Space - Sea Of Cold cdr [wagon, 2009] FLAC/03 -Outer Space - Track03.flac
+690:Outer Space/Outer Space - Sea Of Cold cdr [wagon, 2009] FLAC/04 -Outer Space - Track04.flac
+691:Outer Space/Outer Space - Sea Of Cold cdr [wagon, 2009] FLAC/05 -Outer Space - Track05.flac
+692:Outer Space/Outer Space - Outer Space (2016) [WEB FLAC]/1 Quartz Synthesizer.flac
+693:Outer Space/Outer Space - Outer Space (2016) [WEB FLAC]/2 Scanlon.flac
+694:Outer Space/Outer Space - Outer Space (2016) [WEB FLAC]/3 Memory Bomb.flac
+695:Outer Space/Outer Space - Outer Space (2016) [WEB FLAC]/4 Removing a Hex.flac
+696:Outer Space/Outer Space - Outer Space (2016) [WEB FLAC]/5 Deathless (feat. Ralph Haussmann).flac
+697:Outer Space/Outer Space - Outer Space (2016) [WEB FLAC]/6 The Planck Era.flac
+698:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A1 - Ruhige Nervositat.flac
+699:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A2 - Gemaßigter Aufbruch.flac
+700:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A3 - ... Und Mittelspiel.flac
+701:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A4 - Ansatz.flac
+702:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B1 - Damen-Eleganza.flac
+703:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B2 - Ehrenvoller Kampf.flac
+704:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B3 - Hoheit Weicht (Nicht Ohne Schwung...).flac
+705:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B4 - ... Und Souveranitat.flac
+706:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B5 - Remis.flac
+707:Alejandro Mosso/Alejandro Mosso - Gaia (2017) WEB/01 Rhea.flac
+708:Alejandro Mosso/Alejandro Mosso - Gaia (2017) WEB/02 Uranus.flac
+709:Alejandro Mosso/Alejandro Mosso - Gaia (2017) WEB/03 Ares.flac
+710:Alejandro Mosso/Alejandro Mosso - Gaia (2017) WEB/04 Naiads.flac
+711:Alejandro Mosso/Alejandro Mosso - Gaia (2017) WEB/05 Dryads.flac
+712:Alejandro Mosso/Alejandro Mosso - Gaia (2017) WEB/06 Gaia.flac
+713:Alejandro Mosso/Alejandro Mosso-Mosso001-(MOSSO001)-WEB-2011-MonoPoly/01-alejandro_mosso-ohrwurm_(original_mix).mp3
+714:Alejandro Mosso/Alejandro Mosso-Mosso001-(MOSSO001)-WEB-2011-MonoPoly/02-alejandro_mosso-caracoles_(original_mix).mp3
+715:Alejandro Mosso/Alejandro Mosso - Mosso004 (WEB-FLAC)/01.Alejandro Mosso - Yguasu (Original Mix).flac
+716:Alejandro Mosso/Alejandro Mosso - Mosso004 (WEB-FLAC)/02.Alejandro Mosso - Tupungato (Original Mix).flac
+717:Alejandro Mosso/Alejandro Mosso - Mosso005 (WEB-FLAC)/01.Alejandro Mosso - Arrecife (Original Mix).flac
+718:Alejandro Mosso/Alejandro Mosso - Mosso005 (WEB-FLAC)/02.Alejandro Mosso - Islote (Original Mix).flac
+719:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/01 - On The Run.flac
+720:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/02 - Icey.flac
+721:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/03 - Climax (Feat. 6LACK).flac
+722:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/04 - Sin (Feat. Jaden Smith).flac
+723:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/05 - Real In My Veins.flac
+724:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/06 - High (Feat. Elton John).flac
+725:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/01 Take Kare (feat. Lil Wayne).flac
+726:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/02 Quarterback (feat. Quavo, Offset & PeeWee Longway).flac
+727:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/03 Rarri (feat. Yung Ralph).flac
+728:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/04 Stunna.flac
+729:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/05 Best Friend.flac
+730:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/06 Power.flac
+731:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/07 Calling Your Name.flac
+732:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/08 No Way.flac
+733:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/09 Mine.flac
+734:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/10 Freaky.flac
+735:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/11 Freaky ALT.flac
+736:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/12 Be Me See Me.flac
+737:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/13 Overdosin.flac
+738:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/14 Again (feat. Gucci Mane).flac
+739:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/15 That's All.flac
+740:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/16 Udiggwhatimsayin.flac
+741:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/17 Draw Down.flac
+742:Young Thug/Young Thug - Slime Season [24bit FLAC WEB] (2015)/18 Wood Would.flac
+743:Joy Orbison/Joy O - 81b [2018] [EP]/01 SEED.mp3
+744:Joy Orbison/Joy O - 81b [2018] [EP]/02 COYP.mp3
+745:Joy Orbison/Joy O - 81b [2018] [EP]/03 TENNOV6TEEN.mp3
+746:Joy Orbison/Joy O - 81b [2018] [EP]/04 BELLY.mp3
+747:Joy Orbison/Joy O - 81b [2018] [EP]/05 SIN PALTA.mp3
+748:Joy Orbison/Joy O - 81b [2018] [EP]/06 81b.mp3
 playlist_end

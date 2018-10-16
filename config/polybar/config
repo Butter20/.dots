@@ -23,7 +23,7 @@ font-2 = siji:pixelsize=10;0
 
 modules-left = i3 memory cpu 
 modules-center = mpd
-modules-right = pulseaudio battery date powermenu
+modules-right = updates-arch pulseaudio battery date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -112,7 +112,7 @@ ws-icon-1 = 2;
 ws-icon-2 = 3;
 ws-icon-3 = 4;
 ws-icon-4 = 5;
-ws-icon-default = 
+ws-icon-default = 
 
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
@@ -141,6 +141,11 @@ label-visible-padding = ${self.label-focused-padding}
 label-urgent = %icon%
 ;label-urgent-background = ${module/bspwm.label-urgent-background}
 label-urgent-padding = ${module/bspwm.label-urgent-padding}
+
+[module/updates-arch]
+type = custom/script
+exec = ~/.config/polybar/scripts/updates-arch.sh
+interval = 600
 
 [module/mpd]
 type = internal/mpd
@@ -268,7 +273,7 @@ interval = 5
 format-volume = <ramp-volume>  <label-volume>
 format-muted = <label-muted>
 label-volume = %percentage%
-label-muted =   muted
+label-muted =  
 label-muted-foreground = #aaa
 format-volume-padding = 2
 format-muted-padding = 2
