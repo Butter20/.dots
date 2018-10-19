@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 95
 audio_device_state:1:pulse audio
 audio_device_state:1:FiFo
 state: play
-current: 575
-time: 0.743000
+current: 767
+time: 3.993000
 random: 0
 repeat: 0
 single: 0
@@ -761,4 +761,24 @@ playlist_begin
 746:Joy Orbison/Joy O - 81b [2018] [EP]/04 BELLY.mp3
 747:Joy Orbison/Joy O - 81b [2018] [EP]/05 SIN PALTA.mp3
 748:Joy Orbison/Joy O - 81b [2018] [EP]/06 81b.mp3
+749:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/01 Intro.mp3
+750:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/02 Near (Produced By Friendzone).mp3
+751:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/03 Can't Go Wrong (Featuring Friendzone).mp3
+752:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/04 Incredible.mp3
+753:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/05 Starhigh.mp3
+754:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/06 A Single Room.mp3
+755:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/07 Stratus (Produced by Uyama Hiroto).mp3
+756:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/08 Walk Home.mp3
+757:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/09 Rainman.mp3
+758:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/10 __ (Purple).mp3
+759:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/11 DB (Featuring Brent Barstow).mp3
+760:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/12 Lie4.mp3
+761:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/13 SD.mp3
+762:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/14 Local Distance (Produced by Konyaga Tanaka).mp3
+763:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/15 Lunar Lovers.mp3
+764:Friendzone/Friendzone - Kuchibiru Network 2 (2011) [320]/16 Change (Produced by Friendzone).mp3
+765:Sean McCann/The Sky is Filled With Incredible Wishes (2011)/01-01 Auditorium.flac
+766:Sean McCann/The Sky is Filled With Incredible Wishes (2011)/01-02 Minted Waters.flac
+767:Sean McCann/The Sky is Filled With Incredible Wishes (2011)/01-03 Saints Of The Capital.flac
+768:Sean McCann/The Sky is Filled With Incredible Wishes (2011)/01-04 The Capital.flac
 playlist_end
