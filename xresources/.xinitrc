@@ -18,9 +18,6 @@ unclutter -root -visible &
 # composition manager
 compton --config $HOME/.config/compton.conf &
 
-# tempature control
-pgrep redshift &> /dev/null || redshift &> /dev/null &
-
 # WM
 i3
 
