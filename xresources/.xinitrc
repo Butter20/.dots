@@ -18,6 +18,9 @@ unclutter -root -visible &
 # composition manager
 compton --config $HOME/.config/compton.conf &
 
+# temperature control
+redshift -l 14.63:-90.52 &
+
 # WM
 i3
 
