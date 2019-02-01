@@ -2,7 +2,7 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:FiFo
 state: stop
-current: 261
+current: 0
 random: 0
 repeat: 0
 single: 0
@@ -332,4 +332,6 @@ playlist_begin
 318:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/05 - Real In My Veins.flac
 319:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/06 - High (Feat. Elton John).flac
 320:Múm/múm - Yesterday Was Dramatic - Today Is OK (2001) [FLAC]/02 - Smell Memory.flac
+321:Greedo/God Level (2018)/17 - 03 Greedo - 100 100 100.mp3
+322:Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-04 Far Away.flac
 playlist_end
