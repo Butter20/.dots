@@ -3,8 +3,8 @@ configuration {
   icon-theme: "Numix-Circle";
 }
 * {
-    selected-normal-foreground:  rgba ( 51, 51, 51, 100 % );
-    foreground:                  #16A085;
+    selected-normal-foreground:  rgba ( 185, 177, 166, 100 % );
+    foreground:                  #B9B1A6;
     normal-foreground:           @foreground;
     alternate-normal-background: rgba ( 0, 0, 0, 0 % );
     red:                         rgba ( 220, 50, 47, 100 % );
@@ -21,10 +21,10 @@ configuration {
     alternate-normal-foreground: @foreground;
     normal-background:           rgba ( 0, 0, 0, 0 % );
     lightfg:                     rgba ( 0, 0, 0, 0 % );
-    selected-normal-background:  #16A085;
+    selected-normal-background:  #373531;
     border-color:                @foreground;
     spacing:                     2;
-    separatorcolor:              #16A085;
+    separatorcolor:              #373531;
     urgent-background:           rgba ( 0, 0, 0, 0 % );
     selected-urgent-background:  rgba ( 255, 153, 153, 100 % );
     alternate-urgent-foreground: @urgent-foreground;
