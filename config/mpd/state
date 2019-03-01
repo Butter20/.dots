@@ -1,8 +1,9 @@
-sw_volume: 100
+sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:FiFo
-state: stop
-current: 0
+state: pause
+current: 39
+time: 338.263000
 random: 0
 repeat: 0
 single: 0
@@ -11,327 +12,86 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/01 Valsable.flac
-1:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/02 Reverse Colony.flac
-2:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/03 Hozho.flac
-3:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/04 Vista Flores.flac
-4:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/05 Antara.flac
-5:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/06 Koan.flac
-6:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/07 Uyuni.flac
-7:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/08 Liminality.flac
-8:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/09 Initiation.flac
-9:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/10 Harawi.flac
-10:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/11 Quilla.flac
-11:Alejandro Mosso/[LLN010] Alejandro Mosso - Rituals (WEB FLAC)/12 Kashua.flac
-12:Poemme/Moments in Golden Light (2018)/1 At The Gates Of Dawn.mp3
-13:Poemme/Moments in Golden Light (2018)/2 Forest Hymn.mp3
-14:Poemme/Moments in Golden Light (2018)/3 Awning - Under The Willow Tree.mp3
-15:Poemme/Moments in Golden Light (2018)/4 With The Changing Of The Leaves.mp3
-16:Poemme/Moments in Golden Light (2018)/5 A Small Procession.mp3
-17:Dolphins Into The Future/On Seafaring Isolation/01 - on the high seas.mp3
-18:Dolphins Into The Future/On Seafaring Isolation/02 - lone voyager.mp3
-19:Dolphins Into The Future/On Seafaring Isolation/03 - onset-beyond clouds.mp3
-20:Dolphins Into The Future/On Seafaring Isolation/04 - memory of self.mp3
-21:Dolphins Into The Future/On Seafaring Isolation/05 - lapse-dream.mp3
-22:Dolphins Into The Future/On Seafaring Isolation/06 - aftermath-isle of self.mp3
-23:Dolphins Into The Future/On Seafaring Isolation/01 - on the high seas.mp3
-24:Dolphins Into The Future/On Seafaring Isolation/02 - lone voyager.mp3
-25:Dolphins Into The Future/On Seafaring Isolation/03 - onset-beyond clouds.mp3
-26:Dolphins Into The Future/On Seafaring Isolation/04 - memory of self.mp3
-27:Dolphins Into The Future/On Seafaring Isolation/05 - lapse-dream.mp3
-28:Dolphins Into The Future/On Seafaring Isolation/06 - aftermath-isle of self.mp3
-29:Mark McGuire/Mark McGuire -- Guitar Meditations/01 Intervals (First Variation).mp3
-30:Mark McGuire/Mark McGuire -- Guitar Meditations/02 Staying Home from School.mp3
-31:Mark McGuire/Mark McGuire -- Guitar Meditations/03 Hemisphere.mp3
-32:Mark McGuire/Mark McGuire -- Guitar Meditations/04 Curling.mp3
-33:Mark McGuire/Mark McGuire -- Guitar Meditations/05 Interlude.mp3
-34:Mark McGuire/Mark McGuire -- Guitar Meditations/06 Night Owls.mp3
-35:Mark McGuire/Mark McGuire -- Guitar Meditations/07 Rest.mp3
-36:Mark McGuire/Mark McGuire -- Guitar Meditations/08 Linkletter.mp3
-37:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/01 Flight.mp3
-38:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/02 Decimal Point.mp3
-39:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/03 Ghosts Around A Tree.mp3
-40:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/04 Clague Woods.mp3
-41:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/05 Locomotive.mp3
-42:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/06 Slipstreams.mp3
-43:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/07 Patterns of Development.mp3
-44:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/01 Through The Open Window.flac
-45:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/02 Collateral.flac
-46:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/03 Explosion Alarm.flac
-47:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/04 Searching.flac
-48:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/05 No Eye Noon Doe.flac
-49:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/06 The Marfa Lights (Live @ Pats In The Flats 06.24.09).flac
-50:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/1-01 Beneath The Bells.flac
-51:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/1-02 Wandering Memory.flac
-52:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-01 Escape.flac
-53:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-02 Postcard.flac
-54:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-03 In The Architecture.flac
-55:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-04 Far Away.flac
-56:Mark McGuire/Mark Mcguire - Vision Upon Purpose/01 - Vision Upon Purpose.flac
-57:Mark McGuire/Mark Mcguire - Vision Upon Purpose/02 - The Seventh Generation (We're Here, We're Ready).flac
-58:Mark McGuire/Mark Mcguire - Vision Upon Purpose/03 - All Due Respect (For the Elders).flac
-59:Mark McGuire/Mark Mcguire - Vision Upon Purpose/04 - Butterfly Medicine.flac
-60:Mark McGuire/Mark Mcguire - Vision Upon Purpose/05 - Gone Too Long.flac
-61:Mark McGuire/Mark Mcguire - Vision Upon Purpose/06 - Warriors of the Rainbow.flac
-62:Mark McGuire/Mark Mcguire - Vision Upon Purpose/07 - Inside the Eagle Corn.flac
-63:Mark McGuire/Mark Mcguire - Vision Upon Purpose/08 - Them Boys in the Woods.flac
-64:Mark McGuire/Mark Mcguire - Vision Upon Purpose/09 - Things Are Going to Change.flac
-65:Mark McGuire/Mark Mcguire - Vision Upon Purpose/10 - Obliterated.flac
-66:Mark McGuire/Mark Mcguire - Vision Upon Purpose/11 - The Fire Keeper.flac
-67:Grouper/2018 Escape to Blue (WEB)/01. Castles In The Sky.flac
-68:Grouper/2018 Escape to Blue (WEB)/02. Path Of The Wind.flac
-69:Grouper/2018 Escape to Blue (WEB)/03. One Thousand Wings.flac
-70:Grouper/2018 Escape to Blue (WEB)/04. Hidden Sanctuary.flac
-71:Grouper/2018 Escape to Blue (WEB)/05. Salt Air.flac
-72:Grouper/2018 Escape to Blue (WEB)/06. Tomorrow.flac
-73:Poemme/Poemme - Soft Ice (2017) WEB FLAC/01. Clouds of Breath.flac
-74:Poemme/Poemme - Soft Ice (2017) WEB FLAC/02. Southbound Formations.flac
-75:Poemme/Poemme - Soft Ice (2017) WEB FLAC/03. Lake-Effect.flac
-76:Poemme/Poemme - Soft Ice (2017) WEB FLAC/04. Quilted.flac
-77:Poemme/Poemme - Soft Ice (2017) WEB FLAC/05. When the Sun Is a Stranger.flac
-78:Poemme/Poemme - Soft Ice (2017) WEB FLAC/06. The Park at Night.flac
-79:Poemme/Poemme - Arboretum 2017/01. Miniature Menagerie.flac
-80:Poemme/Poemme - Arboretum 2017/02. Green Filtered Sunlight.flac
-81:Poemme/Poemme - Arboretum 2017/03. Birdsong.flac
-82:Poemme/Poemme - Arboretum 2017/04. Teeming.flac
-83:Poemme/Poemme - Arboretum 2017/05. Clear Depths.flac
-84:Poemme/Poemme - Arboretum 2017/06. Chypre.flac
-85:Poemme/Poemme - Arboretum 2017/07. Asleep on a Faded Moss Patch.flac
-86:Poemme/Poemme - Arboretum 2017/08. A Meeting of Cabbage Moths.flac
-87:Poemme/Poemme - Arboretum 2017/09. Asleep on a Faded Moss Patch (Sleeping Pill Mix).flac
-88:Emeralds/Emeralds - Allegory of Allergies/06 - underwater mountains.mp3
-89:Emeralds/Emeralds - Allegory of Allergies/01 - nereus (spirits over the lak.mp3
-90:Emeralds/Emeralds - Allegory of Allergies/07 - snores.mp3
-91:Emeralds/Emeralds - Allegory of Allergies/02 - lawn of mirrors.mp3
-92:Emeralds/Emeralds - Allegory of Allergies/03 - vicious.mp3
-93:Emeralds/Emeralds - Allegory of Allergies/08 - arbol del tule.mp3
-94:Emeralds/Emeralds - Allegory of Allergies/09 - light's cool.mp3
-95:Emeralds/Emeralds - Allegory of Allergies/04 - house of mirrors.mp3
-96:Emeralds/Emeralds - Allegory of Allergies/05 - mistakes.mp3
-97:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/01 Disengaged.flac
-98:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/02 Heavy Water-I'd Rather Be Sleeping.flac
-99:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/03 Stuck.flac
-100:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/04 When We Fall.flac
-101:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/05 Traveling Through A Sea.flac
-102:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/06 Fishing Bird (Empty Gutted In The Evening Breeze).flac
-103:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/07 Invisible.flac
-104:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/08 I'm Dragging A Dead Deer Up A Hill.flac
-105:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/09 A Cover Over.flac
-106:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/10 Wind And Snow.flac
-107:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/11 Tidal Wave.flac
-108:Grouper/Dragging A Dead Deer Up A Hill (2008) [FLAC 24bit]/12 We've All Gone To Sleep.flac
-109:Grouper/Grouper - Ruins (2014) [FLAC]/01 - Made of Metal.flac
-110:Grouper/Grouper - Ruins (2014) [FLAC]/02 - Clearing.flac
-111:Grouper/Grouper - Ruins (2014) [FLAC]/03 - Call Across Rooms.flac
-112:Grouper/Grouper - Ruins (2014) [FLAC]/04 - Labyrinth.flac
-113:Grouper/Grouper - Ruins (2014) [FLAC]/05 - Lighthouse.flac
-114:Grouper/Grouper - Ruins (2014) [FLAC]/06 - Holofernes.flac
-115:Grouper/Grouper - Ruins (2014) [FLAC]/07 - Holding.flac
-116:Grouper/Grouper - Ruins (2014) [FLAC]/08 - Made of Air.flac
-117:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 01 The Races.flac
-118:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 02 Parking Lot.flac
-119:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 03 Driving.flac
-120:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 04 Thanksgiving Song.flac
-121:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 05 Birthday Song.flac
-122:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 06 Blouse.flac
-123:Grouper/Grouper - Grid Of Points (2018) [24bit-FLAC]/Grouper - Grid Of Points - 07 Breathing.flac
-124:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 01 Cloud Damage.flac
-125:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 02 Positive Ruin Court Garden.flac
-126:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 03 Multiple Discovery.flac
-127:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 04 Calendula.flac
-128:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 05 Aura Show.flac
-129:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 06 Another First-Sea Machine.flac
-130:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 07 Coconut Serenade.flac
-131:Imaginary Softwoods/Imaginary Softwoods - Annual Flowers In Color (2016) [WEB FLAC]/Imaginary Softwoods - Annual Flowers In Color - 08 The Imminent Collapse Department.flac
-132:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/01 Untitled.flac
-133:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/02 Untitled.flac
-134:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/03 Untitled.flac
-135:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/04 Untitled.flac
-136:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/05 Untitled.flac
-137:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/06 Untitled.flac
-138:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/07 Untitled.flac
-139:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/08 Untitled.flac
-140:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/09 Untitled.flac
-141:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/10 Untitled.flac
-142:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/11 Untitled.flac
-143:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/12 Untitled.flac
-144:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/13 Untitled.flac
-145:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/14 Untitled.flac
-146:Imaginary Softwoods/Imaginary Softwoods - Imaginary Softwoods (2009) [CD] FLAC/15 Untitled.flac
-147:Imaginary Softwoods/Imaginary Softwoods - The Invisible Cloud Container/Imaginary Softwoods - The Invisible Cloud Container - 01 The Invisible Cloud Container.flac
-148:Imaginary Softwoods/Imaginary Softwoods - The Invisible Cloud Container/Imaginary Softwoods - The Invisible Cloud Container - 02 Beacon.flac
-149:Imaginary Softwoods/Imaginary Softwoods - The Path of Spectrolite (2011) [WEB] FLAC/01. Entrance Through Selenite Pillars.flac
-150:Imaginary Softwoods/Imaginary Softwoods - The Path of Spectrolite (2011) [WEB] FLAC/02. Eye Color (Forest of Light).flac
-151:Imaginary Softwoods/Imaginary Softwoods - The Path of Spectrolite (2011) [WEB] FLAC/03. Rainbow Obsidian Key.flac
-152:Imaginary Softwoods/Imaginary Softwoods - The Path of Spectrolite (2011) [WEB] FLAC/04. Globe II.flac
-153:Imaginary Softwoods/Imaginary Softwoods - The Path of Spectrolite (2011) [WEB] FLAC/05. Black Water and Ice.flac
-154:Imaginary Softwoods/Imaginary Softwoods - The Path of Spectrolite (2011) [WEB] FLAC/06. Crystal Pond.flac
-155:Knit Prism/Knit Prism - (2014) Pace {Scissor Tail ‎ST17 WEB} [FLAC]/01 Knit Prism - Untitled (Side A).flac
-156:Knit Prism/Knit Prism - (2014) Pace {Scissor Tail ‎ST17 WEB} [FLAC]/02 Knit Prism - Untitled (Side B).flac
-157:Lilypad/Lilypad - Cognition Failure/Lilypad - Cognition Failure - 01 Gold Drapes.flac
-158:Lilypad/Lilypad - Cognition Failure/Lilypad - Cognition Failure - 02 Elegant Rug.flac
-159:Lilypad/Lilypad - Cognition Failure/Lilypad - Cognition Failure - 03 Bronze Lamp.flac
-160:Marble Sky/Marble Sky - The Sad Return (Limited Edition) (2009) [FLAC]/Disc 1/01 Pulling Up Grass Under Blanket.flac
-161:Marble Sky/Marble Sky - The Sad Return (Limited Edition) (2009) [FLAC]/Disc 1/02 Dull Hue.flac
-162:Marble Sky/Marble Sky - The Sad Return (Limited Edition) (2009) [FLAC]/Disc 1/03 Fade.flac
-163:Marble Sky/Marble Sky - The Sad Return (Limited Edition) (2009) [FLAC]/Disc 1/04 What You Might Forget.flac
-164:Marble Sky/Marble Sky - The Sad Return (Limited Edition) (2009) [FLAC]/Disc 2/01 Reflect Sawyers Look.flac
-165:Mist/Mist - House (FLAC, Web)/01 Twin Lanes.flac
-166:Mist/Mist - House (FLAC, Web)/02 I Can Still Hear Your Voice.flac
-167:Mist/Mist - House (FLAC, Web)/03 Mist House.flac
-168:Mist/Mist - House (FLAC, Web)/04 Daydream.flac
-169:Mist/Mist - House (FLAC, Web)/05 Dead Occasion _ Ovary Stunts.flac
-170:Mist/Mist - House (FLAC, Web)/06 P.M_.flac
-171:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/01 - Graves.flac
-172:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/02 - Pupae.flac
-173:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/03 - Heatless.flac
-174:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/04 - The View.flac
-175:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/05 - Absorbed in the Bright Land.flac
-176:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/06 - Horned Territory.flac
-177:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/07 - Multitudes.flac
-178:Super Minerals/Super Minerals - Multitudes (2009) [FLAC]/08 - Coda.flac
-179:Acre/ACRE - Isolationist/01 - Isolationist 1.flac
-180:Acre/ACRE - Isolationist/02 - Isolationist 2.flac
-181:Acre/ACRE - Isolationist/03 - Isolationist 3.flac
-182:Acre/Acre - Sacrifice (2010) CD FLAC/01 - Badlands.flac
-183:Acre/Acre - Sacrifice (2010) CD FLAC/02 - Jaguarmirror.flac
-184:Acre/Acre - Sacrifice (2010) CD FLAC/03 - Live Take.flac
-185:Acre/Acre - Sacrifice (2010) CD FLAC/04 - Centennial.flac
-186:Acre/Acre - Sacrifice (2010) CD FLAC/05 - Citadel.flac
-187:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (A1) Crow Feathers & Coyote Tail.flac
-188:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (A2) Ceremonial Lodge.flac
-189:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (B1) Place The Skull On The Altar.flac
-190:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (C1) Long Ritual.flac
-191:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (D1) Clay Of The Earth.flac
-192:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (E1) Roaming Chief.flac
-193:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (F1) The Animal's War Party.flac
-194:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (G1) Starisu.flac
-195:Ajilvsga/The Origin Of The Chaul/Ajilvsga - (H1) Buffalo Spirit.flac
-196:Infinity Window/Infinity Window - 2008 - Trans Fat {Chocolate Monk ‎– CHOC-173} [FLAC]/01 Foaming Tusk.flac
-197:Infinity Window/Infinity Window - 2008 - Trans Fat {Chocolate Monk ‎– CHOC-173} [FLAC]/02 Trans Fat.flac
-198:Infinity Window/Infinity Window - 2008 - Trans Fat {Chocolate Monk ‎– CHOC-173} [FLAC]/03 Panama Rose.flac
-199:Imaginary Softwoods/Imaginary Softwoods - Canary Music (2018) [Cassette - FLAC]/01 New Resting Places.flac
-200:Imaginary Softwoods/Imaginary Softwoods - Canary Music (2018) [Cassette - FLAC]/02 Diagram of the Universe.flac
-201:Imaginary Softwoods/Imaginary Softwoods - Canary Music (2018) [Cassette - FLAC]/03 Remission Ache.flac
-202:Imaginary Softwoods/Imaginary Softwoods - Canary Music (2018) [Cassette - FLAC]/04 Daylight on a Larimar Blade.flac
-203:Imaginary Softwoods/Imaginary Softwoods - Canary Music (2018) [Cassette - FLAC]/05 Bog Swam Edit.flac
-204:Imaginary Softwoods/Imaginary Softwoods - Canary Music (2018) [Cassette - FLAC]/06 Pale Halo Fountain.flac
-205:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 01 The Appendage Point.flac
-206:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 02 Yellow Calcite.flac
-207:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 03 Yellow Calcite II.flac
-208:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 04 Anterograde Stone Remedy.flac
-209:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 05 Memory Loop.flac
-210:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 06 Painted Flowers Loop.flac
-211:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 07 Sapphire Point.flac
-212:Imaginary Softwoods/Imaginary Softwoods - Gold Fiction Loop Garden (2016) [24-Bit FLAC]/Imaginary Softwoods - Gold Fiction Loop Garden - 08 The Path of Axinite.flac
-213:Imaginary Softwoods/Imaginary Softwoods - The Suncoast Digest/Imaginary Softwoods - The Suncoast Digest - 01 The Rocky River.flac
-214:Move D/Move D - Kunststoff (2018) [FLAC]/01 Eastman.flac
-215:Move D/Move D - Kunststoff (2018) [FLAC]/02 Soap Bubbles.flac
-216:Move D/Move D - Kunststoff (2018) [FLAC]/03 Sandmann.flac
-217:Move D/Move D - Kunststoff (2018) [FLAC]/04 In-Out (initial mix).flac
-218:Move D/Move D - Kunststoff (2018) [FLAC]/05 Hood.flac
-219:Move D/Move D - Kunststoff (2018) [FLAC]/06 Tribute to Mr Fingers.flac
-220:Move D/Move D - Kunststoff (2018) [FLAC]/07 77 Sunset Strip.flac
-221:Move D/Move D - Kunststoff (2018) [FLAC]/08 Beyond the Machine.flac
-222:Move D/Move D - Kunststoff (2018) [FLAC]/09 Nimm 2.flac
-223:Move D/Move D - Kunststoff (2018) [FLAC]/10 Amazing Discoveries.flac
-224:Move D/Move D - Kunststoff (2018) [FLAC]/11 Trist.flac
-225:Move D/Move D - Kunststoff (2018) [FLAC]/12 Xing the Jordan - Seven.flac
-226:Move D/Move D - Workshop 13 [flac]/1. Move D - Untitled_1_Original_Mix.flac
-227:Move D/Move D - Workshop 13 [flac]/2. Move D - Untitled_2_Original_Mix.flac
-228:Move D/Move D - Workshop 13 [flac]/3. Move D - Untitled_3_Original_Mix.flac
-229:Move D/Move D Feat. DJ Laté - Workshop 02 (Workshop, workshop 02, WEB) - 2007/01 - Move D Feat. DJ Laté - Theo (Original Mix).flac
-230:Move D/Move D Feat. DJ Laté - Workshop 02 (Workshop, workshop 02, WEB) - 2007/02 - Move D Feat. DJ Laté - Felix (Original Mix).flac
-231:Move D/Move D Feat. DJ Laté - Workshop 02 (Workshop, workshop 02, WEB) - 2007/03 - Move D Feat. DJ Laté - Computer Flop (Original Mix).flac
-232:Move D/Move D - Silk & Shmoove EP (2006) {Compost 236-1 RE Vinyl 2017} [FLAC24-96]/01 - Your Rolling Hills.flac
-233:Move D/Move D - Silk & Shmoove EP (2006) {Compost 236-1 RE Vinyl 2017} [FLAC24-96]/02 - Like I was King (Black Label Mix).flac
-234:Move D/Move D - Silk & Shmoove EP (2006) {Compost 236-1 RE Vinyl 2017} [FLAC24-96]/03 - Horsin' Around.flac
-235:Move D/Move D - Silk & Shmoove EP (2006) {Compost 236-1 RE Vinyl 2017} [FLAC24-96]/04 - Silk Dub.flac
-236:Aphex Twin/Aphex Twin - 1995 - I Care Because You Do (1995 Original UK Pressing) [24;96 Vinyl FLAC]/10 - Alberto Balsalm.flac
-237:Múm/Múm - Finally We Are No One (2002) [FLAC]/01 - Sleep,Swim.flac
-238:Múm/Múm - Finally We Are No One (2002) [FLAC]/02 - Green Grass Of Tunnel.flac
-239:Múm/Múm - Finally We Are No One (2002) [FLAC]/03 - We Have A Map Of The Piano.flac
-240:Múm/Múm - Finally We Are No One (2002) [FLAC]/04 - Don't Be Afraid, You Have Just Got Your Eyes Closed.flac
-241:Múm/Múm - Finally We Are No One (2002) [FLAC]/05 - Behind Two Hills,,,,A Swimmingpool.flac
-242:Múm/Múm - Finally We Are No One (2002) [FLAC]/06 - K,Half Noise.flac
-243:Múm/Múm - Finally We Are No One (2002) [FLAC]/07 - Now There's That Fear Again.flac
-244:Múm/Múm - Finally We Are No One (2002) [FLAC]/08 - Faraway Swimmingpool.flac
-245:Múm/Múm - Finally We Are No One (2002) [FLAC]/09 - I Can't Feel My Hand Any More, It's Alright, Sleep Still.flac
-246:Múm/Múm - Finally We Are No One (2002) [FLAC]/10 - Finally We Are No One.flac
-247:Múm/Múm - Finally We Are No One (2002) [FLAC]/11 - The Land Between Solar Systems.flac
-248:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/01 - Hú Hviss - A Ship.flac
-249:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/02 - Weeping Rock, Rock.flac
-250:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/03 - Nightly Cares.flac
-251:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/04 - The Ghosts You Draw On My Back.flac
-252:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/05 - Stir.flac
-253:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/06 - Sing Me Out The Window.flac
-254:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/07 - The Island Of Children's Children.flac
-255:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/08 - Away.flac
-256:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/09 - Oh, How The Boat Drifts.flac
-257:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/10 - Small Deaths Are The Saddest.flac
-258:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/11 - Will The Summer Make Good For All Of Our Sins.flac
-259:Múm/múm - Summer Make Good (2004) [FLAC] {fatcd26}/12 - Abandoned Ship Bells.flac
-260:Andrés/Andres - Andres/01 Deep Inside.flac
-261:Andrés/Andres - Andres/02 Geno's Pimp Suite.flac
-262:Andrés/Andres - Andres/03 Love Hurts.flac
-263:Andrés/Andres - Andres/04 Vibe Zone.flac
-264:Andrés/Andres - Andres/05 You're Still The One Pt 2.flac
-265:Andrés/Andres - Andres/06 People.flac
-266:Andrés/Andres - Andres/07 Interlude 1.flac
-267:Andrés/Andres - Andres/08 Material World.flac
-268:Andrés/Andres - Andres/09 Take My Hand.flac
-269:Andrés/Andres - Andres/10 Interlude 2.flac
-270:Andrés/Andres - Andres/11 Reality.flac
-271:Andrés/Andres - Andres/12 Pause 1.flac
-272:Andrés/Andres - Andres/13 Pause 2.flac
-273:Andrés/Andres - Andres/14 Pause 3.flac
-274:Andrés/Andres - Andres/15 Salvador de Bahia 1.flac
-275:Andrés/Andres - Andres/16 Express.flac
-276:Andrés/Andrés - 2011 - Andres III [FLAC]/ANDRÉS - ANDRES III - M​.​M​-​28 - 01 Be Free Baby.flac
-277:Andrés/Andrés - 2011 - Andres III [FLAC]/ANDRÉS - ANDRES III - M​.​M​-​28 - 02 We Run Tings.flac
-278:Andrés/Andrés - 2011 - Andres III [FLAC]/ANDRÉS - ANDRES III - M​.​M​-​28 - 03 Baby.flac
-279:Andrés/Andrés - 2011 - Andres III [FLAC]/ANDRÉS - ANDRES III - M​.​M​-​28 - 04 Make It Last.flac
-280:Andrés/Andrés - 2011 - Andres III [FLAC]/ANDRÉS - ANDRES III - M​.​M​-​28 - 05 Don't Fall In.flac
-281:Andrés/Andrés - 2011 - Andres III [FLAC]/ANDRÉS - ANDRES III - M​.​M​-​28 - 06 Outta This Earth.flac
-282:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/01 - Extended Forecast .flac
-283:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/02 - The Marfa Lights .flac
-284:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/03 - A Pocket Full of Rain .flac
-285:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/04 - Radio Flyer .flac
-286:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/05 - Shallow where it should be Deep .flac
-287:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/06 - Aquaduct .flac
-288:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/07 - Sick Chemistry .flac
-289:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/08 - Sun Shining Through the Open Barn Door .flac
-290:Mark McGuire/Mark McGuire - Dream Team [2008] [FLAC]/01 Dream Team 1.flac
-291:Mark McGuire/Mark McGuire - Dream Team [2008] [FLAC]/02 Different Light.flac
-292:Mark McGuire/Mark McGuire - Dream Team [2008] [FLAC]/03 Dream Team 2.flac
-293:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/01 Uneasy Street.flac
-294:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/02 Mind Games.flac
-295:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/03 Ice Land Air.flac
-296:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/04 Language Barrier.flac
-297:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/01 The Path LIned With Colorful Stones.flac
-298:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/02 Under New-Age Skies.flac
-299:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/03 Dividing Lines.flac
-300:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/04 The Turtle And The Lizards And The Snake And The Dragonflies And The Field Mouse All Sat On The Riverbank.flac
-301:Mark McGuire/Mark McGuire - Moss Agate/Mark McGuire - Moss Agate - 01 Tracing Our Steps (flowers for April pt II).mp3
-302:Mark McGuire/Mark McGuire - Moss Agate/Mark McGuire - Moss Agate - 02 Moss Agate (under ground of older somewhere).mp3
-303:Mark McGuire/Mark McGuire - Moss Agate/Mark McGuire - Moss Agate - 03 Dark Cloud Enfolding The Echo of Gates.mp3
-304:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/01 - A Matter Of Time.flac
-305:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/02 - Along the Coral Reef.flac
-306:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/03 - The Passing of the Road Chief.flac
-307:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/04 - Trips Through the Park.flac
-308:Mark McGuire/mark mcguire - 2012 - nightshade/01 luminous, black sky.mp3
-309:Mark McGuire/mark mcguire - 2012 - nightshade/02 crux [the southern cross].mp3
-310:Mark McGuire/mark mcguire - 2012 - nightshade/03 beheld.mp3
-311:Mark McGuire/mark mcguire - 2012 - nightshade/04 first star.mp3
-312:Mark McGuire/mark mcguire - 2012 - nightshade/05 nightshade.mp3
-313:Mark McGuire/mark mcguire - 2012 - nightshade/06 seeing venus behind the moon.mp3
-314:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/01 - On The Run.flac
-315:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/02 - Icey.flac
-316:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/03 - Climax (Feat. 6LACK).flac
-317:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/04 - Sin (Feat. Jaden Smith).flac
-318:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/05 - Real In My Veins.flac
-319:Young Thug/Young Thug - On The Rvn (2018) [WEB FLAC]/06 - High (Feat. Elton John).flac
-320:Múm/múm - Yesterday Was Dramatic - Today Is OK (2001) [FLAC]/02 - Smell Memory.flac
-321:Greedo/God Level (2018)/17 - 03 Greedo - 100 100 100.mp3
-322:Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-04 Far Away.flac
+0:Mark McGuire/Mark McGuire -- Guitar Meditations/01 Intervals (First Variation).mp3
+1:Mark McGuire/Mark McGuire -- Guitar Meditations/02 Staying Home from School.mp3
+2:Mark McGuire/Mark McGuire -- Guitar Meditations/03 Hemisphere.mp3
+3:Mark McGuire/Mark McGuire -- Guitar Meditations/04 Curling.mp3
+4:Mark McGuire/Mark McGuire -- Guitar Meditations/05 Interlude.mp3
+5:Mark McGuire/Mark McGuire -- Guitar Meditations/06 Night Owls.mp3
+6:Mark McGuire/Mark McGuire -- Guitar Meditations/07 Rest.mp3
+7:Mark McGuire/Mark McGuire -- Guitar Meditations/08 Linkletter.mp3
+8:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/01 Flight.mp3
+9:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/02 Decimal Point.mp3
+10:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/03 Ghosts Around A Tree.mp3
+11:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/04 Clague Woods.mp3
+12:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/05 Locomotive.mp3
+13:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/06 Slipstreams.mp3
+14:Mark McGuire/Mark McGuire - Patterns Of Development [CDr Wagon, 2008]/07 Patterns of Development.mp3
+15:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/01 Through The Open Window.flac
+16:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/02 Collateral.flac
+17:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/03 Explosion Alarm.flac
+18:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/04 Searching.flac
+19:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/05 No Eye Noon Doe.flac
+20:Mark McGuire/Mark McGuire - Losing Sleep [2009] [FLAC]/06 The Marfa Lights (Live @ Pats In The Flats 06.24.09).flac
+21:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/1-01 Beneath The Bells.flac
+22:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/1-02 Wandering Memory.flac
+23:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-01 Escape.flac
+24:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-02 Postcard.flac
+25:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-03 In The Architecture.flac
+26:Mark McGuire/Mark McGuire - Guitar Meditations Vol. II [2010] [FLAC]/2-04 Far Away.flac
+27:Mark McGuire/Mark Mcguire - Vision Upon Purpose/01 - Vision Upon Purpose.flac
+28:Mark McGuire/Mark Mcguire - Vision Upon Purpose/02 - The Seventh Generation (We're Here, We're Ready).flac
+29:Mark McGuire/Mark Mcguire - Vision Upon Purpose/03 - All Due Respect (For the Elders).flac
+30:Mark McGuire/Mark Mcguire - Vision Upon Purpose/04 - Butterfly Medicine.flac
+31:Mark McGuire/Mark Mcguire - Vision Upon Purpose/05 - Gone Too Long.flac
+32:Mark McGuire/Mark Mcguire - Vision Upon Purpose/06 - Warriors of the Rainbow.flac
+33:Mark McGuire/Mark Mcguire - Vision Upon Purpose/07 - Inside the Eagle Corn.flac
+34:Mark McGuire/Mark Mcguire - Vision Upon Purpose/08 - Them Boys in the Woods.flac
+35:Mark McGuire/Mark Mcguire - Vision Upon Purpose/09 - Things Are Going to Change.flac
+36:Mark McGuire/Mark Mcguire - Vision Upon Purpose/10 - Obliterated.flac
+37:Mark McGuire/Mark Mcguire - Vision Upon Purpose/11 - The Fire Keeper.flac
+38:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/01 - Extended Forecast .flac
+39:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/02 - The Marfa Lights .flac
+40:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/03 - A Pocket Full of Rain .flac
+41:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/04 - Radio Flyer .flac
+42:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/05 - Shallow where it should be Deep .flac
+43:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/06 - Aquaduct .flac
+44:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/07 - Sick Chemistry .flac
+45:Mark McGuire/Mark McGuire - A Pocket Full of Rain (2009) [FLAC]/08 - Sun Shining Through the Open Barn Door .flac
+46:Mark McGuire/Mark McGuire - Dream Team [2008] [FLAC]/01 Dream Team 1.flac
+47:Mark McGuire/Mark McGuire - Dream Team [2008] [FLAC]/02 Different Light.flac
+48:Mark McGuire/Mark McGuire - Dream Team [2008] [FLAC]/03 Dream Team 2.flac
+49:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/01 Uneasy Street.flac
+50:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/02 Mind Games.flac
+51:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/03 Ice Land Air.flac
+52:Mark McGuire/Mark McGuire - Language Barrier [2009] [FLAC]/04 Language Barrier.flac
+53:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/01 The Path LIned With Colorful Stones.flac
+54:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/02 Under New-Age Skies.flac
+55:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/03 Dividing Lines.flac
+56:Mark McGuire/Mark McGuire - Light Movement (2008) [FLAC]/04 The Turtle And The Lizards And The Snake And The Dragonflies And The Field Mouse All Sat On The Riverbank.flac
+57:Mark McGuire/Mark McGuire - Moss Agate/Mark McGuire - Moss Agate - 01 Tracing Our Steps (flowers for April pt II).mp3
+58:Mark McGuire/Mark McGuire - Moss Agate/Mark McGuire - Moss Agate - 02 Moss Agate (under ground of older somewhere).mp3
+59:Mark McGuire/Mark McGuire - Moss Agate/Mark McGuire - Moss Agate - 03 Dark Cloud Enfolding The Echo of Gates.mp3
+60:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/01 - A Matter Of Time.flac
+61:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/02 - Along the Coral Reef.flac
+62:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/03 - The Passing of the Road Chief.flac
+63:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/04 - Trips Through the Park.flac
+64:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A1 - Ruhige Nervositat.flac
+65:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A1 - Ruhige Nervositat.flac
+66:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A2 - Gemaßigter Aufbruch.flac
+67:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A2 - Gemaßigter Aufbruch.flac
+68:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A3 - ... Und Mittelspiel.flac
+69:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A3 - ... Und Mittelspiel.flac
+70:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A4 - Ansatz.flac
+71:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A4 - Ansatz.flac
+72:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B1 - Damen-Eleganza.flac
+73:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B1 - Damen-Eleganza.flac
+74:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B2 - Ehrenvoller Kampf.flac
+75:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B2 - Ehrenvoller Kampf.flac
+76:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B3 - Hoheit Weicht (Nicht Ohne Schwung...).flac
+77:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B3 - Hoheit Weicht (Nicht Ohne Schwung...).flac
+78:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B4 - ... Und Souveranitat.flac
+79:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B4 - ... Und Souveranitat.flac
+80:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B5 - Remis.flac
+81:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B5 - Remis.flac
 playlist_end

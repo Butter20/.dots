@@ -6,7 +6,7 @@ configuration {
     selected-normal-foreground:  rgba ( 51, 51, 51, 100 % );
     foreground:                  #16A085;
     normal-foreground:           @foreground;
-    alternate-normal-background: rgba ( 255, 255, 255, 7 % );
+    alternate-normal-background: rgba ( 0, 0, 0, 0 % );
     red:                         rgba ( 220, 50, 47, 100 % );
     selected-urgent-foreground:  rgba ( 51, 51, 51, 100 % );
     blue:                        rgba ( 38, 139, 210, 100 % );
@@ -20,7 +20,7 @@ configuration {
     bordercolor:                 rgba ( 17, 170, 170, 100 % );
     alternate-normal-foreground: @foreground;
     normal-background:           rgba ( 0, 0, 0, 0 % );
-    lightfg:                     rgba ( 88, 104, 117, 100 % );
+    lightfg:                     rgba ( 0, 0, 0, 0 % );
     selected-normal-background:  #16A085;
     border-color:                @foreground;
     spacing:                     2;
@@ -36,9 +36,9 @@ configuration {
 
 #window {
     background-color: @background;
-    border:           1;
+    border:           0;
     padding:          10;
-    height: 38%;
+    height: 35%;
 }
 #mainbox {
     border:  0;
