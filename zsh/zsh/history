@@ -1,0 +1,6082 @@
+wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-gt.conf
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-gt.conf
+sudo dhcpcd wlp2s0
+startx
+pms xorg-xserver
+pmse xorg
+pms xorg-apps
+startx
+pmse xorg-server
+pms xorg
+startx
+lst
+ls
+dots
+ls
+cd xresources
+ls
+ls -a
+lsa
+cd .Xresources.d
+ls
+up 1
+cd .Xresources.d
+up 1
+cd .Xresources
+ls
+ls -a
+cd .Xresources
+pms
+pms pulseaudio pulseaudio-alsa
+pms pavucontrol
+cd /home/olin/.config/polybar
+ls
+mkdir scripts
+cd scripts
+v updates-arch-combined.sh
+ls
+cd
+back 1
+ls
+conf
+cd polybar
+ls
+cd scripts
+ls
+pmse font-awesome
+yas font-awesome
+pms ttf-font-awesome
+pms otf-font-awesome
+pmse siji
+yas siji
+yasy siji-git
+pmse noto-sans
+pmse noto
+pms noto-fonts
+dots
+ls -a
+cd config
+ls -a
+dots
+cd etc
+ls -a
+V /etc/pacman.conf
+pms
+pavucontrol &
+pmse extendedcolor
+pms perl-term-extendedcolor
+tmp
+cd /tmp
+git clone git://github.com/trapd00r/ls--.git
+cd ls--
+perl Makefile.PL
+make && su -c 'make install'
+pmse colormake
+yas colormake
+yas color
+pmse color-make
+yas color-make
+pmse make
+aliasn
+rf
+rf
+make && su -c 'make install'
+cd /tmp
+conf
+cd i3
+v config
+pic
+aliasn
+cd img
+cd walls
+ls
+v config
+pms feh
+cd /tmp/ls--
+make && su -c 'make install'
+cd
+lsa
+ls
+lst
+cd Downloads
+lst
+up 1
+rmd Downloads
+lst
+cd .Xresources.d
+lst
+up 1
+v .Xresources
+rf
+rf
+lst
+rf
+cd .Xresources.d
+v cursor
+pmse capitaine
+pmse cursors
+yas capitaine 
+yasy capitaine-cursors
+rf
+conf
+cd polybar
+lst
+cd scripts
+lst
+chmod 755 updates-arch-combined.sh
+lst
+cd
+conf
+cd gtk-3.0
+v settings.ini
+yas adapta-nokto
+pmse adapto-nokto
+pmse adapto
+pmse adapta
+pms adapta-gtk-theme
+pmse numix-circle
+yas numix-circle
+yasy numix-circle-icon-theme-git
+scu enable mpd
+scu start mpd
+img
+cd walls
+lst
+conf
+cd i3
+v config
+aliasn
+startgt
+startx
+scu enable psd
+scu start psd
+psd
+psd preview
+v /home/olin/.config/psd/.psd.conf
+V /home/olin/.config/psd/.psd.conf
+sudo V /home/olin/.config/psd/.psd.conf
+sudo v /home/olin/.config/psd/psd.conf
+sudo vim /home/olin/.config/psd/psd.conf
+scu restart psd
+pms
+yas pi-hole
+yasy pi-hole-server pi-hole-ftl
+pms lighttpd php-cgi
+yas tibia
+yasy tibia latest-1
+yasy tibia
+V /etc/php/php.ini\
+
+cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf
+sudo cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf
+sc enable lighttpd
+sc start lighttpd
+lst
+V /etc/hosts
+v /etc/hostname
+V /etc/hostname
+ip addr show
+V /etc/hosts
+V /etc/fstab
+pmse rainbow
+yas rainbow
+yasy rainbow
+pmi grc
+pmi colorgcc
+pmi ncmpcpp
+rf
+pmse zsh-syntax-highlighting
+pmi zsh-syntax-highlighting
+cd /usr/share
+lst
+cd zsh
+lst
+cd plugins
+lst
+mv zsh-syntax-highlighting /usr/share/
+sudo mv zsh-syntax-highlighting /usr/share/
+rf
+lst
+cd
+lst
+cd .Xresources.d
+lst
+v rxvt-unicode
+v rofi
+cd
+v .Xresources
+rf
+cd .Xresources.d
+v rofi
+rf
+v rofi
+rf
+v rofi
+rf
+cd
+lst
+startgt
+startx
+v .zshrc
+rf
+pms
+cd .Xresources.d
+lst
+v rofi
+rf
+rm rofi
+cd
+v .Xresources
+rofi -h
+rofi-theme-selector
+conf
+lst
+cd rofi
+lst
+v android_notification.rasi
+v config
+rf
+cd
+lst
+pmi lua
+mpv
+pmse ntfs
+pmi ntfs-3g
+sudo mount /dev/sdb1 /mnt
+mfilm
+ranger
+conf
+cd mpv
+lst
+cd Barry\ Lyndon\ \(1975\)
+mpv Barry\ Lyndon\ \(1975\).mkv
+pavucontrol &
+xrandrh
+func
+lst
+v xrandr.sh
+xrandr -h
+xrandr --help
+xrandr --listmonitors
+sh xrandr.sh
+mpv Barry\ Lyndon\ \(1975\).mkv
+mpv --config ~/.config/mpv/mpv.conf Barry\ Lyndon\ \(1975\).mkv
+htop
+cd
+sudo umount /mnt
+startgt
+startx
+pms
+yau
+pmi hdparm
+conf
+cd mpv
+lst
+v mpv.conf
+rmd watch_later
+lst
+mpv
+cd
+pmi filezilla
+conf
+cd mpv
+v mpv.conf
+cd
+lst
+lst -a
+dots
+lst
+mkdir vim
+cd vim
+v .vimrc
+up 1
+stow vim
+cd
+vim
+conf
+cd mpv
+v mpv.conf
+cd
+rm .vimrc
+lst
+pro
+sc enable pihole-ftl
+pmi kodi
+pmi unrar unzip zip
+pmi redshift
+pmi mesa
+pms
+redshift -l 14.63:-90.52
+redshift -l 14.63:-90.52 &
+scu enable redshift
+pms
+refmir
+pmi reflector
+refmir
+pmr mpv
+pmi mpv
+vid
+cd The.Simpsons.S10.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA
+mpv The.Simpsons.S10E19.Mom.and.Pop.Art.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+mpv The.Simpsons.S10E08.Homer.Simpson.in.Kidney.Trouble.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+mpv The.Simpsons.S10E14.Im.with.Cupid.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+cd
+v .xinitrc
+pmi unclutter
+v .xinitrc
+dots
+lst
+cd etc
+lst
+v dhclient.conf
+rm dhclient.conf
+cd /etc
+rm dhclient.conf
+cd /etc/X11
+lst
+cd xorg.conf.d
+lst
+lspci -v | less
+V /etc/X11/xorg.conf.d/20-intel.conf
+cd
+lst
+pmi vulkan=intel
+pmi vulkan-intel
+yasy filebot
+fb
+pmse java-8
+pmse jdk
+pmi jdk8-openjdk
+fb
+htop
+V /etc/fstab
+lsta
+git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+con
+conf
+cd mpv
+v mpv.conf
+cd
+lsta
+fb
+htop
+fb
+vid
+mv The.Simpsons.S10.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA Season\ 10
+sudo mount /dev/sdb1 /mnt
+cp -r Season\ 10 /mnt/tv/The\ Simpsons
+mtv
+cd The\ Simpsons
+cd Season\ 10
+cd
+sudo umount /mnt
+startgt
+startx
+pms
+yau
+ifconfig
+pmi ccze
+pmi ruby-rainbow
+pmi python-blessings python2-blessings
+dmesg
+cd /etc
+lst
+v resolv.conf
+V resolv.conf
+sudo chattr +i resolv.conf
+lst
+sc restart lighttpd
+cd
+lst
+pmi colorgcc
+cd /etc
+v issue
+mv issue issue.bak
+sudo mv issue issue.bak
+V issue
+cd
+lst
+vid
+cd Season\ 10
+mediainfo The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+pmi mediainfo
+mediainfo The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+cd
+pmi downgrade
+yasy downgrade
+downgrade filebot
+downgrade filebot
+pms
+conf
+cd polybar
+v scripts
+v config
+v config
+cd
+pms
+dots
+git commit -a
+git config --global rsestak1@gmail.com
+git commit -a
+git config --global butter@vivaldi.net
+git config butter@vivaldi.net
+cd
+git config --global bharken@protonmail.com
+git config --global "rsestak1@gmail.com"
+git config --global user.email rsestak1@gmail.com
+git config --global user.name Robert Sestak
+git commit -a
+dots
+git commit -a
+git push
+git push
+git push
+git push
+cd
+conf
+cd rofi
+lst
+v android_notification.rasi
+v sidetab.rasi
+v config
+cd
+aliasn
+rf
+ls
+ls
+aliasn
+rf
+lst
+ls
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E02.Wizard.of.Evergreen.Terrace.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+conf
+cd mpv
+lst
+cd scripts
+lst
+v stats.lua
+v stats.lua
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E02.Wizard.of.Evergreen.Terrace.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+conf
+lst
+cd mpv
+lst
+cd vs-scripts
+lst
+up 1
+v mpv.conf
+vid
+ cd Season\ 10
+mpv The.Simpsons.S10E03.Bart.the.Mother.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+cd
+lst
+conf
+cd mpv
+v mpv.conf
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+conf
+cd mpv
+v con
+v mpv.conf
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E05.When.You.Dish.Upon.a.Star.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+cd
+ip addr show
+V /etc/pihole/pihole-FTL.conf
+v /etc/pihole/setupVars.conf
+ip addr show
+V /etc/pihole/setupVars.conf
+sudo mount /dev/sdb1 /mnt
+mfilm
+func
+sh xrandr.sh
+lst
+cd Princess\ Mononoke\ \(1997\)
+mpv Princess\ Mononoke\ \(1997\).mkv
+pavucontrol &
+cd
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+ncmpcpp
+pms
+pms
+rf
+pms
+sudo mount /dev/sdb1 /mnt
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+sudo umount /mnt
+vid
+cd Season\ 10
+lst
+conf
+cd mpv
+cd scripts
+v torque-progressbar.conf
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+conf
+cd mpv
+cd scripts
+rm torque-progressbar.conf
+v osc.conf
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+mpv The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+pmi vapoursynth
+mpv The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+conf
+cd mpv
+lst
+cd vs-scripts
+lst
+mv motion-interpolation.vpy motion-interpolation.py
+v motion-interpolation.py
+vid
+cd Season\ 10
+mpv The.Simpsons.S10E01.Lard.of.the.Dance.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+cd
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Princess\ Mononoke\ \(1997\)
+func
+sh xrandr.sh
+mpv Princess\ Mononoke\ \(1997\).mkv
+pavucontrol &
+mani
+cd Samurai\ Champloo
+lst
+mpv Samurai\ Champloo\ -\ 1x
+mpv Samurai\ Champloo\ -\ 1x01\ -\ Tempestuous\ Temperaments.mkv
+mani
+cd Black\ Lagoon
+cd Season\ 1
+mpv Black\ Lagoon\ -\ 1x01\ -\ The\ Black\ Lagoon.mkv
+stzrtgt
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mtv
+cd The\ Simpsons
+cd Season\ 10
+rm The.Simpsons.S10E18.Simpsons.Bible.Stories.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E19.Mom.and.Pop.Art.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E20.The.Old.Man.and.the.c.Student.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E21.Monty.Cant.Buy.Me.Love.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E22.They.Saved.Lisas.Brain.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E23.30.Minutes.Over.Tokyo.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+vid
+cd Season\ 10
+cp The.Simpsons.S10E18.Simpsons.Bible.Stories.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E19.Mom.and.Pop.Art.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E20.The.Old.Man.and.the.c.Student.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E21.Monty.Cant.Buy.Me.Love.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E22.They.Saved.Lisas.Brain.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv The.Simpsons.S10E23.30.Minutes.Over.Tokyo.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv /mnt/tv/The\ Simpsons/Season\ 10
+sudo umount /mnt
+ip addr show
+pms
+cd
+pms
+yau
+yasy google-chrome
+rf
+pms
+lst
+vid
+lst
+cd PepeElToro\ \(Rodriguez,1953\)
+lst
+mpv PEPEELTORO.
+mpv PEPEELTORO.avi
+vid
+sudo mount /dev/sdb1 /mnt
+pmse ext4
+lsblk
+sudo mount /dev/sdb1 /mnt
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+pms
+mdoc
+cd /mnt/doc
+cp -r Planet\ Earth ~/vid
+cd
+mani
+cd Black\ Lagoon
+ls
+lst
+cd Season\ 1
+lst
+up 1
+cp -r Season\ 1 ~/vid/
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mv Planet\ Earth /mnt/tv/
+mkdir Black\ Lagoon
+mv Season\ 1 Black\ Lagoon
+mkdir /mnt/anime
+mv Black\ Lagoon /mnt/anime/
+sudo umount /mnt
+cd
+vid
+lst
+sudo mount /dev/sdb1 /mnt
+ranger
+mani
+cd Black\ Lagoon
+cd Season\ 1
+mpv Black\ Lagoon\ -\ 1x02\ -\ Mangrove\ Heaven.mkv
+func
+sh xrandr.sh
+pavucontrol &
+cd
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+pms
+pms
+pms
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+lsblk
+lsblk
+lsblk
+lsblk
+lsblk
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mnt
+cd doc
+cp -r Blue\ Planet\ II ~/vid
+cd
+mnt
+cd doc
+lst
+cp -r 
+cp -r The\ Blue\ Planet ~/vid
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+vid
+mv Blue\ Planet\ II The\ Blue\ Planet /mnt/tv/
+cd
+sudo umount /mnt
+aliasn
+balance
+balance -v /home
+balstat
+balstat /home
+balstat /home
+scrub /home
+scrubstat /home
+scrubstat /home
+pms
+scrubstat /home
+conf
+cd rofi
+lst
+v lb2.rasi
+v config
+up 1
+mv rofi ~/.dots/config/
+dots
+mkdir ~/.config/rofi
+cd config
+lst
+stow -t ~/.config/rofi rofi
+lst
+conif
+conf
+lst
+rmd rofi
+lst
+dots
+stowcon
+conf
+lst
+cd rofi
+lst
+up 1
+cd gtk-3.0
+v settings.ini
+conf
+cd rofi
+v config
+v lb2.rasi
+v lb2.rasi
+mv lb2.rasi lb3.rasi
+v config
+cd
+dots
+git commit -a
+git add config/rofi
+git commit -a
+git push
+lst
+cd
+lst
+cid
+vid
+lst
+cd Planet.Earth.II.S01.2016.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR
+lst
+medainfo Planet.Earth.II.S01E05.Grasslands.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+mediainfo Planet.Earth.II.S01E05.Grasslands.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+mpv Planet.Earth.II.S01E05.Grasslands.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+cd
+vid
+cd PepeElToro\ \(Rodriguez,1953\)
+lst
+unrar e PEPEELTORO.rar
+lst
+rm *rar
+lst
+mpv PEPEELTORO.avi
+htop
+java --help
+java -h
+archlinux-java status
+pmi java-10-openjdk
+pmi jdk10-openjdk
+refmir
+archlinux-java status
+archlinux-java set java-10-openjdk
+sudo archlinux-java set java-10-openjdk
+lst
+mv PEPEELTORO.avi Pepe\ El\ Toro\ \(1953\).avi
+lst
+mv PEPEELTORO.idx Pepe\ El\ Toro\ \(1953\).idx
+mv PEPEELTORO.sub Pepe\ El\ Toro\ \(1953\).sub
+lst
+up 1
+mv PepeElToro\ \(Rodriguez,1953\) Pepe\ El\ Toro\ \(1953\)
+lst
+mv The.Seventh.Seal.1957.REMASTERED.1080p.BluRay.x264-DEPTH The\ Seventh\ Seal\ \(1957\)
+cd The\ Seventh\ Seal\ \(1957\)
+lst
+rm *nfo
+mv The.Seventh.Seal.1957.REMASTERED.1080p.BluRay.x264-DEPTH.mkv The\ Seventh\ Seal\ \(1957\).mkv
+up 1
+lst
+mpv Dos.tipos.de.cuidado\[Pedro.Infante.Jorge.Negrete\]\(1953\).avi
+lst
+pmse javafx
+pas javafx
+yas javafx
+lst
+mv Bohemian.Rhapsody.2018.VUDU.1080p.WEB-DL.DDP5.1.H.264-BLUTONiUM.mkv Bohemian\ Rhapsody\ \(2018\).mkv
+lst
+mediainfo Bohemian\ Rhapsody\ \(2018\).mkv
+lst
+refmir
+lst
+conf
+lst
+cd ranger
+lst
+cd colorschemes
+lst
+up 1
+lst
+v rifle.conf
+cd __pycache__
+lst
+up 1
+lst
+cd colorschemes
+lst
+up 1
+ranger
+cd colorschemes
+lst
+ranger
+ranger
+ranger
+ranger
+ranger
+ranger
+tune
+lst
+mkdir Mark\ Mcguire
+mv Mark\ Mcguire* Mark\ Mcguire/
+mv Mark\ McGuire* Mark\ Mcguire/
+lst
+mv Mark\ Mcguire Mark\ McGuire
+lst
+mkdir Manuel\ G√∂ttsching
+mv Manuel\ G√∂ttsching Manuel\ G√∂ttsching
+lst
+mv Manuel\ G√∂ttsching\ -\ E2-E4\ \[24bit,\ 96kHz\ Vinyl\ Rip\]\ \(1984\)\(FLAC\) Manuel\ G√∂ttsching/
+lst
+mkdir Marble\ Sky
+mv Marble\ Sky\ -\ The\ Sad\ Return\ \(Limited\ Edition\)\ \(2009\)\ \[FLAC\] Marble\ Sky/
+lst
+ncmpcpp
+conf
+ncmpcpp
+conf
+lst
+cd ncmpcpp
+lst
+v config
+ncmpcpp
+v config
+ncmpcpp
+conf
+cd ncmpcpp
+v config
+ncmpcpp
+v config
+ncmpcpp
+v config
+ncmpcpp
+cd
+lst
+cd
+conf
+pms
+ip addr
+ifconfig
+dmesg
+cd
+lst
+ranger
+ranger
+vid
+cd Planet.Earth.II.S01.2016.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR
+mpv Planet.Earth.II.S01E05.Grasslands.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+cd
+sudo mount /dev/sdb1 /mnt
+mkdir /mnt/tv/Planet\ Earth\ II
+vid
+cd Planet.Earth.II.S01.2016.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR
+cp Planet.Earth.II.S01E05.Grasslands.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv Planet.Earth.II.S01E06.Cities.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv /mnt/tv/Planet\ Earth\ II
+cd
+sudo umount /mnt
+vid
+lst
+ranger
+conf
+cd ranger
+cd colorschemes
+lst
+mv rangy.py rangy.py.bak
+ranger
+ranger
+mv rangy.py.bak rangy.py
+cd __pycache__
+lst
+rm *pyc
+lst
+up 1
+ranger
+cd __pycache__
+lst
+ranger
+up 1
+up 1
+lst
+cd __pycache__
+lst
+rm options.cpython-36.opt-1.pyc
+up 1
+ranger
+ranger
+cd
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+lst
+up 1
+cd anime
+lst
+rmd Black\ Lagoon
+up 1
+lst
+cd film
+lst
+vid
+lst
+mediainfo Bohemian\ Rhapsody\ \(2018\).mkv
+lst
+mv Pepe\ El\ Toro\ \(1953\) Bohemian\ Rhapsody\ \(2018\).mkv /mnt/film
+cd
+sudo umount /mnt
+vid
+lst
+mpv Tarde.para.morir.joven.2018.1080p.Latinof.mkv
+ncmpcpp
+vid
+lst
+mv Tarde.para.morir.joven.2018.1080p.Latinof.mkv Tarde\ Para\ Morir\ Joven\ \(2018\).mkv
+sudo mount /dev/sdb1 /mnt
+cp Tarde\ Para\ Morir\ Joven\ \(2018\).mkv /mnt/film/
+sudo umount /mnt
+pms
+pms
+refmir
+pms
+pms
+yau
+yasy pi-hole-server pi-hole-ftl
+pms
+rf
+cd
+cd zsh
+lst
+v 01-prompt.zsh
+lst
+v powerlevel9k.zsh-theme
+cd
+lst
+lst
+pms
+pms
+yau
+yasy pi-hole-server
+pms
+pmse termcap
+yas termcap
+yasy termcap
+pro
+pmr termcap
+pms
+yau
+yasy pi-hole-ftl
+lst
+v powerlevel9k.zsh-theme
+v 01-prompt.zsh
+pms
+sudo mount /dev/sdb1 /mnt
+lsblk
+vid
+lst
+mkdir Tarde\ Para\ Morir\ Joven\ \(2018\)
+mv Tarde\ Para\ Morir\ Joven\ \(2018\).mkv Tarde\ Para\ Morir\ Joven\ \(2018\)/
+lst
+cd The\ Seventh\ Seal\ \(1957\)
+lst
+up 1
+lst
+mtv
+cd Spongebob\ Squarepants
+lst
+up 1
+cp -r Spongebob\ Squarepants ~/vid/
+cd Tim\ and\ Eric\ Awesome\ Show,\ Great\ Job\!
+lst
+up 1
+cp -r Tim\ and\ Eric\ Awesome\ Show,\ Great\ Job\! ~/vid/
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mv Spongebob\ Squarepants Tim\ and\ Eric\ Awesome\ Show,\ Great\ Job\! /mnt/tv/
+sudo umount /mnt
+lsblk
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+cd .Xresources.d
+lst
+v cursor
+yas capitaine
+rf
+cd
+conf
+lst
+scu status redshift
+scu restart redshift
+cd
+v .xinitrc
+scu stop redshift
+scu start redshift
+scu stop redshift
+conf
+cd i3
+lst
+v config
+cd
+lst
+lsta
+pms
+fb
+pmse javafx
+yas filebot
+yasy filebot47
+fb
+pmse openjfx
+archlinux-java set java-8-openjdk
+sudo archlinux-java set java-8-openjdk
+filebot47
+fb
+htop
+vid
+cd Planet.Earth.II.S01.2016.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR
+lst
+rm *nfo
+lst
+cd
+lst
+yas javafx
+pmi java-openjfx
+fb
+yas jre
+yasy jre
+archlinux-java status
+archlinux-java set java-11-jdk
+sudo archlinux-java set java-11-jdk
+fb
+sudo mount /dev/sdb1 /mnt
+pms
+sudo umount /mnt
+pms
+yau
+yasy google-chrome
+vid
+lst
+mkdir .3d
+lst
+lsta
+cd
+vid
+pms
+lst
+mpv AML4.Final.mp4
+mv AML4.Final.mp4 \[AgentRedGirl\]\ All\ My\ Mother\'s\ Love\ 4.mp4
+lst
+mv \[AgentRedGirl\]\ All\ My\ Mother\'s\ Love\ 4.mp4 .3d/
+lst
+lst
+mpv \[3D\ Hentai\]\ Girlfriends\ 4\ Ever\ -\ DLC\ 1\ \[Video\ Rip\]\ \(1080p\).mp4
+lst
+mpv Rena\ senpai\ and\ my\ baton.mp4
+rmd .3d
+rm Rena\ senpai\ and\ my\ baton.mp4 \[3D\ Hentai\]\ Girlfriends\ 4\ Ever\ -\ DLC\ 1\ \[Video\ Rip\]\ \(1080p\).mp4
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+rmd Godless\ \(2017\) Girls
+lst
+rmd Vice\ Principals
+lst
+cd
+vid
+lst
+mv Tarde\ Para\ Morir\ Joven\ \(2018\) The\ Seventh\ Seal\ \(1957\) /mnt/film
+vid
+cd The\ Seventh\ Seal\ \(1957\)
+lst
+cd
+lst
+lsblk
+mfilm
+htop
+htop
+sudo mount /dev/sdb1 /mnt
+stargt
+startgt
+startx
+mfilm
+cd The\ Seventh\ Seal\ \(1957\)
+lst
+up 1
+rmd The\ Seventh\ Seal\ \(1957\)
+cd
+vid
+lst
+cd The\ Seventh\ Seal\ \(1957\)
+lst
+up 1
+cd The\ Seventh\ Seal\ \(1957\)
+mpv The\ Seventh\ Seal\ \(1957\).mkv
+up 1
+mv The\ Seventh\ Seal\ \(1957\) /mnt/film
+mfilm
+cd The\ Seventh\ Seal\ \(1957\)
+ldt
+lst
+cd
+lst
+vid
+mv Season\ 10 /mnt/tv/The\ Simpsons
+lst
+sudo umount /mnt
+pms
+cd Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\)
+lst
+mpv Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\).mp4
+vid
+yau
+yasy pi-hole-ftl
+mkdir .3d
+mv Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\) MiroAffect3D\ -\ Bloodlust\ Cerene\ -\ Royal\ Descent\ -\ Main\ Movie\ v1-02\ \[1080pHD\]\[10mbps\].mp4 .3d/
+lst
+mv Planet.Earth.II.S01.2016.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR Planet\ Earth\ II
+lst
+aliasn
+balance -v /home
+scrub /home
+pms
+scrubstat /home
+scrubstat /home
+pms
+pms
+yau
+pms
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+startgt
+startx
+pms
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mani
+cp -r 
+cp -r Samurai\ Champloo ~/vid
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+vid
+mv Samurai\ Champloo /mnt/anime
+sudo umount /mnt
+lst
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+vid
+lst
+cd Juan\ Bustillo\ Oro\ -\ 1940\ -\ Ahi\ esta\ el\ detalle
+lst
+mpv Ahi\ esta\ el\ detalle.avi
+sudo umount /mnt
+poweroff
+startgt
+startx
+vid
+lst
+sudo lsT
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+startgt
+startx
+pms
+vid
+cd .3d
+lst
+mpv MiroAffect3D\ -\ Bloodlust\ Cerene\ -\ Royal\ Descent\ -\ Main\ Movie\ v1-02\ \[1080pHD\]\[10mbps\].mp4
+pms
+lst
+vid
+lst
+cd \[TittiPorn\]\ Minipack\ -\ 6\ videos\ \[1080p\]
+mpv 011-gloriousmounds.mp4
+mpv 011-gloriousmounds.mp4
+mpv 012-bigtittyswallow.mp4
+cd
+lst
+vid
+cd \[TittiPorn\]\ Minipack\ -\ 6\ videos\ \[1080p\]
+mpv 010-seaviewsandbags.mp4
+mpv 008-cumonmyboobies.mp4
+cd
+lst
+vid
+cd 
+vid
+cd \[TittiPorn\]\ Minipack\ -\ 6\ videos\ \[1080p\]
+mpv 007-camchatcans.mp4
+mpv 009-bikinimilkbombs.mp4
+vid
+cd .3d
+cd Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\)
+mpv Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\).mp4
+cd
+vid]
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+vid
+cd .3d
+cd Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\)
+mpv Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\).mp4
+pms
+yau
+yasy pi-hole-server
+mpv Best\ Animated\ Porn\ Compilation\ -\ Best\ Creators\ Edition\ \(Part\ 2\).mp4
+cd
+pms
+func
+sh xrandr.sh
+pavucontrol &
+sudo mount /dev/sdb1 /mnt
+\poweroff
+startgt
+startx
+pms
+pms
+yau
+pms
+func
+sh xrandr.sh
+sudo mount /dev/sdb1 /mnt
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+yau
+yasy google-chrome numix-circle-icon-theme-git
+pms
+pms
+vid
+lst
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+mpv s01e13\ -\ The\ Legend\ of\ Goku.mkv
+lst
+sudo mount /dev/sdb1 /mnt
+lsblk
+reboot
+
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+mkdir /mnt/anime/Dragon\ Ball
+mv s01* /mnt/anime/Dragon\ Ball/
+sudo umount /mnt
+cd
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank/\
+lst
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+pms
+pms
+pms
+zsh
+cd zsh
+v 00-envars.zsh
+rf
+func
+sudo mount /dev/sdb1 /mnt
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mani
+lst
+rmd Samurai\ Champloo
+cd Dragon\ Ball
+lst
+mkdir Season\ 1
+mv s* Season\ 1
+lt
+lst
+mkdir Season\ 2
+vid
+lst
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+mv s02* /mnt/anime/Dragon\ Ball/Season\ 2/
+sudo umount /mnt
+cd
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+mediainfo s01e06\ -\ Keep\ an\ Eye\ on\ the\ Dragon\ Balls.mkv
+cd
+lst
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+startgt
+startx
+pms
+pms
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+sudo mount /dev/sdb1 /mnt
+mkdir /mnt/anime/Dragon\ Ball/Season\ 3
+mv s03* /mnt/anime/Dragon\ Ball/Season\ 3/
+sudo umount /mnt
+cd
+pmse tor
+pas tor
+yas tor
+pmse torbrowser
+pas torbrowser
+yas torbrowser
+pms
+yau
+yasy pi-hole-server pi-hole-ftl
+pms
+sudo mount /dev/sdb1 /mnt
+restart
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+rmd The\ Ren\ \&\ Stimpy\ Show\ \(1991-2003\)\ 11xDVD9\ NTSC-CultFilms‚É§ÉÇ
+lst
+cd
+pms
+fb
+htop
+vid
+lst
+cd
+vid
+sudo mount /dev/sdb1 /mnt
+lst
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+mkdir /mnt/anime/Dragon\ Ball/Season\ 4
+cp s04* /mnt/anime/Dragon\ Ball/Season\ 4/
+sudo umount /mnt
+vid
+lst
+cd LostEpisodes
+lst
+mpv Ren.and.Stimpy.Adult.Party.Cartoon.S01E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+vid
+lst
+pms
+pms
+refmir
+pms
+pmse makemkv
+yas makemkv
+yasy makemkv
+pms
+pms
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+sudo mount /dev/sdb1 /mnt
+mkdir /mnt/anime/Dragon\ Ball/Season\ 5
+cp s05* /mnt/anime/Dragon\ Ball/Season\ 5/
+mnt
+cd tv
+lst
+rmd Superjail\! The\ Blue\ Planet
+mani
+cd Dragon\ Ball
+cd Season\ 5
+lst
+rm s05e12\ -\ Siege\ on\ Chow\ Castle.mkv s05e14\ -\ Awaken\ Darkness.mkv s05e13\ -\ Conquest\ and\ Power.mkv
+lst
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+mani
+cd Dragon\ Ball
+cd Season\ 5
+rm *mkv
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+cp s05* /mnt/anime/Dragon\ Ball/Season\ 5/
+mani
+lst
+cd Dragon\ Ball
+cd Season\ 
+cd Season\ 5
+lst
+rm s05e31\ -\ Hotter\ Than\ Lava.mkv
+mtv
+lst
+rmd Planet\ Earth
+rmd Planet\ Earth\ II
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+cp s05e31\ -\ Hotter\ Than\ Lava.mkv /mnt/anime/Dragon\ Ball/Season\ 5/
+cd
+sudo umount /mnt
+pms
+pms
+yau
+yasy google-chrome
+vid
+mkdir Ren\ &\ Stimpy
+mkdir Ren\ \&\ Stimpy
+mv LostEpisodes Ren\ \&\ Stimpy
+rmd Ren\ 
+lst
+rmd \[TittiPorn\]\ Minipack\ -\ 6\ videos\ \[1080p\]
+lst
+pms
+sudo mount /dev/sdb1 /mnt
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+mani
+cd Dragon\ Ball
+lst
+cd Season\ 4
+lst
+vid
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+vid
+lst
+cd Elegant\ Angel\ -\ Pornstar\ Workout\ 1\ \(2009\)\ \[BLURAY-ISO\]
+mpv PORNSTAR_WORKOUT.iso
+mpv PORNSTAR_WORKOUT.iso
+cd
+pms
+vid
+lst
+cd Elegant\ Angel\ -\ Pornstar\ Workout\ 1\ \(2009\)\ \[BLURAY-ISO\]
+lst
+cd
+lst
+mv Videos vid/
+vid
+cd Videos
+lst
+mv Pornstar\ Workout ~/vid/
+up 1
+rmd Videos
+cd Pornstar\ Workout
+lst
+mpv title_t00.mkv
+vid
+vid
+cd Pornstar\ Workout
+mpv title_t01.mkv
+mpv title_t02.mkv
+mpv title_t03.mkv
+cd
+vid
+cd Pornstar\ Workout
+mpv title_t04.mkv
+lst
+cd
+lst
+pms
+mpv title_t05.mkv
+cd
+lst
+lst
+lst
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+htop
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+pms
+reboot
+startgt
+startx
+func
+sh xrandr.sh
+sudo mount /dev/sdb1 /mnt
+pavucontrol &
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+vid
+cd The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb
+lst
+mpv The.Man.in.the.High.Castle.S01E01.The.New.World.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+mpv The.Man.in.the.High.Castle.S01E02.Sunrise.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+mpv The.Man.in.the.High.Castle.S01E03.The.Illustrated.Woman.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+pms
+pms
+yau
+pms
+vid
+mpv Ashley\ Alban\ -\ Step-Sister\ Missionary\ Sex.mp4
+cd
+lst
+lst
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+lsblk
+lsblk
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mkdir /mnt/anime/Dragon\ Ball/Season\ 6
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+cp s06* /mnt/anime/Dragon\ Ball/Season\ 6/
+cd
+lst
+sudo umount /mnt
+vid
+cd The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb
+func
+sh xrandr.sh
+pavucontrol &
+pms
+mpv The.Man.in.the.High.Castle.S01E03.The.Illustrated.Woman.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+mpv The.Man.in.the.High.Castle.S01E04.Revelations.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+poweroff
+startgt
+startx
+vid
+mpv Ashley\ Alban\ -\ Secrets\ With\ Sister-In-Law.mp4
+lst
+rmd Elegant\ Angel\ -\ Pornstar\ Workout\ 1\ \(2009\)\ \[BLURAY-ISO\] Pornstar\ Workout Ashley\ Alban\ -\ S*
+rmd Elegant\ Angel\ -\ Pornstar\ Workout\ 1\ \(2009\)\ \[BLURAY-ISO\] Pornstar\ Workout
+rm Ashley\ Alban\ -\ S*
+lst
+pms
+lst
+lst
+pms
+yau
+yasy pi-hole-ftl
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+cp -r The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb /mnt/tv/
+mtv
+vi
+mani
+lst
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+lst
+cd Dragon\ Ball
+lst
+rmd Season\ 4 Season\ 5
+vid
+mtv
+cd The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb
+lst
+rm *mkv
+up 1
+tmd The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb
+rmd The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb
+mkdir The\ Man\ in\ the\ High\ Castle
+vid
+cd The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb
+lst
+cp *mkv /mnt/tv/The\ Man\ in\ the\ High\ Castle
+sudo umount /mnt
+cd
+pms
+lst
+cd
+lst
+ls
+lst
+fb
+htop
+pms
+pmse jre
+pas jre
+yas jre
+archlinux-java status
+archlinux-java set java-8-openjdk
+sudo archlinux-java set java-8-openjdk
+fb
+pmse openjfx
+pms
+pmi filebot
+yasy filebot
+archlinux-java set java-10-openjdk
+sudo archlinux-java set java-10-openjdk
+fb
+htop
+archlinux-java set java-8-openjdk
+sudo archlinux-java set java-8-openjdk
+javafx
+java
+fb
+htop
+yas jdk
+yasy jdk
+yasy jdk8
+ybld
+cd jdk8
+lst
+makepki --help
+makepki --skipinteg PKGBLD
+pms
+lst
+mv jdk8update-patch.txt jdk8-update.patch
+patch PKGBUILD < jdk8-update.patch
+up 1
+rmd jdk8
+yasy jdk
+archlinux-java show
+archlinux-java list
+archlinux-java --help
+archlinux-java status
+sudo archlinux-java set java-11-jdk
+fb
+pmr jdk
+yasy jdk10
+cd filebot
+lst
+v PKGBUILD
+pmse java-openjfx
+pmse jre8
+cd
+yasy filebot-git
+ybld
+cd filebot-git
+lst
+v PKGBUILD
+up 1
+rmd filebot-git
+yasy filebot-git
+cd filebot-git
+v PKGBUILD
+yasy jdk9
+V /usr/bin/filebot
+archlinux-java status
+fb
+fb
+cd
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+mv s04e01\ -\ Who\ is\ Fortuneteller\ Baba.mkv Dragon\ Ball \ -\ s04e01\ -\ Who\ is\ Fortuneteller\ Baba.mkv
+mv s04e01\ -\ Who\ is\ Fortuneteller\ Baba.mkv Dragon\ Ball\ -\ s04e01\ -\ Who\ is\ Fortuneteller\ Baba.mkv
+fb
+lst
+pmr java8-openjdk
+fb
+vid
+cd Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank
+mv s05e01\ -\ Enter\ King\ Piccolo.mkv Dragon\ Ball\ -\ s05e01\ -\ Enter\ King\ Piccolo.mkv
+mv s06e01\ -\ Changes.mkv Dragon\ Ball\ -\ s06e01\ -\ Changes.mkv
+mv s01e06\ -\ Keep\ an\ Eye\ on\ the\ Dragon\ Balls.mkv Dragon\ Ball\ -\ s01e06\ -\ Keep\ an\ Eye\ on\ the\ Dragon\ Balls.mkv
+htop
+lst
+up 1
+mv Dragon\ Ball\ \(1986\)\ Hybrid\ R2\ R1\ DVD\ Remux\ 480p\ MPEG-2\ AC-3\ -\ Volitank Dragon\ Ball
+lst
+cd
+lst
+sudo mount /dev/sdb1 /mnt
+mani
+cd Dragon\ Ball
+lst
+cd Season\ 5
+lst
+vid
+cd Dragon\ Ball
+lst
+up 1
+cd Season\ 4
+lst
+up 1
+cd Season\ 3
+lst
+up 1
+rmd Season\ 4 Season\ 5
+vid
+cd Dragon\ Ball
+mkdir Season\ 4
+mkdir Season\ 5
+mkdir Season\ 6
+mv Dragon\ Ball\ -\ 4* Season\ 4/
+mv Dragon\ Ball\ -\ 5* Season\ 5/
+mv Dragon\ Ball\ -\ 6* Season\ 6/
+lst
+mv Season* /mnt/anime/Dragon\ Ball
+pms
+pms
+lst
+sudo umount /mnt
+cd
+lst
+vid
+lst
+conf
+cd rofi
+lst
+v config
+v lb3.rasi
+rf
+v lb3.rasi
+rf
+v maia.rasi
+v config
+rf
+v botticelli.rasi
+v config
+v config
+rf
+v maia.rasi
+v config
+rf
+v config
+lst
+v config
+rf
+v android_notification.rasi
+lst
+rf
+v android_notification.rasi
+rf
+v android_notification.rasi
+rf
+v android_notification.rasi
+rf
+rf
+v android_notification.rasi
+rm lb3.rasi
+v lb3.rasi
+v config
+rf
+cd
+lst
+conf
+cd rofi
+v lb3.rasi
+rf
+v lb3.rasi
+rf
+dots
+git commit -a
+git push
+ranger
+cd
+lst
+conf
+cd rofi
+v config
+v lb3.rasi
+rf
+v lb3.rasi
+rf
+v lb3.rasi
+rf
+v lb3.rasi
+rf
+v lb3.rasi
+rf
+cd
+cd
+cd
+dots
+git commit -a
+git push
+cd
+lst
+pms
+pms
+vid
+mpv \[Normie10032\]\ Kakegurui\ xx\ 01\ \[1080p\].mkv
+scrub /home
+scrubstat /home
+cd Season\ 1\ REMUX
+mpv The.Ren.and.Stimpy.Show.S01E12.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+cd
+lst
+rm kodi_crashlog-20190228_233626.log
+scrubstat /home
+scrubstat /home
+scrubstat /home
+balance -v /home
+scrubstat /home
+pms
+startgt
+startx
+vid
+mv Season* Ren\ \&\ Stimpy
+fb
+pms
+pms
+pms
+refmir
+cd Ren\ \&\ Stimpy
+lst
+mv Season\ 1\ REMUX Season\ 1
+lst
+mv Season\ 2\ REMUX Season\ 2
+lst
+cd Season\ 
+cd Season\ 1
+lst
+up 1
+up 1
+mv Ren\ \&\ Stimpy The\ Ren\ and\ Stimpy\ Show
+lst
+sudo mount /dev/sdb1 /mnt
+cd The\ Ren\ and\ Stimpy\ Show
+cd Season\ 1
+lst
+mpv The.Ren.and.Stimpy.Show.S01E13.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x01\ -\ Stimpy\'s\ Big\ Day.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x02\ -\ The\ Big\ Shot.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x03\ -\ Robin\ H√∂ek.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x04\ -\ Nurse\ Stimpy.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x05\ -\ Space\ Madness.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x06\ -\ The\ Boy\ Who\ Cried\ Rat\!.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x07\ -\ Fire\ Dogs.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x07\ -\ Fire\ Dogs.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 1x07\ -\ Fire\ Dogs.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x04.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x08\ -\ The\ Littlest\ Giant.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 1x08\ -\ The\ Littlest\ Giant.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 1x07.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x09\ -\ Marooned.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 1x09\ -\ Marooned.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 1x08.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 1x10\ -\ Untamed\ World.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 1x09.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 1x09.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 1x11\ -\ Black\ Hole.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 1x10.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 1x12\ -\ Stimpy\'s\ Invention.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 1x11.mkv
+mv The.Ren.and.Stimpy.Show.S01E12.mkv
+mv The.Ren.and.Stimpy.Show.S01E13.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 1x12.mkv
+lst
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x04.mkv ~/vid/The\ Ren\ and\ Stimpy\ Show/Season\ 2
+lst
+fb
+lst
+up 1
+cd Season\ 2
+lst
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x01\ -\ In\ the\ Army.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x02\ -\ Powdered\ Toast\ Man.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x03\ -\ Ren\'s\ Toothache.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x04\ -\ Big\ House\ Blues.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x04\ -\ Big\ House\ Blues.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x07.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x05\ -\ Out\ West.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x06\ -\ Rubber\ Nipple\ Salesmen.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x07\ -\ Sv√´n\ H√∂ek.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x07\ -\ Sv√´n\ H√∂ek.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x08.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x08\ -\ Mad\ Dog\ H√∂ek.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x08\ -\ Mad\ Dog\ H√∂ek.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x09.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x09\ -\ Haunted\ House.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x09\ -\ Haunted\ House.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x10.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x10\ -\ Big\ Baby\ Scam.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x10\ -\ Big\ Baby\ Scam.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x11.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x11\ -\ Dog\ Show.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x11\ -\ Dog\ Show.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x12.mkv
+lst
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x12\ -\ Son\ of\ Stimpy.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x12\ -\ Son\ of\ Stimpy.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x13.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x13\ -\ Monkey\ See...Monkey\ Don\'t.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x13\ -\ Monkey\ See...Monkey\ Don\'t.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x14.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x14\ -\ Fake\ Dad.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x14\ -\ Fake\ Dad.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x15.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x15\ -\ The\ Great\ Outdoors.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x15\ -\ The\ Great\ Outdoors.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x16.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x16\ -\ The\ Cat\ That\ Laid\ the\ Golden\ Hairball.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x16\ -\ The\ Cat\ That\ Laid\ the\ Golden\ Hairball.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x17.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x17\ -\ Stimpy\'s\ Fan\ Club.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x17\ -\ Stimpy\'s\ Fan\ Club.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x18.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x18\ -\ A\ Visit\ to\ Anthony.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x18\ -\ A\ Visit\ to\ Anthony.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 2x19.mkv
+mpv The\ Ren\ and\ Stimpy\ Show\ -\ 2x19\ -\ The\ Royal\ Canadian\ Kilted\ Yaksmen.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 2x19\ -\ The\ Royal\ Canadian\ Kilted\ Yaksmen.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x04.mkv
+fb
+lst
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 4\ -\ Man\'s\ Best\ Friend.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x04\ -\ Man\'s\ Best\ Friend.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ 0x04\ -\ Man\'s\ Best\ Friend.mkv ~/vid/The\ Ren\ and\ Stimpy\ Show/LostEpisodes
+lst
+up 1
+ls
+lst
+cd LostEpisodes
+lst
+mpv Ren.and.Stimpy.Adult.Party.Cartoon.S01E01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x02.mkv
+mpv Ren.and.Stimpy.Adult.Party.Cartoon.S01E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x03.mkv
+mpv Ren.and.Stimpy.Adult.Party.Cartoon.S01E03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x05.mkv
+mpv Ren.and.Stimpy.Adult.Party.Cartoon.S01E04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x06.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E05.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Ren.and.Stimpy.Adult.Party.Cartoon.S01E05.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E05.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x07.mkv
+mv Ren.and.Stimpy.Adult.Party.Cartoon.S01E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x08.mkv
+fb
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 2\ -\ Onward\ And\ Upward.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x02\ -\ Onward\ And\ Upward.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 3\ -\ Ren\ Seeks\ Help.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x03\ -\ Ren\ Seeks\ Help.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 4\ -\ Man\'s\ Best\ Friend.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x04\ -\ Man\'s\ Best\ Friend.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 5\ -\ Fire\ Dogs\ 2.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x05\ -\ Fire\ Dogs\ 2.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 6\ -\ Naked\ Beach\ Frenzy.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x06\ -\ Naked\ Beach\ Frenzy.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 7\ -\ Altruists.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x07\ -\ Altruists.mkv
+mv The\ Ren\ and\ Stimpy\ Show\ -\ Special\ 8\ -\ Stimpy\'s\ Pregnant.mkv The\ Ren\ and\ Stimpy\ Show\ -\ 0x08\ -\ Stimpy\'s\ Pregnant.mkv
+lst
+up 1
+up 1
+mv The\ Ren\ and\ Stimpy\ Show /mnt/tv/
+mtv
+cp -r King\ Of\ The\ Hill ~/vid/
+sudo umount /mnt
+cd
+sudo umount /mnt
+pms
+yau
+yasy google-chrome
+vid
+lst
+mv The.Man.in.the.High.Castle.S01.1080p.AMZN.WEBRip.DD5.1.x264-NTb The\ Man\ in\ the\ High\ Castle
+cd The\ Man\ in\ the\ High\ Castle
+lst
+mkdir Season\ 1
+mv *mkv Season\ 1/
+lst
+mkdir Season\ 2
+lst
+vid
+lst
+pms
+yau
+yasy numix-circle-icon-theme-git
+tune
+lst
+cd Yves\ De\ Mey
+lst
+lst
+lst
+mkdir Sueda\ \(2019\)
+lst
+unrar e Yves\ De\ Mey\ -\ Sueda.rar Sueda\ \(2019\)
+lst
+rm Yves\ De\ Mey\ -\ Sueda.rar
+ncmpcpp
+up 1
+cd Will\ Long
+lst
+mkdir Long\ Trax\ 2
+unzip Will\ Long\ -\ Long\ Trax\ 2.zip 
+lst
+rm *zip
+mv *mp3 cover.jpg Long\ Trax\ 2
+lst
+up 1
+ncmpcpp
+ncmpcpp
+cd Sandra
+lst
+unzip Sandra-20190302T141207Z-001.zip
+lst
+rm *zip
+cd Sandra
+lst
+ncmpcpp
+up 1
+lst
+up 1
+lst
+cd Yoshio\ Ojima
+lst
+unzip Y\ O\ -\ Chainons\ one.zip
+lst
+rm Y\ O\ -\ Chainons\ one.zip
+umzip Y\ O\ -\ Chainons\ two.zip
+unzip Y\ O\ -\ Chainons\ two.zip
+lst
+rm Y\ O\ -\ Chainons\ two.zip
+lst
+up 1
+cd Jun\ Fukamachi
+lst
+unzip nicole.zip
+lst
+rm nicole.zip
+ncmpcpp
+sudo mount /dev/sdb1 /mnt
+cd
+sudo umount /mnt
+yas kodi
+yasy kodi-git
+pro
+lst
+yas kodi
+yasy kodi-git
+sudo mount /dev/sdb1 /mnt
+vid
+mtv
+lst
+cd The\ Man\ in\ the\ High\ Castle
+lst
+mkdir Season\ 1
+mv The.Man.in.the.High.Castle.S01E01.The.New.World.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E02.Sunrise.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E03.The.Illustrated.Woman.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E04.Revelations.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E05.The.New.Normal.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E06.Three.Monkeys.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E07.Truth.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E08.End.Of.The.World.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E09.Kindness.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv The.Man.in.the.High.Castle.S01E10.A.Way.Out.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv Season\ 1
+lst
+mkdir Season\ 2
+up 2
+vid
+lst
+cd The\ Man\ in\ the\ High\ Castle
+lst
+cd Season\ 2
+lst
+cp The\ Man\ in\ the\ High\ Castle\ S02E01\ The\ Tiger\'s\ Cave\ 2160p\ HDR\ Amazon\ WEBRip\ DD+\ 5.1\ x265-TrollUHD.mkv /mnt/tv/The\ Man\ in\ the\ High\ Castle/Season\ 2/
+mtv
+lst
+rmd Disenchantment
+lst
+rmd Blue\ Planet\ II
+rmd Adventure\ Time
+lst
+vid
+lst
+mkdir /mnt/tv/King\ of\ the\ Hill
+cd King\ Of\ The\ Hill
+lst
+cp -r Season\ 1 /mnt/tv/King\ of\ the\ Hill
+sudo umount /mnt
+lsta
+cd .kodi
+lst
+cd userdata
+lst
+up 1
+cd media
+lst
+lsta
+up 1
+lst
+cd system
+lst
+up 1
+lst
+cd userdata
+lst
+cd Database
+lst
+up 1
+lst
+cd library
+lst
+up 1
+cd playlists
+lst
+cd video
+lst
+cp Film.xsp ~/doc/
+doc
+lst
+rm Film.xsp
+lst
+cd
+cd .kodi
+cd userdata
+cd playlists
+cp Film.xsp ~/doc/
+lst
+cd video
+cp Film.xsp ~/doc/
+doc
+rm Film.xsp
+lst
+cd
+lst
+cd
+lst
+lsta
+sudo mount /dev/sdb1 /mnt
+vid
+cd King\ Of\ The\ Hill
+lst
+mv Season\ 2 Season\ 3 Season\ 4 Season\ 5 Season\ 6 /mnt/tv/King\ of\ the\ Hill
+sudo umount /mnt
+cd
+pms
+pms
+vid
+lst
+fb
+htop
+mpv Aim\ for\ the\ Ace\!\ -\ 1x11\ -\ The\ Terrifying\ Spin\ Drive\!.mkv
+pms
+lst
+cd Its.Always.Sunny.in.Philadelphia.S05.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON
+lst
+mpv Its.Always.Sunny.in.Philadelphia.S05E11.Mac.and.Charlie.Write.a.Movie.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv
+lst
+mpv Its.Always.Sunny.in.Philadelphia.S05E04.The.Gang.Gives.Frank.an.Intervention.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv
+cd
+lsta
+pms
+pms
+pms
+reboot
+startgt
+startx
+polybar 
+yau
+pmse libjsoncpp
+pmse libjson
+pmse libjs
+pmse json
+downgrade jsonc
+downgrade json-c
+pms
+pms
+pau
+yau
+yasy polybar
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mani
+cd Aim\ for\ the\ Ace\!
+lst
+rm Aim\ for\ the\ Ace\!\ -\ 1x11\ -\ The\ Terrifying\ Spin\ Drive\!.avi Aim\ for\ the\ Ace\!\ -\ 1x12\ -\ Showdown\!\ The\ Butterfly\ vs.\ The\ Orchid.avi
+vid
+mv Aim\ for\ the\ Ace\!\ -\ 1x1* /mnt/anime/Aim\ for\ the\ Ace\!/
+lst
+sudo umount /mnt
+mv Its.Always.Sunny.in.Philadelphia.S05.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON Season\ 5
+fb
+lst
+cd Planet\ Earth\ II
+lst
+up 1
+fb
+lst
+cd
+cd .kodi
+lst
+cd userdata
+lst
+cd Database
+lst
+up 1
+lst
+cd library
+lst
+up 1
+cd addon_data
+lst
+up 1
+lst
+cd Thumbnails
+lst
+cd 0
+lst
+feh 0001c26d.jpg
+up 1
+lst
+up 1
+lst
+cd peripheral_data
+lst
+up 1
+up 1
+slt
+lst
+cd media
+lst
+up 1
+cd temp
+lst
+up 1
+lst
+cd system
+lst
+up 1
+lst
+cd temp
+lst
+cd scrapers
+lst
+cd
+lst
+pms
+pic
+img
+lst
+mkdir fanart
+lst
+cd fanart
+mkdir anime tv docs film
+lst
+cd
+lst
+pms
+pms
+pms
+pms
+yau
+pms
+sudo mount /dev/sdb1 /mnt
+sudo umount /mnt
+pms
+sudo mount /dev/sdb1 /mnt
+mtv
+cd King\ of\ the\ Hill
+lst
+up 1
+vid
+cd King\ Of\ The\ Hill
+lst
+mv Season\ 7 Season\ 8 Season\ 9 /mnt/tv/King\ of\ the\ Hill
+sudo umount /mnt
+lst
+vid
+lst
+pms
+yau
+yasy capitaine-cursors
+pms
+pms
+yau
+lsta
+rm kodi_crashlog-2019030
+rm kodi*
+lst
+conf
+lst
+lsta
+pmi xdg-user-dirs
+xdg-user-dirs-update
+lsta
+v user-dirs.dirs
+lsta
+mkdir desk
+lst
+mkdir share
+lst
+mkdir temp
+lst
+xdg-user-dirs-update
+rf
+xdg-user-dirs-update
+lst
+xdg-user-dirs
+xdg-user-dirs-update --help
+xdg-user-dirs-update --set /home/olin/.config/user-dirs.dirs
+xdg-user-dirs-update /home/olin/.config/user-dirs.dirs
+xdg-user-dirs-update -s /home/olin/.config/user-dirs.dirs
+xdg-user-dirs-update --set /home/olin/.config/user-dirs.dirs
+xdg-user-dirs --set /home/olin/.config/user-dirs.dirs
+xdg-user-dirs-update --set /home/olin/.config/user-dirs.dirs
+xdg-user-dirs-update -h
+xdg-user-dirs-update --help
+xdg-user-dirs-update --set
+xdg-user-dirs-update --force
+cd
+cd zsh
+v 00-envars.zsh
+lst
+lsta
+cd .local
+lst
+cd share
+lst
+up 1
+mkdir dev
+mkdir etc
+cd etc
+lst
+lsta
+mkdir xdg
+lst
+cd /etc/xdg
+lst
+v user-dirs.conf
+cd
+lst
+conf
+cp user-dirs.dirs ~/.local/etc/xdg
+lst
+cd
+xdg-user-dirs-update
+xdg-user-dirs-update --set
+reboot
+
+startgt
+startx
+scf
+scuf
+scu --status psd-resync
+scus psd-resync
+scu --help
+scu status psd-resync
+scu restart psd-resync
+scu stop psd-resync
+scu restart psd-resync
+scu status redshift
+conf
+cd i3
+lst
+v user-dirs.conf
+v config
+conf
+cd
+v .xinitrc
+psd preview
+v /home/olin/.config/psd/psd.conf
+scu restart psd-resync
+psd preview
+pms
+pms
+img
+cd fanart
+cd tv
+mv Disenchantment_Fanart.jpg_large Disenchantment_Fanart.jpg
+cd
+lsta
+lst
+rm kodi_crashlog-20190307_183838.log
+lst
+vid
+lst
+cd Ballmastrz.9009.S01.720p.HDTV.x264-MiNDTHEGAP
+mpv ballmastrz.9009.s01e09.720p.hdtv.x264-mtg.mkv
+cd
+lst
+vid
+rmd .3d
+lsta
+fb
+mv Ballmastrz.9009.S01.720p.HDTV.x264-MiNDTHEGAP Ballmastrz\:\ 9009
+cd Ballmastrz:\ 9009
+lst
+up 1
+lst
+pms
+pms
+refmir
+lst
+conf
+cd rofi
+v lb3.rasi
+rf
+cd
+lst
+sudo mount /dev/sdb1 /mnt
+vid
+cd The\ Man\ in\ the\ High\ Castle
+cd Season\ 2
+lst
+rm The\ Man\ in\ the\ High\ Castle\ -\ 2x01\ -\ The\ Tiger\'s\ Cave.mkv
+mv *mkv /mnt/tv/The\ Man\ in\ the\ High\ Castle/Season\ 2/
+up 1
+up 
+up 1
+rmd The\ Man\ in\ the\ High\ Castle
+cd King\ Of\ The\ Hill
+lst
+mv Season\ 10 Season\ 11 Season\ 12 Season\ 13 /mnt/tv/King\ of\ the\ Hill
+mtv
+lst
+rmd Bob\'s\ Burgers
+cd King\ of\ the\ Hill
+cd Season\ 13
+lst
+up 1
+rmd Season\ 13
+cd Season\ 12
+lst
+up 1
+rmd Season\ 12
+LST
+lsr
+lst
+cd Season\ 11
+lst
+up 1
+rmd Season\ 11
+lst
+vid
+cd King\ Of\ The\ Hill
+lst
+mv Season\ 11 Season\ 12 Season\ 13 /mnt/tv/King\ of\ the\ Hill
+sudo umount /mnt
+cd
+lst
+balance -v /home
+balstat /home
+balstat /home
+balstat /home
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+vid
+mpv tiny4k.19.02.07.jade.kush.slippery.jade.4k.mp4
+mpv tiny4k.19.02.07.jade.kush.slippery.jade.4k.mp4
+pms
+mpv tiny4k.19.02.07.jade.kush.slippery.jade.4k.mp4
+cd
+lsta
+lsta
+sudo mount /dev/sdb1 /mnt
+funcc
+func
+sh xrandr.sh
+sh xrandr.sh
+poweroff
+startgt
+startx
+vid
+mpv tiny4k.19.02.07.jade.kush.slippery.jade.4k.mp4
+pms
+cd Ayumi\ Anime\ MegaPack
+mpv Women\ Seeking\ Women\ Vol.\ 144\ Ep.1\ \~\ Ayumi\ Anime\ \&\ August\ Ames.mp4
+mpv WildOnCam\ \~\ Ayumi\ Anime\ And\ Jade\ Kush\ \~\ Asian\ Persuasion\ Live.mp4
+mpv WhenGirlsPlay\ \~\ Aidra\ Fox\ \&\ Ayumi\ Anime\ \~\ Picture\ Wars.mp4
+mpv TwistysHard\ \~\ Ayumi\ Anime\ And\ Scarlett\ Sage\ \~\ Pounding\ Hangover.mp4
+mpv TrenchCoatX\ \~\ Ayumi\ Anime\ And\ Jenna\ Sativa\ \~\ Gamer\ Girls.mp4
+cd
+lsta
+rm kodi_crashlog-20190310_103822.log
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+vid
+cd Ayumi\ Anime\ MegaPack
+lst
+mpv Ayumi\ Anime\ \~\ Sloppy\ Blowjob\ Deepthroat\ Asian\ Slut\ \(ManyVids.com\).mp4
+mpv Ayumi\ Anime\ \~\ The\ Deepest\ DeepThroat\ With\ Asian\ Teacher\ \(ManyVids.com\).mp4
+mpv Ayumi\ Anime\ \~\ Virgin\ Killer\ Cosplay\ Anime\ BJ\ \(ManyVids.com\).mp4
+mpv Ayumi\ Anime\ \~\ Wanna\ Cum\ In\ Asian\ Mouth\ Go\ Get\ It\ POV\ \(ManyVids.com\).mp4
+cd
+lsta
+ls
+lst
+pms
+pms
+yau
+yasy makemkv
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+yau
+yasy google-chrome
+vid
+lst
+rm tiny4k.19.02.07.jade.kush.slippery.jade.4k.mp4
+rmd Ayumi\ Anime\ MegaPack
+lst
+pms
+pms
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+reboot
+
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+pms
+pms
+pms
+pms
+cd /etc/wpa_supplicant
+lst
+cd
+wpa_passphrase -h
+wpa_passphrase --help
+wpa_passphrase HUAWEI Uub1n0xz! > /etc/wpa_supplicant/wpa_supplicant-huawei.conf
+su
+wpa_passphrase HUAWEI Uub1n0xz! > /etc/wpa_supplicant/wpa_supplicant-huawei.conf
+exit
+cd /etc/wpa_supplicant
+lst
+v wpa_supplicant-huawei.conf
+cd
+aliasn
+reboot
+starthuawei
+startx
+ip addr show
+V /etc/pihole/setupVars.conf
+pms
+V /etc/hosts
+V /etc/hosts
+pms
+cd /etc
+lst
+V hostname
+V resolv.conf
+V resolv.conf
+V resolv.conf
+V resolv.conf
+su
+vim resolv.conf
+exit
+chattr --help
+sudo chattr -i resolv.conf
+V resolv.conf
+sudo chattr +i resolv.conf
+pms
+cd
+refmir
+pms
+func
+sh xrandr.sh
+pavucontrol &
+sudo mount /dev/sdb1 /mnt
+poweroff
+starthuawei
+startx
+pms
+reboot
+startgt
+startx
+sudo chattr -i resolv.conf
+sudo chattr -i /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+V /etc/hosts
+V /etc/hosts
+pms
+pms
+yau
+yau
+pms
+refmir
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+startgt
+startx
+func
+sh xrandr.sh
+pavucontrol &
+sudo mount /dev/sdb1 /mnt
+vid
+mpv \[Normie10032\]\ Kakegurui\ xx\ 01\ \[1080p\].mkv
+poweroff
+startgt
+startx
+pms
+yau
+pms
+yau
+yasy downgrade
+pms
+vid
+lst
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+vid
+lst
+mpv Royalexi\ -\ Ebony\ Oiled\ Booty\ Lifter\ JOI\ 4k.mp4
+pms
+pms
+yau
+yasy downgrade
+pms
+pms
+pms
+lst
+cd Bungo.Stray.Dogs.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.TrueHD.x265-iAHD
+lst
+up 1
+fb
+mv Bungo.Stray.Dogs.S01.1080p.Blu-Ray.10-Bit.Dual-Audio.TrueHD.x265-iAHD Bungo\ Stray\ Dogs
+cd Bungo\ Stray\ Dogs
+lst
+up 1
+lst
+fb
+mv Real\ Drive\ H264 Real\ Drive
+cd Real\ Drive
+mpv Real\ Drive\ -\ 1x01\ -\ Urashima\ Drive.mkv
+up 1
+lst
+cd Bungo\ Stray\ Dogs
+mpv Bungo\ Stray\ Dogs\ -\ 1x01\ -\ Fortune\ Is\ Unpredictable\ and\ Mutable.mkv
+vid
+pms
+pms
+pms
+pms
+yau
+yasy google-chrome
+V /etc/udev/rules.d/69-hdparm.rules\
+
+V /etc/udev/rules.d/69-hdparm.rules\
+
+sudo hdparm -B 254 -S 0 /dev/sda
+lst
+cd
+lsta
+rm kodi_crashlog-20190316_153912.log
+lsta
+pms
+vid
+lst
+cd THE\ LORD\ OF\ THE\ RINGS
+lst
+mpv THE\ LORD\ OF\ THE\ RINGS_t01.mkv
+pms
+refmir
+lst
+mpv THE\ LORD\ OF\ THE\ RINGS_t00.mkv
+rm THE\ LORD\ OF\ THE\ RINGS_t00.mkv
+mpv THE\ LORD\ OF\ THE\ RINGS_t02.mkv
+mpv THE\ LORD\ OF\ THE\ RINGS_t03.mkv
+rm THE\ LORD\ OF\ THE\ RINGS_t03.mkv
+up 1
+lst
+mv THE\ LORD\ OF\ THE\ RINGS The\ Lord\ of\ the\ Rings\ \(1978\)
+rmd The\ Lord\ of\ the\ Rings\ 1978\ 1080p\ Blu-ray\ VC-1\ TrueHD\ 5.1-CultFilms‚É§ÉÇ
+cd The\ Lord\ of\ the\ Rings\ \(1978\)
+LST
+lsr
+lst
+mv THE\ LORD\ OF\ THE\ RINGS_t01.mkv The\ Lord\ of\ the\ Rings\ \(1978\).mkv
+lst
+up 1
+lst
+lst
+mkdir .wrkout
+mv AmberLaRay_Plugging-at-the-Gym.mp4 Royalexi\ -\ Ebony\ Oiled\ Booty\ Lifter\ JOI\ 4k.mp4 .wrkout
+lst
+rm \[Normie10032\]\ Kakegurui\ xx\ 01\ \[1080p\].mkv
+lst
+cd .wrkout
+mpv AmberLaRay_Plugging-at-the-Gym.mp4
+vid
+lst
+lsta
+cd .wrkout
+cd Countess\ Crystal\ Knight\ -\ The\ HOTTEST\ Strip\ Down\ Workout\ \ Oil\ +\ Nude\ Fitness\ \(1080\ MP4\)
+lst
+mpv Countess\ Crystal\ Knight\ -\ The\ HOTTEST\ Strip\ Down\ Workout\ \ Oil\ +\ Nude\ Fitness.mp4
+vid
+lsta
+lst
+lst
+pms
+pms
+lst
+cd The\ Lord\ of\ the\ Rings\ \(1978\)
+mpv The\ Lord\ of\ the\ Rings\ \(1978\).mkv
+up 1
+pms
+sudo mount /dev/sdb1 /mnt
+lsblk
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+htop
+htop
+mani
+cd Miss\ Kobayashi\'s\ Dragon\ Maid
+lst
+mpv Miss\ Kobayashi\'s\ Dragon\ Maid\ -\ 1x09\ -\ Sports\ Festival\!\ \(There\'s\ No\ Twist\ Or\ Anything\).mkv
+mpv Miss\ Kobayashi\'s\ Dragon\ Maid\ -\ 1x09\ -\ Sports\ Festival\!\ \(There\'s\ No\ Twist\ Or\ Anything\).mkv
+vid
+lst
+cp -r The\ Lord\ of\ the\ Rings\ \(1978\) /mnt/film/
+mv Bungo\ Stray\ Dogs Real\ Drive /mnt/anime/
+poweroff
+
+startgt
+startx
+aliasn
+vid
+cd The\ Lord\ of\ the\ Rings\ \(1978\)
+mpv The\ Lord\ of\ the\ Rings\ \(1978\).mkv
+vid
+lst
+lst
+cd Heavy\ Traffic\ \(1973\)
+mpv title_t00.mkv
+mpv title_t00.mkv
+lst
+up `1
+up 1
+cd Heavy\ Traffic\ 
+cd Heavy\ Traffic\ 1973\ 1080p\ Blu-ray\ AVC\ DTS-HD\ MA\ 2.0-CultFilms‚É§ÉÇ
+lst
+cd BDMV
+lst
+cd STREAM
+lst
+up 1
+up 1
+vid
+cd Heavy\ Traffic\ \(1973\)
+lst
+mpv title_t00.mkv
+sudo mount /dev/sdb1 /mnt
+pavucontrol &
+func
+sh xrandr.sh
+poweroff
+startgt
+startx
+vid
+lst
+mpv elegantangel.hard.bodies.3.fullhd.mp4
+pms
+mv elegantangel.hard.bodies.3.fullhd.mp4 .wrkout
+lst
+rmd Coonskin\ 1975\ 1080p\ GER\ Blu-ray\ AVC\ DTS-HD\ MA\ 2.0-CultFilms‚É§ÉÇ Heavy\ Traffic\ 1973\ 1080p\ Blu-ray\ AVC\ DTS-HD\ MA\ 2.0-CultFilms‚É§ÉÇ
+lst
+cd Coonskin\ \(1975\)
+mpv title_t00.mkv
+mpv title_t02.mkv
+vid
+cd .wrkout
+mpv elegantangel.hard.bodies.3.fullhd.mp4
+vid
+mpv The.Princess.Bride.1987.1080p.BluRay.REMUX.AVC.DTS-MA.5.1-C0deye.mkv
+sudo mount /dev/sdb1 /mnt
+pavucontrol &
+func
+sh xrandr.sh
+vid
+mpv The.Princess.Bride.1987.1080p.BluRay.REMUX.AVC.DTS-MA.5.1-C0deye.mkv
+poweroff
+startgt
+startx
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+reboot
+startgt
+startx
+ip addr show
+pms
+vid
+lst
+pms
+fb
+pms
+pms
+pms
+pms
+yau
+yasy jre
+pms
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+cd Ballmastrz:\ 9009
+lst
+mv Ballmastrz:\ 9009\ -\ 1x02\ -\ With\ the\ Burning\ Spirit\ of\ Teamwork\ in\ Her\ Heart.mkv Season\ 1
+lst
+cd Season\ 1
+lst
+cd Ballmastrz:\ 9009
+lst
+mkdir Season\ 1
+mv *mkv Season\ 1
+lst
+up 1
+rmd Season\ 1
+mv Season\ 1 /mnt/tv/Ballmastrz:\ 9009
+up 1
+rmd Ballmastrz:\ 9009
+lst
+mfilm
+cd The\ Princess\ Bride\ \(1987\)
+lst
+rm The\ Princess\ Bride\ \(1987\).mkv
+mv The\ Princess\ Bride\ \(1987\).mkv /mnt/film/The\ Princess\ Bride\ \(1987\)
+lst
+cd Coonskin\ \(1975\)
+lst
+up 1
+cd Heavy\ Traffic\ \(1973\)
+lst
+mv title_t00.mkv Heavy\ Traffic\ \(1973\).mkv
+lst
+up 1
+mv Heavy\ Traffic\ \(1973\) /mnt/film/
+cd
+sudo umount /mnt
+pic
+img
+lst
+cd fanart
+lst
+cd film
+lst
+up 1
+lst
+cd tv
+lst
+up 1
+lst
+cd
+vid
+lst
+cd Season\ 5
+lst
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x03\ -\ The\ Great\ Recession.mkv
+cd
+pms
+pms
+yau
+yasy numix-circle-icon-theme-git
+vid
+lst
+cd Coonskin\ \(1975\)
+lst
+rm title_t00.mkv title_t01.mkv
+mv title_t02.mkv Coonskin\ \(1975\).mkv
+lst
+up 1
+lst
+cd Fire\ and\ Ice\ \(1983\)
+lst
+mpv Fire\ and\ Ice_t01.mkv
+mv Fire\ and\ Ice_t01.mkv Fire
+mv Fire Fire\ and\ Ice\ \(1983\).mkv
+lst
+mpv Fire\ and\ Ice_t00.mkv
+mpv Fire\ and\ Ice_t02.mkv
+mpv Fire\ and\ Ice_t03.mkv
+mpv Fire\ and\ Ice_t04.mkv
+mpv Fire\ and\ Ice_t05.mkv
+pms
+vid
+lst
+rmd Fire\ and\ Ice\ 1983\ 1080p\ Blu-ray\ AVC\ DTS-HD\ MA\ 7.1-CultFilms‚É§ÉÇ
+lst
+cd Fire\ and\ Ice\ \(1983\)
+lst
+rm Fire\ and\ Ice_*
+lst
+up 1
+lst
+cd Coonskin\ \(1975\)
+lst
+up 1
+lst
+lst
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+cd Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+mpv Courage.the.Cowardly.Dog.S01E12.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+vid
+pms
+v hit
+lst
+fb
+yasy vidcutter
+sudo mount /dev/sdb1 /mnt
+mfilm
+lst
+rmd Pepe\ El\ Toro\ \(1953\) Bohemian\ Rhapsody\ \(2018\).mkv Tarde\ Para\ Morir\ Joven\ \(2018\).mkv
+up 1
+cd tv
+lst
+rmd The\ Eric\ Andre\ Show
+vid
+lst
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cp -r Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM /mnt/tv/Courage\ the\ Cowardly\ Dog
+sudo umount /mnt
+vid
+lst
+lsta
+rm kodi*
+pms
+lst
+pmi flameshot
+flameshot
+img
+lst
+sudo mount /dev/sdb1 /mnt
+vid
+lsblk
+sudo mount /dev/sdb1 /mnt
+mtv
+cd Courage\ The\ Cowardly\ Dog
+cd Season\ 1
+lst
+mediainfo Courage\ the\ Cowardly\ Dog\ -\ 1x01\ -\ A\ Night\ at\ the\ Katz\ Motel.mkv
+vid
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cd Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+vid
+lst
+cd Fire\ and\ Ice\ \(1983\)
+lst
+up 1
+mv Fire\ and\ Ice\ \(1983\) Coonskin\ \(1975\) /mnt/film/
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mtv
+cd Courage\ the\ Cowardly\ Dog
+mkdir Season\ 1
+mkdir Season\ 2
+mv *mkv Season\ 1
+lst
+vid
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cd Courage.the.Cowardly.Dog.S02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+cp *mkv /mnt/tv/Courage\ the\ Cowardly\ Dog/Season\ 2/
+sudo umount /mnt
+cd
+vid
+lst
+startgt
+startx
+pms
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cp -r Courage.the.Cowardly.Dog.S03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM /mnt/tv/Courage\ the\ Cowardly\ Dog/Season\ 3
+cp -r Courage.the.Cowardly.Dog.S04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM /mnt/tv/Courage\ the\ Cowardly\ Dog/Season\ 4
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+pms
+pms
+yau
+reboot
+startgt
+startx
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+yau
+yasy polybar
+pms
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+ncmpcpp
+tune
+lstt
+lst
+mkdir Sueno Latino
+rmd Sueno Latino
+lst
+mkdir Sueno\ Latino
+ncmpcpp
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+yau
+yasy google-chrome
+vid
+cd Wildboyz.S01.NTSC.DVD.DD2.0.x264
+mpv Wildboyz\ -\ S01E08\ -\ Belize.mkv
+mpv Wildboyz\ -\ S01E07\ -\ New\ Zealand.mkv
+ncmpcpp
+pms
+pms
+reboot
+startgt
+startx
+vid
+lst
+mpv The\ Thing\ 1982\ GBR\ 4K\ Scan\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ -BluDragon.mkv
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+mfilm
+cd Thing,\ The\ \(1982\)
+lst
+rmd Subs The\ Thing\ \(1982\).jpg The\ Thing\ \(1982\).mkv
+vid
+fb
+mv The\ Thing\ \(1982\).mkv /mnt/film/Thing,\ The\ \(1982\)
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+vid
+cd Wildboyz.S01.NTSC.DVD.DD2.0.x264
+lst
+mpv Wildboyz\ -\ S01E06\ -\ Alaska\ II.mkv
+mpv Wildboyz\ -\ S01E04\ -\ Australia.mkv
+up 1
+cd The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS
+lst
+pms
+yau
+yasy yay
+pms
+mpv The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv
+mpv The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv
+func
+sh xrandr.sh
+pavucontrol &
+mpv The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv
+sudo mount /dev/sdb1 /mnt
+poweroff
+
+startgt
+startx
+pms
+refmir
+yau
+yasy siji-git
+pms
+yau
+pms
+pms
+vid
+cd Coco\ 2017\ BDRip\ 1080p\ AAC\ 7.1\ mp4-LEGi0N
+lst
+mpv Coco\ 2017\ BDRip\ 1080p\ AAC\ 7.1\ mp4-LEGi0N.mp4
+func
+sh xrandr.sh
+mpv Coco\ 2017\ BDRip\ 1080p\ AAC\ 7.1\ mp4-LEGi0N.mp4
+pavucontrol &
+mpv Coco\ 2017\ BDRip\ 1080p\ AAC\ 7.1\ mp4-LEGi0N.mp4
+poweroff
+
+startgt
+startx
+pms
+pms
+dl
+lst
+rm *torrent *zip
+lst
+vid
+lst
+reboot
+
+startgt
+startx
+func
+sh xrandr.sh
+pavucontrol &
+sudo mount /dev/sdb1 /mnt
+poweroff
+startgt
+startx
+vid
+cd The.Simpsons.S11.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA
+mpv The.Simpsons.S11E21.Its.a.Mad.Mad.Mad.Mad.Marge.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA.mkv
+vid
+pms
+refmir
+pms
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cd Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+mpv Courage\ the\ Cowardly\ Dog\ -\ 1x01.mkv
+mpv Courage\ the\ Cowardly\ Dog\ -\ 1x02.mkv
+lst
+rm Courage.the.Cowardly.Dog.S01E01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+mkdir ~/vid/Futurama
+cd Futurama
+lst
+cp -r Season\ 1 ~/vid/Futurama
+cp -r Season\ 2 ~/vid/Futurama
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mv Futurama /mnt/tv/
+sudo umount /mnt
+lst
+rmd Coco\ 2017\ BDRip\ 1080p\ AAC\ 7.1\ mp4-LEGi0N
+lst
+rmd The\ Lord\ of\ the\ Rings\ \(1978\)
+lst
+cd King\ Of\ The\ Hill
+lst
+up 1
+rmd King\ Of\ The\ Hill
+lst
+sudo mount /dev/sdb1 /mnt
+lsblk
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+func
+sh xrandr.sh
+mkdir Futurama
+mtv
+cd Futurama
+lst
+cp -r Season\ 3 ~/vid/Futurama
+cp -r Season\ 4 ~/vid/Futurama
+cd
+pavucontrol &
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+pms
+pms
+yau
+aliasn
+balance -v /home
+balstat /home
+balstat /home
+vid
+lst
+mpv Tales\ from\ Earthsea\ 2006\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 7.1\ -\ DUF.mkv
+balstat /home
+balstat /home
+mpv Tales\ from\ Earthsea\ 2006\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 7.1\ -\ DUF.mkv
+pms
+refmir
+pms
+fb
+lst
+mv The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS The\ Grey\ \(2011\)
+cd The\ Grey\ \(2011\)
+lst
+rm The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS.nfo The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS-SAMPLE.mkv
+lst
+mv The.Grey.2011.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv The\ Grey\ \(2011\)
+mv The\ Grey\ \(2011\) The\ Grey\ \(2011\).mkv
+lst
+up 1
+lst
+pms
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Tales\ from\ Earthsea\ \(2006\)
+lst
+rm Tales\ from\ Earthsea\ \(2006\).mkv
+cd
+mv Tales\ from\ Earthsea\ \(2006\).mkv /mnt/film/Tales\ from\ Earthsea\ \(2006\)
+mfilm
+cd Thing,\ The\ \(1982\)
+lst
+cd
+mfilm
+cd Thing,\ The\ \(1982\)
+mediainfo The\ Thing\ \(1982\).mkv
+cd
+sudo umount /mnt
+lst
+pms
+sudo mount /dev/sdb1 /mnt
+cd Futurama
+lst
+mv Season* /mnt/tv/Futurama
+lst
+cd
+lst
+sudo umount /mnt
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+reboot
+starthuawei
+startx
+ip addr show
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+pms
+fb
+vid
+mv The.Simpsons.S11.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA Season\ 11
+lst
+reboot
+
+startgt
+startx
+V /etc/resolv.conf
+ip addr show
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+refmir
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+mtv
+cd Futurama
+cp -r Season\ 5 ~/vid/Futurama
+cd
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mv Futurama /mnt/tv/Futurama/Season\ 5
+mtv
+lst
+mfilm
+lst
+mtv
+lst
+rmd Courage\ the\ Cowardly\ Dog
+cd Futurama
+cd Season\ 5
+lst
+cd Season\ 5
+lst
+up 1
+up 1
+rmd Season\ 5
+vid
+lst
+cd Futurama
+lst
+mv Season\ 5 /mnt/tv/Futurama
+sudo umount /mnt
+lst
+up 1
+rmd Futurama
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+yau
+pms
+yau
+yasy filebot
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+poweroff
+startgt
+startx
+pms
+pms
+pms
+yau
+yasy jre
+pms
+vid
+cd Season\ 5
+lst
+mediainfo It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x01\ -\ The\ Gang\ Exploits\ the\ Mortgage\ Crisis.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x01\ -\ The\ Gang\ Exploits\ the\ Mortgage\ Crisis.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x02\ -\ The\ Gang\ Hits\ the\ Road.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x03\ -\ The\ Great\ Recession.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x04\ -\ The\ Gang\ Gives\ Frank\ an\ Intervention.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x05\ -\ The\ Waitress\ Is\ Getting\ Married.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x06\ -\ The\ World\ Series\ Defense.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x07\ -\ The\ Gang\ Wrestles\ for\ the\ Troops.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x08\ -\ Paddy\'s\ Pub:\ Home\ of\ the\ Original\ Kitten\ Mittens.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x09\ -\ Mac\ and\ Dennis\ Break\ Up.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x10\ -\ The\ D.E.N.N.I.S.\ System.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x11\ -\ Mac\ and\ Charlie\ Write\ a\ Movie.mkv
+mpv It\'s\ Always\ Sunny\ in\ Philadelphia\ -\ 5x12\ -\ The\ Gang\ Reignites\ the\ Rivalry.mkv
+m
+pms
+vid
+lst
+lst
+mpv Las\ Islas\ Mar√≠as\ \(Emilio\ Fernandez,\ Pedro\ Infante\ 1950\).avi
+pms
+poweroff
+startx
+vid
+lst
+func
+sh xrandr.sh
+vid
+mpv Dos\ tipos\ de\ cuidado\ \(1953\).avi
+pavucontrol &
+mpv Dos\ tipos\ de\ cuidado\ \(1953\).avi
+mpv Dos\ tipos\ de\ cuidado\ \(1953\).avi
+pavucontrol &
+mpv Dos\ tipos\ de\ cuidado\ \(1953\).avi
+starthuawei
+startx
+sudo chattr -i /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+pms
+pms
+poweroff
+
+startx
+wpa_passphrase ARRIS-D362 A5F807DA318BC8A2 > /etc/wpa_supplicant/wpa_supplicant-mex.conf
+sudo wpa_passphrase ARRIS-D362 A5F807DA318BC8A2 > /etc/wpa_supplicant/wpa_supplicant-mex.conf
+su
+sudo wpa_passphrase ARRIS-D362 A5F807DA318BC8A2 > /etc/wpa_supplicant/wpa_supplicant-mex.conf
+exit
+aliasn
+rf
+reboot
+startmex
+startx
+ip addr show
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+refmir
+pms
+vid
+cd Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+cd Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+lst
+mpv Courage.the.Cowardly.Dog.S01E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pms
+m[v Courage.the.Cowardly.Dog.S01E03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S01E03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S01E04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S01E05.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S01E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pms
+reboot
+startgt
+startx
+sudo chattr -i /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+pms
+yau
+yasy google-chrome
+pms
+doc
+cd MJJA
+lst
+cd Conferences
+lst
+cd 2019
+lst
+cd Spring
+lst
+rm Sp\ Conf\ Reg\ Form.pdf
+mv Spr\ Conf\ Reg\ Form.pdf Sp\ Conf\ Reg\ Form.pdf
+lst
+rm PrivExhb\ Reg\ Form\ Sp\ Conf.pdf
+mv PrivExhb\ Reg\ Form\ Sp\ Conf\ \(1\).pdf PrivExhb\ Reg\ Form\ Sp\ Conf.pdf
+lst
+rm Corp\ Spons\ Reg\ Form\ Sp\ Conf.pdf
+mv Corp\ Sp\ Spr\ Conf\ Reg\ Form.pdf Corp\ Spons\ Reg\ Form\ Sp\ Conf.pdf
+lst
+vid
+lst
+Gifted\ 2017\ 1080p\ BluRay\ DD5.1\ x264-KASHMiR
+mediainfo Gifted\ 2017\ 1080p\ BluRay\ DD5.1\ x264-KASHMiR.mkv
+cd
+vid
+sudo mount /dev/sdb1 /mnt
+mv Gifted\ 2017\ 1080p\ BluRay\ DD5.1\ x264-KASHMiR /mnt/film/
+sudo umount /mnt
+pms
+pms
+pms
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+cd The\ Simpsons
+lst
+vid
+lst
+mv Season\ 11 /mnt/tv/The\ Simpsons
+func
+sh xrandr.sh
+htop
+kodi
+mfilm
+lst
+cd Solo:\ A\ Star\ Wars\ Story\ \(2018\)
+mpv Solo:\ A\ Star\ Wars\ Story\ \(2018\).mkv
+pavucontrol &
+mtv
+cd The\ Simpsons
+lsblk
+sudo mount /dev/sdc1 ~/share
+cp -r Season\ 11 ~/share/tv/The\ Simpsons
+cd ~/share/tv/
+rmd The\ Man\ in\ the\ High\ Castle
+cd
+cd
+sudo umount /mnt
+sudo umount ~/share
+poweroff
+startgt
+startx
+fb
+htop
+fb
+pms
+fb
+sudo mount /dev/sdb1 ~/share
+sudo umount ~/share
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mv The.Simpsons.S12.1080p.AMZN.WEB-DL.DD+5.1.H264-SiGMA Season\ 12
+cp -r Season\ 12 /mnt/tv/The\ Simpsons
+sudo umount ~/share
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Solo:\ A\ Star\ Wars\ Story\ \(2018\)
+lst
+mediainfo
+mediainfo Solo:\ A\ Star\ Wars\ Story\ \(2018\).mkv
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Solo:\ A\ Star\ Wars\ Story\ \(2018\)
+func
+sh xrandr.sh
+pavucontrol &
+mpv Solo:\ A\ Star\ Wars\ Story\ \(2018\).mkv
+cd
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+pms
+fb
+pmi kodi
+pmi filebot
+yasy filebot
+fb
+pmi jre
+yasy jre
+yas javafx
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+mv The.Simpsons.S13.720p.BluRay.DTS.x264-SiNNERS Season\ 13
+cp -r Season\ 13 /mnt/tv/The\ Simpsons
+sudo umount /mnt
+pms
+refmir
+sudo mount /dev/sdb1 /mnt
+mv The.Simpsons.S14.720p.Blu-ray.DD5.1.x264-CtrlHD Season\ 14
+cp -r Season\ 14 /mnt/tv/The\ Simpsons
+sudo umount /mnt
+pms
+pms
+pms
+yau
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+vid
+cd The.Simpsons.S18.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD
+lst
+mpv The.Simpsons.S18E22.You.Kent.Always.Say.What.You.Want.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD.mkv
+mpv The.Simpsons.S18E21.24.Minutes.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD.mkv
+vid
+pms
+pms
+pms
+pms
+pms
+yau
+yasy google-chrome
+yasy google-chrome
+sudo mount /dev/sdb1 /mnt
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+vid
+cd The.Simpsons.S18.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD
+mpv The.Simpsons.S18E01.The.Mook.the.Chef.the.Wife.and.Her.Homer.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD.mkv
+pavucontrol &
+mpv The.Simpsons.S18E02.Jazzy.and.the.Pussycats.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD.mkv
+mpv The.Simpsons.S18E03.Please.Homer.Dont.Hammer.Em.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD.mkv
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+mv The.Simpsons.S18.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD Season\ 18
+mv Season\ 18 /mnt/tv/The\ Simpsons
+sudo umount /mnt
+mpv Captain\ Marvel\ 2019\ 720p\ HDTC.....mkv
+cd Captain.Marvel.2019.1080p.HDTC.x264-Zagon
+lst
+mpv Captain.Marvel.2019.1080p.HDTC.x264-Zagon.mkv
+vid
+pms
+pmse remmind
+yas remmind
+pmse remmina
+pmi remmina
+pmr remmina
+pmi remmina remmina-plugins
+pmse remmina
+pmse remmina-plugins
+pmi freerdp
+yas remmina
+pmr remmina
+pmi remmina
+killall remmina
+reboot
+
+startgt
+startx
+vid
+cd Captain.Marvel.2019.1080p.HDTC.x264-Zagon
+mpv Captain.Marvel.2019.1080p.HDTC.x264-Zagon.mkv
+up 1
+rmd Captain.Marvel.2019.1080p.HDTC.x264-Zagon
+rm Captain\ Marvel\ 2019\ 720p\ HDTC.....mkv
+lst
+pms
+sudo mount /dev/sdb1 /mnt
+mfilm
+lst
+rm Gifted\ 2017\ 1080p\ BluRay\ DD5.1\ x264-KASHMiR
+up 1
+cd tv
+cd The\ Simpsons
+lst
+rmd Season\ 18
+vid
+mv The.Simpsons.S19.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD Season\ 19
+cp -r Season\ 19 /mnt/tv/The\ Simpsons
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+pmr makemkv
+pmi makemkv
+yasy makemkv
+pmi lib32-glibc
+pms
+yas makemkv
+vid
+cd The.Simpsons.S20.1080p.BluRay.DTS.x264-aAF
+mediainfo The.Simpsons.S20E01.1080p.BluRay.DTS.x264-aAF.mkv
+cd
+pms
+yau
+yasy numix-circle-icon-theme-git
+vid
+cd Season\ 1
+mpv Rugrats\ -\ S01E12\ -\ Grandpa\'s\ Teeth.mkv
+pms
+ip addr show
+vid
+lst
+rmd Season\ 12 Season\ 13 Season\ 14 Season\ 19
+lst
+rmd Wildboyz.S01.NTSC.DVD.DD2.0.x264
+lst
+rmd The\ Grey\ \(2011\)
+lst
+fb
+ybld
+cd filebot
+lst
+v PKGBUILD
+sudo archlinux-java status
+sudo archlinux-java set java-8-openjdk
+fb
+V /usr/bin/filebot
+fb
+cd /usr/lib
+lst
+cd jvm
+lst
+cd java-9-jdk
+lst
+cd bin
+lst
+cd
+sudo archlinux-java set java-9-jdk
+V /usr/bin/filebot
+cd /usr/lib/jvm
+lst
+fb
+cd
+vid
+lst
+fb
+mv The.Simpsons.S20.1080p.BluRay.DTS.x264-aAF Season\ 20
+lst
+mv Courage.the.Cowardly.Dog.COMPLETE.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM Courage\ the\ Cowardly\ Dog
+lst
+mkdir Rugrats It's Always\ Sunny\ in\ Philadelphia The\ Simpsons
+mkdir Rugrats It\'s\ Always\ Sunny\ in\ Philadelphia The\ Simpsons
+mv Season\ 1 Rugrats
+mv Season\ 5 It\'s\ Always\ Sunny\ in\ Philadelphia
+mv Season\ 20 The\ Simpsons
+lst
+scf
+scuf
+pms
+sudo mount /dev/sdb1 /mnt
+reboot
+startgt
+startx
+pms
+sudo mount /dev/sdb1 /mnt
+vid
+cp -r Rugrats /mnt/tv/
+sudo umount /mnt
+pms
+rmd Rugrats
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+rmd Rugrats
+vid
+cd Season\ 1
+lst
+uplsta
+lsta
+up 1
+lst
+cd Rugrats
+lst
+cd Season\ 1
+lst
+mpv Rugrats\ -\ S01E07\ -\ Little\ Dude.mkv
+mpv Rugrats\ -\ S01E02\ -\ Barbeque\ Story.mkv
+upp 2
+up 2
+cp -r Rugrats /mnt/tv/
+sudo umount /mnt
+pms
+lst
+cd Season\ 1
+ls
+lst
+up 1
+rmd Season\ 1
+lst
+pms
+pms
+lst
+cd Rugrats/
+lst
+cd
+pms
+vid
+fb
+sudo mount /dev/sdb1 /mnt
+reboot
+
+startgt
+startx
+func
+sh xrandr.sh
+sudo mount /dev/sdb1 /mnt
+pavucontrol &
+sudo umount /mnt
+poweroff
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mtv
+cd Rugrats
+lst
+cd Season\ 1
+lst
+up 1
+rmd Season\ 1
+lst
+vid
+lst
+cd Rugrats
+lst
+mv Season\ 1 /mnt/tv/Rugrats
+img
+lst
+cd fanart
+lst
+cp -r anime /mnt/anime/fanart
+lst
+cp -r tv /mnt/tv/fanart
+lst
+cd docs
+lst
+up 1
+cd film
+lst
+up 1
+lst
+lst
+up1
+up 1
+lst
+mtv
+lst
+cd It\'s\ Always\ Sunny\ in\ Philadelphia
+lst
+cd Season\ 5
+lst
+up 1
+rmd Season\ 5
+lst
+vid
+cd It\'s\ Always\ Sunny\ in\ Philadelphia
+lst
+mv Season\ 5 /mnt/tv/It\'s\ Always\ Sunny\ in\ Philadelphia
+up 1
+rmd It\'s\ Always\ Sunny\ in\ Philadelphia
+lst
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+cd Rugrats
+fb
+cp -r Season\ 2 /mnt/tv/Rugrats
+mtv
+lst
+cd The\ Simpsons
+lst
+rmd Season\ 11 Season\ 12 Season\ 13 Season\ 14 Season\ 19
+mtv
+cd Rugrats
+rmd Season\ 2
+vid
+cd Rugrats
+cp -r Season\ 2 /mnt/tv/Rugrats
+sudo umount /mnt
+up 1
+mkdir Catdog
+cd Catdog
+cd Season\ 1
+mpv CatDog\ -\ S01E01-02\ -\ Dog\ Gone\ +\ All\ You\ Can\'t\ Eat\ \[1080p.WEB-DL\]\ \[PepsiFli‚ÉºÉ∏\].mkv
+pms
+mpv CatDog\ -\ S01E05-06\ -\ The\ Island\ +\ All\ You\ Need\ is\ Lube\ \[1080p.WEB-DL\]\ \[PepsiFli‚ÉºÉ∏\].mkv
+pms
+sudo mount /dev/sdb1 /mnt
+mkdir /mnt/tv/Catdog
+up 1
+cp -r Season\ 1 /mnt/tv/Catdog
+cd
+lst
+rm kodi*
+sudo mount /dev/sdc1 ~/share
+mtv
+cd ~/share/tv/Hey\ Arnold\!
+lst
+cd Season\ 1
+lst
+mediainfo Hey\ Arnold\!\ -\ 1x01\ -\ Downtown\ As\ Fruits.mkv
+up 1
+mkdir /mnt/tv/Hey\ Arnold\!
+cp -r Season\ 1 Season\ 2 /mnt/tv/Hey\ Arnold\!
+cd
+sudo umount /mnt
+sudo umount ~/share
+reboot
+starthuawei
+startx
+ip addr show
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+pms
+pms
+reboot
+startgt
+startx
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+ip addr show
+refmir
+pms
+V /etc/resolv.conf
+reboot
+starthuawei
+startx
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+ip addr show
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+refmir
+pms
+reboot
+
+startgt
+startx
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+ip addr show
+refmir
+pma
+pms
+vid
+lst
+cd Catdog
+cd Season\ 1
+lst
+mpv CatDog\ -\ 1x01.mkv
+mpv CatDog\ -\ 1x01.mkv
+mpv CatDog\ -\ S01E01-02\ -\ Dog\ Gone\ +\ All\ You\ Can\'t\ Eat\ \[1080p.WEB-DL\]\ \[PepsiFli‚ÉºÉ∏\].mkv
+fb
+rm CatDog\ -\ 1x01.mkv
+lst
+fb
+lst
+up 1
+lst
+up 1
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+mv Catdog CatDog
+cd CatDog
+lst
+cd Season\ 1
+lst
+up 1
+rmd Season\ 1
+vid
+cd Catdog
+lst
+mv Season\ 1 /mnt/tv/CatDog
+lst
+vid
+sudo umount ~/share
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+cd Catdog
+cp -r Season\ 2 /mnt/tv/Catdog
+fb
+sudo umount /mnt
+vid
+img
+cd fanart
+cd tv
+lst
+pms
+lst
+lst
+lsblk
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdc1 ~/share
+mtv
+cd Hey\ Arnold\!
+lst
+cd
+sudo umount /mnt
+sudo umount ~/share
+pms
+func
+pavucontrol &
+sh xrandr.sh
+sudo mount /dev/sdc1 ~/share
+sudo mount /dev/sdb1 /mnt
+sudo umount ~/share
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+pms
+pms
+yau
+yasy numix-circle-icon-theme-git
+sudo mount /dev/sdb1 /mnt
+vid
+lst
+cd Catdog
+lst
+cp -r Season\ 3 /mnt/tv/Catdog
+FB
+fb
+sudo umount /mnt
+vid
+cd .wrkout
+lst
+up 1
+rmd .wrkout
+lst
+func
+sh xrandr.sh
+vid
+cd Hey.Arnold.S03.DVDRip.x264-DEiMOS
+mpv Hey.Arnold.S03E20.DVDRip.x264-DEiMOS.mkv
+mpv Hey.Arnold.S03E09.DVDRip.x264-DEiMOS.mkv
+mpv Hey.Arnold.S03E01.DVDRip.x264-DEiMOS.mkv\
+mpv Hey.Arnold.S03E01.DVDRip.x264-DEiMOS.mkv
+mpv Hey.Arnold.S03E02.DVDRip.x264-DEiMOS.mkv
+poweroff
+startgt
+startx
+pms
+fb
+vid
+mv Hey.Arnold.S03.DVDRip.x264-DEiMOS Season\ 3
+mv Hey.Arnold.S04.DVDRip.x264-DEiMOS Season\ 4
+lst
+sudo mount /dev/sdb1 /mnt
+mkdir Hey\ Arnold\!
+mv Season\ 3 Season\ 4 Hey\ Arnold\!
+lst
+cd Hey\ Arnold\!
+cp -r Season\ 3 Season\ 4 /mnt/tv/Hey\ Arnold\!
+sudo umount /mnt
+vid
+mpv Hey.Arnold.The.Jungle.Movie.2017.1080p.HDTV.X264-UAV.mkv
+pms
+pms
+pms
+yau
+yasy google-chrome
+mediainfo Hey.Arnold.The.Jungle.Movie.2017.1080p.HDTV.X264-UAV.mkv
+fb
+mtv
+sudo mount /dev/sdb1 /mnt
+mtv
+lst
+mv Hey\ Arnold\!\ The\ Jungle\ Movie\ \(2017\).mkv /mnt/film/
+mv Hey.Arnold.S05.DVDRip.x264-DEiMOS Season\ 5
+mv Season\ 5 Hey\ Arnold\!
+cd Hey\ Arnold\!
+lst
+cp -5 Season\ 5 /mnt/tv/Hey\ Arnold\!
+cp -r Season\ 5 /mnt/tv/Hey\ Arnold\!
+sudo umount /mnt
+cd
+sudo umount /mnt
+vid
+sudo mount /dev/sdb1 /mnt
+mfilm
+mv Hey\ Arnold\!\ The\ Jungle\ Movie\ \(2017\).mkv ~/vid/
+vid
+mv Hey\ Arnold\!\ The\ Jungle\ Movie\ \(2017\).mkv Hey.Arnold.The.Jungle.Movie.2017.1080p.HDTV.X264-UAV.mkv
+lst
+fb
+mv Hey\ Arnold\!\ The\ Jungle\ Movie\ \(2017\).mkv /mnt/film/
+sudo umount /mnt
+pms
+pms
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+lst
+mkdir /mnt/tv/Chernobyl
+fb
+mv Chernobyl\ -\ 1x0* /mnt/tv/Chernobyl
+sudo umount /mnt
+lst
+pms
+pms
+img
+mkdir remember
+lst
+mv *jpg remember/
+lst
+cd walls
+lst
+conf
+cd i3
+lst
+v config
+img
+walls
+lst
+conf
+i3
+cd i3
+v config 
+pmse screenfetch
+yau screenfetch
+info
+systemd-analyze
+systemd-analyze blame
+sc list
+sc --help
+sc list-jobs
+scf
+scuf
+scu disable redshift
+lst
+cd
+vid
+lst
+conf
+cd i3
+v config
+v config
+v config
+pmse proton
+yau proton
+pmse steam
+pmi ttf-liberation
+pmse zenhei
+pmi wqy-zenhei
+pmi steam
+v config
+v config
+v config
+v config
+reboot
+startgt
+startx
+pmr wqy-zenhei
+killall steam
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd lst
+lst
+cd Star\ Wars:\ The\ Force\ Awakens\ \(2015\)
+lst
+mediainfo Star\ Wars:\ The\ Force\ Awakens\ \(2015\).mkv
+cd
+sudo mount /dev/sdc1 ~/share
+mfilm
+cp -r Star\ Wars:\ The\ Force\ Awakens\ \(2015\) ~/share/film/
+cd ~/share/film
+lst
+rm Gifted\ 2017\ 1080p\ BluRay\ DD5.1\ x264-KASHMiR Hey\ Arnold\!\ The\ Jungle\ Movie\ \(2017\).mkv
+rmd Gifted\ 2017\ 1080p\ BluRay\ DD5.1\ x264-KASHMiR Hey\ Arnold\!\ The\ Jungle\ Movie\ \(2017\).mkv
+lst
+rm Star\ Wars:\ The\ Force\ Awakens\ \(2015\)
+rmd Star\ Wars:\ The\ Force\ Awakens\ \(2015\)
+cp -r Star\ Wars:\ The\ Force\ Awakens\ \(2015\) ~/share/film/
+cd
+sudo umount /mnt
+sudo umount ~/share
+cd
+sudo umount ~/share
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Star\ Wars:\ The\ Force\ Awakens\ \(2015\)
+mv Star\ Wars:\ The\ Force\ Awakens\ \(2015\).mkv Star\ Wars\ -\ The\ Force\ Awakens\ \(2015\).mkv
+cd
+sudo umount ~/share
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Star\ Wars:\ The\ Force\ Awakens\ \(2015\)
+lst
+up 1
+mv Star\ Wars:\ The\ Force\ Awakens\ \(2015\) Star\ Wars\ -\ The\ Force\ Awakens\ \(2015\)
+cd Star\ Wars\ -\ The\ Force\ Awakens\ \(2015\)
+mpv Star\ Wars\ -\ The\ Force\ Awakens\ \(2015\).mkv
+cd
+sudo umount /mnt
+pmse dx9
+yau dx9
+killall steam
+lsta
+cd .steam
+lsta
+vid
+cd Rockos\ Modern\ Life\ 1993\ S01\ NTSC\ DVD\ REMUX-Fluffy
+lst
+mpv Rocko\'s\ Modern\ Life\ -\ S01E25\ -\ Clean\ Lovin\'.mkv
+lst
+lst
+fb
+vid
+vid
+cd
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+mtv
+lst
+rmd Catdog
+vid
+lst
+Catdog
+lst
+up 1
+mkdir /mnt/tv/Rocko\'s\ Modern\ Life
+mv Rockos\ Modern\ Life\ 1993\ S01\ NTSC\ DVD\ REMUX-Fluffy /mnt/tv/Rocko\'s\ Modern\ Life/Season\ 1
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdc1 ~/share
+lsblk
+cd ~/share/tv/Shin\ Chan
+lst
+rm hs_err_pid24687.log
+cd Season\ 1
+lst
+mediainfo Shin\ Chan\ -\ 1x01\ -\ Pee\ Strike.mp4
+up 1
+up 1
+cp -r Shin\ Chan /mnt/tv/
+sudo umount /mnt
+sudo umount ~/share
+cd
+sudo umount ~/share
+vid
+lst
+mv Rockos\ Modern\ Life\ 1993\ S02\ NTSC\ DVD\ REMUX-Fluffy Season\ 2
+fb
+sudo mount /dev/sdb1 /mnt
+mv Season\ 2 /mnt/tv/Rocko\'s\ Modern\ Life
+sudo umount ~/share
+sudo umount /mnt
+pms
+pms
+lst
+mpv The.Descent.2005.1080p.Bluray.REMUX.AVC.DTS-HD.MA.5.1-RUT.mkv
+func
+sh xrandr.sh
+pavucontrol &
+mpv The.Descent.2005.1080p.Bluray.REMUX.AVC.DTS-HD.MA.5.1-RUT.mkv
+poweroff
+
+startgt
+startx
+pms
+yau
+yasy pi-hole-ftl pi-hole-server
+func
+sudo mount /dev/sdb1 /mnt
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+poweroff
+startx
+sudo wpa_passphrase CenturyLink9162 bd8a6a34dada8d > /etc/wpa_supplicant/wpa_supplicant-moms.conf
+su
+sudo wpa_passphrase CenturyLink9162 bd8a6a34dada8d > /etc/wpa_supplicant/wpa_supplicant-moms.conf
+exit
+aliasn
+rf
+startmoms
+ip addr show
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+refmir
+pms
+vid
+lst
+cd Courage\ the\ Cowardly\ Dog
+lst
+cd Courage.the.Cowardly.Dog.S03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S03E01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pms
+vid
+yau
+pms
+pwoeroff
+poweroff
+startx
+aliasn
+sudo ip link set wlp2s0 up
+ip addr show
+sudo iw dev wlp2s0 connect "Radisson"
+pmi iw
+ip addr show
+sudo dhcpcd enp0s20f0u2
+sudo chattr -i /etc/resolv.conf
+V /etc/re
+V /etc/resolv.conf
+ip addr show
+sudo chattr +i /etc/resolv.conf
+pmi iw
+V /etc/pihole/setupVars.conf
+pms
+refmir
+ip addr show
+sudo killall dhcpcd
+ip addr show
+sudo ip link set enp0s20f0u2 down
+ip addr show
+ip addr show
+sudo set enp0s20f0u2 up
+sudo ip link set enp0s20f0u2 up
+ip addr show
+sudo dhcpcd enp0s20f0u2
+ip addr show
+refmir
+V /etc/resolv.conf
+ip addr show
+pms
+ip addr show
+sudo ip link set enp0s20f0u2 up
+ip addr show
+sudo dhcpcd enp0s20f0u2
+sudo killall dhcpcd
+ip addr show
+sudo wpa_passphrase Vondasphone jyxx2319 > /etc/wpa_supplicant/wpa_supplicant-momsphone.conf
+su
+sudo wpa_passphrase Vondasphone jyxx2319 > /etc/wpa_supplicant/wpa_supplicant-momsphone.conf
+exit
+aliasn
+sudo ip link set wlp2s0 up
+ sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-momsphone.conf
+sudo dhcpcd wlp2s0
+ip addr show
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+refmir
+pmi iw
+sudo killall wpa_supplicant
+sudo killall dhcpcd
+ip addr show
+sudo ip link set wlp2s0 down
+sudo ip link set wlp2s0 up
+ip addr shw
+ip addr show
+iw dev wlp2s0 connect "Radisson"
+sudo iw dev wlp2s0 connect "Radisson"
+sudo dhcpcd wlp2s0
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+ip addr show
+V /etc/pihole/setupVars.conf
+pms
+refmir
+sudo iwconfig 
+pms
+refmir
+pmi iwconfig
+sudo killall dhcpcd
+sudo killall iw
+pms
+sudo rm /var/lib/pacman/sync
+sudo rmd /var/lib/pacman/sync
+rmd /var/lib/pacman/sync
+pms
+sudo Syyu
+sudo pacman Syyu
+sudo pacman -Syyu
+cd /var/lib/pacman
+lst
+cd sync
+lst
+up 1
+rmd sync
+cd
+lst
+rm kodi_crashlog-20190508_232308.log
+pmi iwconfig
+sudo pacman -Syyu
+rmd /var/lib/pacman/sync
+ip addr show
+sudo ip link set wlp2s0 dpwn
+sudo ip link set wlp2s0 down
+ip addr show
+sudo killall dhcpcd
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-momsphone.conf
+sudo dhcpcd wlp2s0
+ip addr show
+V /etc/resolv.conf
+pms
+pmi iwconfig
+refmir
+sudo pacman _Syyu
+sudo pacman -Syyu
+pmi iwconfig
+yau iwconfig
+pmse iw
+pmse ifconfig
+pmse wireless
+pmi wireless_tools
+sudo killall wpa_supplicant
+sudo killall dhcpcd
+sudo ip link set wlp2s0 down
+sudo ip link set wlp2s0 up
+iwconfig wlp2s0 essid Radisson
+sudo iwconfig wlp2s0 essid Radisson
+sudo dhcpcd wlp2s0
+pms
+V /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+sudo killall dhcpcd
+sudo ip link set wlp2s0 down
+ip addr show
+cd /etc/wpa_supplicant
+lst
+v wpa_supplicant-gt.conf
+V wpa_supplicant-radisson.conf
+lst
+cd
+sudo ip link set wlp2s0 up
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-radisson.conf
+sudo dhcpcd wlp2s0
+V /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+pms
+V /etc/resolv.conf
+iw dev wlp2s0 link
+ip addr show
+sudo killall dhcpcd
+sudo dhcpcd wlp2s0
+pms
+ip addr show
+V /etc/resolv.conf
+sudo killall dhcpcd
+sudo ip link set wlp2s0 down
+ip add
+ip add
+sudo killall wpa_supplicant
+aliasn
+reboot
+startrad
+startx
+V /etc/resolv.conf
+iw dev wlp2s0 link
+pms
+V /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+V /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+ip addr show
+ip addr show
+ip addr show
+V /etc/pihole/setupVars.conf
+V /etc/resolv.conf
+V /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+V /etc/pihole/setupVars.conf
+yau turker
+pms
+rmd /var/lib/pacman/sync
+pms
+yau
+V /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/resolv.conf
+pms
+V /etc/resolv.conf
+pms
+V /etc/resolv.conf
+V /etc/hosts
+pms
+yasy google-chrome
+V /etc/hosts
+pms
+refmir
+ping 8.8.8.8
+refmir
+ip addr show
+V /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+sudo killall wpa_supplicant
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-radisson.conf
+sudo killall dhcpcd
+sudo dhcpcd wlp2s0
+pms
+cd .steam
+lst
+cd steam
+lst
+cd steamapps
+lat
+lst
+cd common
+lst
+cd Oblivion
+lst
+cd Data
+lst
+cd Textures
+lst
+cd Effects
+lst
+up 2
+lst
+ip addr show
+pms
+poweroff
+
+startmoms
+startx
+sudo chattr -i /etc/resolv.conf
+ip addr show
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+pms
+dl
+cd Oblivion\ Mods
+cd .steam
+cd steamapps
+cd steam
+cd steamapps
+cd common
+lar
+lsst
+lst
+cd Oblivion/
+lst
+unzip cave_textures-44585-1-02.7z
+extract cave_textures-44585-1-02.7z
+vid
+lst
+cd Courage\ the\ Cowardly\ Dog
+lst
+cd Courage.the.Cowardly.Dog.S03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S03E05.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+poweroff
+startgt
+ip addr show
+restart
+shutdown
+startx
+startgt
+startx
+pms
+ip addr show
+sudo chattr -i /etc/resolv.conf
+V /etc/resolv.conf
+sudo chattr +i /etc/resolv.conf
+V /etc/pihole/setupVars.conf
+refmir
+pms
+vid
+lst
+sudo mount /dev/sdb1 /mnt
+mv Chernobyl.S01E03.Open.Wide.O.Earth.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv /mnt/tv/Chernobyl
+cd
+sudo umount /mnt
+V /etc/hosts
+pms
+pms
+yau
+yasy pi-hole-ftl
+dl
+cd Oblivion\ Mods
+lst
+pmse p7zip
+pmi p7zip
+7z cave_textures-44585-1-02.7z ~/.steam/steam/steamapps/common/Oblivion/Data/
+7z -h
+7z e cave_textures-44585-1-02.7z ~/.steam/steam/steamapps/common/Oblivion/Data/
+lst
+7z x cave_textures-44585-1-02.7z ~/.steam/steam/steamapps/common/Oblivion/Data/
+cd
+cd .steam
+cd steam
+cd steamapps
+cd common
+cd Oblivion
+cd Data
+lst
+cd Textures
+lst
+cd
+dl
+cd Oblivion\ Mods
+7z x cave_textures-44585-1-02.7z
+lst
+cd textures
+lst
+mv dungeons ~/.steam/steam/steamapps/common/Oblivion/Data/Textures
+lst
+up 1
+rmd textures
+cd
+cd .steam
+cd steam
+cd steamapps
+cd common
+cd Oblivion
+cd Data
+lst
+cd Textures
+lst
+mv dungeons Dungeons
+cd Dungeons
+lst
+mv caves Caves
+cd Caves
+lst
+cd
+pms
+dl
+cd Oblivion\ Mods/\
+cd Oblivion\ Mods
+lst
+extract Manual\ Version-10724.zip
+lst
+mv ArchiveInvalidationInvalidated\!.bsa ~/.steam/steam/steamapps/common/Oblivion/Data/
+cd
+cd .steam
+cd steam
+cd steamapps
+cd common
+cd Oblivion
+cd Data
+lst
+cd
+pms
+vid
+lst
+fb
+cd Rise.of.the.Planet.of.the.Apes.2011.1080p.BluRay.x264-CtrlHD
+lst
+rm *nfo
+lst
+up 1
+mv Rise.of.the.Planet.of.the.Apes.2011.1080p.BluRay.x264-CtrlHD Rise\ of\ the\ Planet\ of\ the\ Apes\ \(2011\)
+lst
+startgt
+startx
+cd .steam
+cd steam
+cd steamapps
+cd common
+cd HuniePop
+lst
+cd HuniePop_Data
+lst
+up 1
+cd
+startgt
+startx
+pmi lsb-release
+pms
+func
+sh xrandr.sh
+vid
+cd Rise\ of\ the\ Planet\ of\ the\ Apes\ \(2011\)
+lst
+cd Rise.of.the.Planet.of.the.Apes.2011.1080p.BluRay.x264-CtrlHD-subs
+lst
+up 1
+pavucontrol &
+mpv Rise\ of\ the\ Planet\ of\ the\ Apes\ \(2011\).mkv
+xrandr -h
+xrandr --help
+xrandr --listmonitors
+reboot
+startgt
+startx
+pms
+pms
+fb
+sudo mount /dev/sdb1 /mnt
+lst
+lsblk
+reboot
+stargt
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+fb
+vid
+mv Chernobyl\ -\ 1x04\ -\ The\ Happiness\ of\ All\ Mankind.mkv /mnt/tv/Chernobyl
+sudo umount /mnt
+func
+sh xrandr.sh
+pavucontrol &
+lst
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S02E01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S02E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+lst
+vid
+lst
+mpv Dawn.of.the.Planet.of.the.Apes.2014.1080p.BluRay.DTS.x264-DON.mkv
+reboot
+
+startgt
+startx
+pms
+fb
+pms
+pms
+pms
+pms
+func
+sh xrandr.sh
+vid
+mpv Dawn\ of\ the\ Planet\ of\ the\ Apes\ \(2014\).mkv
+pavucontrol &
+lst
+mpv War\ for\ the\ Planet\ of\ the\ Apes\ \(2017\).mkv
+poweroff
+
+startgt
+startx
+pms
+vid
+lst
+cd Captain.Marvel.2019.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-BLUTONiUM
+mpv Captain.Marvel.2019.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-BLUTONiUM.mkv
+vid
+pms
+sudo mount /dev/sdb1 /mnt
+mtv
+mfilm
+lst
+rm Star\ Wars\ -\ The\ Force\ Awakens\ \(2015\)
+rmd Star\ Wars\ -\ The\ Force\ Awakens\ \(2015\)
+lst
+up 1
+lst
+cd tv
+lst
+vid
+lst
+cd Rugrats
+lst
+vid
+cd Rugrats
+lst
+up 1
+lst
+cd Hey\ Arnold\!
+lst
+up 1
+cd Hey\ Arnold\!
+lst
+rmd Season\ 3 Season\ 4 Season\ 5
+vd
+vid
+lst
+mv Captain.Marvel.2019.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-BLUTONiUM Captain\ Marvel\ \(2019\)
+cd Captain\ Marvel\ \(2019\)
+lst
+mv Captain.Marvel.2019.2160p.WEB-DL.DDP5.1.Atmos.HDR.HEVC-BLUTONiUM.mkv Captain\ Marvel\ \(2019\).mkv
+up 1
+mv Captain\ Marvel\ \(2019\) /mnt/film/
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+lst
+mtv
+cd Dragon\ Ball
+lst
+mani
+cd Dragon\ Ball
+lst
+cd Season\ 1
+lst
+up 1
+mtv
+cd Rugrats
+lst
+cd Season\ 1
+lst
+up 1
+up 1
+cd Rugrats
+lst
+cd Season\ 2
+lst
+up 1
+df -H
+mv Season\ 2 /mnt/tv/Rugrats
+df -H
+lst
+up 1
+rmd Rugrats
+lst
+up 1
+cd Hey\ Arnold\!
+lst
+cd Season\ 3
+lst
+cd Hey\ Arnold\!
+lst
+cd Season\ 
+cd Season\ 1
+lst
+up 1
+lst
+up 1
+lst
+cd Catdog
+lst
+cd Season\ 2
+lst
+up 1
+cd Season\ 3
+lst
+fb
+up 1
+mv Season\ 2 Season\ 3 /mnt/tv/CatDog
+df -H
+lst
+up 1
+rmd Catdog
+lst
+df -H
+cd
+lst
+sudo umount /mnt
+balance -v /home
+balstat /home
+balstat /home
+balstat /home
+balstat /home
+balstat /home
+balstat /home
+ip addr show
+img
+walls
+lst
+config
+conf
+cd i3
+v config
+cd
+balance --help
+aliasn
+balpause /home
+pms
+func
+sh xrandr.sh
+mpv War\ for\ the\ Planet\ of\ the\ Apes\ \(2017\).mkv
+pavucontrol &
+startgt
+startx
+pms
+ackage changes...\
+( 1/12) upgrading harfbuzz                                                                                                             [----------------------------------------------------------------------------------] 100%\
+( 2/12) upgrading harfbuzz-icu                                                                                                         [----------------------------------------------------------------------------------] 100%\
+( 3/12) upgrading openssl                                                                                                              [----------------------------------------------------------------------------------] 100%\
+( 4/12) upgrading openssl-1.0                                                                                                          [----------------------------------------------------------------------------------] 100%\
+( 5/12) upgrading xorg-server-common                                                                                                   [----------------------------------------------------------------------------------] 100%\
+( 6/12) upgrading xorg-server                                                                                                          [----------------------------------------------------------------------------------] 100%\
+( 7/12) upgrading xorg-server-devel                                                                                                    [----------------------------------------------------------------------------------] 100%\
+( 8/12) upgrading xorg-server-xdmx                                                                                                     [----------------------------------------------------------------------------------] 100%\
+( 9/12) upgrading xorg-server-xephyr                                                                                                   [----------------------------------------------------------------------------------] 100%\
+(10/12) upgrading xorg-server-xnest                                                                                                    [----------------------------------------------------------------------------------] 100%\
+(11/12) upgrading xorg-server-xvfb                                                                                                     [----------------------------------------------------------------------------------] 100%\
+(12/12) upgrading xorg-server-xwayland                              
++
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+sudo umount /mnt
+poweroff
+
+startgt
+startx
+pms
+pms
+pms
+pms
+yau
+yasy google-chrome
+fb
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+mv Chernobyl\ -\ 1x05\ -\ Vichnaya\ Pamyat.mkv /mnt/tv/Chernobyl
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mtv
+cd Space\ Ghost\ Coast\ to\ Coast
+lst
+cd Season\ 1
+lst
+up 1
+cd Season\ 2
+lst
+up 1
+cd Season\ 3
+lst
+cd
+sudo umount /mnt
+lsta
+fb
+vid
+mv Space\ Ghost\ Coast\ to\ Coast\ S01\ 1080p\ AS\ WEBRip\ AAC\ 2.0\ H.264 Season\ 1
+mv Space\ Ghost\ Coast\ to\ Coast\ S02\ 1080p\ AS\ WEBRip\ AAC\ 2.0\ H.264 Season\ 2
+mv Space\ Ghost\ Coast\ to\ Coast\ S03\ 1080p\ AS\ WEBRip\ AAC\ 2.0\ H.264 Season\ 3
+mkdir Space\ Ghost\ Coast\ to\ Coast
+mv Season* Space\ Ghost\ Coast\ to\ Coast
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+mfilmf
+mfilm
+lst
+cd Captain\ Marvel\ \(2019\)
+lst
+up `
+up 1
+rmd Captain\ Marvel\ \(2019\)
+cd
+cp -r Space\ Ghost\ Coast\ to\ Coast /mnt/tv/
+sudo umount /mnt
+pms
+pms
+pmse plex
+yasy plex
+yas plex
+lst
+func
+sh xrandr.sh
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S01E04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pavucontrol &
+vid
+mpv Batman.Begins.2005.1080p.BluRay.REMUX.VC-1.TrueHD.5.1-Kanibus@PrivateHD.mkv
+htop
+reboot
+startx
+func
+sh xrandr.sh
+vid
+mpv Batman.Begins.2005.1080p.BluRay.REMUX.VC-1.TrueHD.5.1-Kanibus@PrivateHD.mkv
+htop
+mpv Batman.Begins.2005.1080p.BluRay.REMUX.VC-1.TrueHD.5.1-Kanibus@PrivateHD.mkv
+poweroff
+startgt
+startx
+pms
+yau
+vid
+mpv Batman.Begins.2005.1080p.BluRay.REMUX.VC-1.TrueHD.5.1-Kanibus@PrivateHD.mkv
+htop
+oms
+pms
+ip addr show
+refmir
+startgt
+startgt
+startx
+pms
+ip addr show
+pms
+pms
+yau
+vid
+mpv Batman.Begins.2005.1080p.BluRay.REMUX.VC-1.TrueHD.5.1-Kanibus@PrivateHD.mkv
+pmse youtubedl
+pmse youtube-dl
+pmi youtube-dl
+youtube-dl https://soundcloud.com/unicornkid/coral-reefer-mixtape
+lst
+mv Coral\ Reefer\ Mixtape-22014212.mp3 ~/tune/
+ncmpcpp
+tune
+cd
+pms
+vid
+lst
+fb
+lst
+mv The.Dark.Knight.2008.1080p.BluRay.DTS.x264-LEGi0N The\ Dark\ Knight\ \(2008\)
+lst
+pms
+cd The\ Dark\ Knight\ \(2008\)
+lst
+rm *nfo
+rm The.Dark.Knight.2008.1080p.BluRay.DTS.x264-LEGi0N.sample.mkv
+mpv The\ Dark\ Knight\ \(2008\).mkv
+vid
+lsta
+rmd EscandaloDeEstrellas\(Rodriguez,1944\)
+rm Dos\ tipos\ de\ cuidado\ \(1953\).avi
+rm Las\ Islas\ Mar√≠as\ \(Emilio\ Fernandez,\ Pedro\ Infante\ 1950\).avi
+lst
+pms
+yau
+yasy makemkv
+func
+sh xrandr.sh
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S04E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pavucontrol &
+mpv Courage.the.Cowardly.Dog.S04E03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S04E04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+vid
+mpv Batman\ Begins\ \(2005\).mkv
+cd The\ Dark\ Knight\ \(2008\)
+mpv The\ Dark\ Knight\ \(2008\).mkv
+poweroff
+startgt
+startx
+dl
+rm *torrent
+lst
+cd
+vid
+cd Courage.the.Cowardly.Dog.S04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S04E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S04E07.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S04E08.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S04E09.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pms
+mpv Courage.the.Cowardly.Dog.S04E10.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+func
+sh xrandr.sh
+vid
+pavucontrol &
+cd The\ Dark\ Knight\ \(2008\)
+mpv The\ Dark\ Knight\ \(2008\).mkv
+vid
+mpv The\ Dark\ Knight\ Rises\ 2012\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S04E10.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S04E12.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S04E13.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+reboot
+
+startgt
+startx
+vid
+cd Courage.the.Cowardly.Dog.S04.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S03E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E09.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E11.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E12.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pms
+up 1
+cd Courage.the.Cowardly.Dog.S01.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage\ the\ Cowardly\ Dog\ -\ 1x01.mkv
+mpv Courage\ the\ Cowardly\ Dog\ -\ 1x02.mkv
+lst
+mpv Courage\ the\ Cowardly\ Dog\ -\ 1x03.mkv
+mpv Courage\ the\ Cowardly\ Dog\ -\ 1x04.mkv
+rm Courage.the.Cowardly.Dog.S01E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pms
+func
+sh xrandr.sh
+mpv Courage.the.Cowardly.Dog.S01E11.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pavucontrol &
+vid
+cd The\ Dark\ Knight\ Rises\ 2012\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo
+mpv The\ Dark\ Knight\ Rises\ 2012\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo.mkv
+cd
+vid
+cd Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S03.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S03E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E06.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S03E07.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+poweroff
+
+startgt
+startx
+pms
+pms
+sudo mount /dev/sdb1 /mnt
+reboot
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+pavucontrol &
+poweroff
+startgt
+startx
+pms
+LC_ALL=C find "/usr/lib/perl5/5.28" -type f -exec pacman -Qqo {} + |& sed -n 's/^error: No package owns \(.*\)$/\1/p'
+pmse perllocal
+pmse perl
+pmse perl-local
+LC_ALL=C find "/usr/lib/perl5/5.28" -type f -exec pacman -Qqo {} + |& sed -n 's/^error: No package owns \(.*\)$/\1/p'
+pmse perl-ls
+pmse lsplusplus
+vid
+lst
+mpv Taken\ 2008\ 1080p\ BluRay\ DTS\ x264-CtrlHD.mkv
+pms
+pms
+func
+sh xrandr.sh
+sh xrandr.sh
+sh xrandr.sh
+cd  Courage\ the\ Cowardly\ Dog
+cd Courage.the.Cowardly.Dog.S02.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM
+mpv Courage.the.Cowardly.Dog.S02E07.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+pavucontrol &
+mpv Courage.the.Cowardly.Dog.S02E08.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+mpv Courage.the.Cowardly.Dog.S02E09.DVD.REMUX.MPEG2.DD.2.0-BLURANiUM.mkv
+vid
+lst
+mpv Taken\ 2008\ 1080p\ BluRay\ DTS\ x264-CtrlHD.mkv
+poweroff
+
+startgt
+startx
+pms
+pms
+pms
+yau
+yasy google-chrome
+startgt
+startx
+pms
+pms
+pms
+pms
+pms
+vid
+lst
+pms
+pms
+pms
+cd Frisky.Dingo.S01.480p.WEB-DL.AAC2.0.H.264-BTN
+mpv Frisky.Dingo.S01E01.Meet.Killface.480p.WEB-DL.AAC2.0.H.264-BTN.mkv
+vid
+workweek
+pms
+mv Frisky.Dingo.S01.480p.WEB-DL.AAC2.0.H.264-BTN Frisky
+mv Frisky Frisky\ Dingo
+cd Frisky\ Dingo
+lst
+mkdir Season\ 1
+mv *mkv Season\ 1
+fb
+vid
+lst
+pms
+yau
+yasy google-chrome
+fb
+mv The.Good.Doctor.S02.1080p.AMZN.WEB-DL.DDP5.1.H264-SiGMA The/ Good/ Doctor
+mv The.Good.Doctor.S02.1080p.AMZN.WEB-DL.DDP5.1.H264-SiGMA The\ Good\ Doctor
+cd The\ Good\ Doctor
+lst
+mkdir Season\ 2
+mv *mkv Season\ 2
+cd Season\ 2
+lst
+mpv The\ Good\ Doctor\ -\ 2x15\ -\ Risk\ and\ Reward.mkv
+vid
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+vid
+cp -r Frisky\ Dingo /mnt/tv/
+sudo umount /mnt
+lst
+lsblk
+mv Frisky.Dingo.S02.480p.WEB-DL.AAC2.0.H.264-BTN Season\ 2
+fb
+mv Season\ 2 Frisky\ Dingo
+lst
+sudo mount /dev/sdb1 /mnt
+cd Frisky\ Dingo
+cp -r Season\ 2 /mnt/tv/Frisky\ Dingo
+cd
+sudo umount /mnt
+vid
+mv Rockos\ Modern\ Life\ 1993\ S03\ NTSC\ DVD\ REMUX-Fluffy Season\ 3
+fb
+sudo mount /dev/sdb1 /mnt
+mv Season\ 3 /mnt/tv/Rocko\'s\ Modern\ Life
+mtv
+lst
+mtv
+lst
+tv
+lst
+cd Hey\ Arnold\!
+lst
+cd Season\ 1
+lst
+cd
+cd Hey\ Arnold\!
+lst
+tv
+vid
+cd Hey\ Arnold\!
+lst
+mv Season\ 1 Season\ 2 ~/vid/Hey\ Arnold\!
+up 1
+rmd Hey\ Arnold\!
+cd Rocko\'s\ Modern\ Life
+cd Season\ 3
+LST
+lst
+rm Rocko\'s\ Modern\ Life\ -\ 3x0*
+lst
+up 1
+cd Season\ 3
+lst
+cp Rocko\'s\ Modern\ Life\ -\ 3x0* /mnt/tv/Rocko\'s\ Modern\ Life/Season\ 3/
+cd
+cd
+sudo umount /mnt
+vid
+lst
+mv Rockos\ Modern\ Life\ 1993\ S04\ NTSC\ DVD\ REMUX-Fluffy Season\ 4
+fb
+rm Batman\ Begins\ \(2005\).mkv Dawn\ of\ the\ Planet\ of\ the\ Apes\ \(2014\).mkv Taken\ 2008\ 1080p\ BluRay\ DTS\ x264-CtrlHD.mkv War\ for\ the\ Planet\ of\ the\ Apes\ \(2017\).mkv
+lst
+sudo mount /dev/sdb1 /mnt
+rmd The\ Dark\ Knight\ \(2008\) The\ Dark\ Knight\ Rises\ 2012\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo
+lst
+mfilm
+lst
+mtv
+lst
+cd Rugrats
+lst
+up 1
+rmd Rugrats
+vid
+cp -r Season\ 4 /mnt/tv/Rocko\'s\ Modern\ Life
+sudo umount /mnt
+-pms
+pms
+yau
+yasy yay
+lst
+lst
+fb
+lst
+rmd Juan\ Bustillo\ Oro\ -\ 1940\ -\ Ahi\ esta\ el\ detalle
+lst
+rmd Rise\ of\ the\ Planet\ of\ the\ Apes\ \(2011\)
+lst
+cd Season\ 3
+lst
+up 1
+lst
+mpv Taken\ 2\ \(2012\).mkv
+func
+sh xrandr.sh
+mpv Taken\ 2\ \(2012\).mkv
+pavucontrol &
+startgt
+startx
+vid
+mpv Taken\ 2\ \(2012\).mkv
+pavucontrol &
+func
+sh xrandr.sh
+sh xrandr.sh
+sh xrandr.sh
+startgt
+startx
+vid
+lst
+cd Space\ Ghost\ Coast\ to\ Coast
+lst
+cd
+cd
+vid
+lst
+fb
+sudo mount /dev/sdb1 /mnt
+mv Annabelle\ Creation\ \(2017\).mkv /mnt/film/
+vid
+cd An.Elephant.Sitting.Still.2018.720p.AAC.2.0-SaL
+lst
+mediainfo An.Elephant.Sitting.Still.2018.720p.AAC.2.0-SaL.mkv
+lst
+cd An.Elephant.Sitting.Still.2018.720p.AAC.2.0-SaL
+lst
+fb
+rm An.Elephant.Sitting.Still.2018.-.Credits.720p.AAC.2.0-SaL.mkv
+lst
+lst
+mpv An\ Elephant\ Sitting\ Still\ \(2018\).mkv vid
+vid
+mv An.Elephant.Sitting.Still.2018.720p.AAC.2.0-SaL An\ Elephant\ Sitting\ Still\ \(2018\)
+lst
+cp An\ Elephant\ Sitting\ Still\ \(2018\) /mnt/film/
+cp -r An\ Elephant\ Sitting\ Still\ \(2018\)
+cp -r An\ Elephant\ Sitting\ Still\ \(2018\) /mnt/film/
+sudo umount /mnt
+ip addr show
+startgt
+startx
+pms
+yau
+yasy polybar
+lst
+cd .cache
+lst
+cd yay
+lst
+cd google-chrome
+lst
+cd
+lst
+pms
+refmir
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+yau
+PMS
+pms
+pms
+pms
+yau
+yasy pi-hole-server
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+func
+sh xrandr.sh
+sh xrandr.sh
+sh xrandr.sh
+startgt
+startx
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd There\ Will\ Be\ Blood\ \(2007\)
+mpv There\ Will\ Be\ Blood\ \(2007\).mkv
+mpv There\ Will\ Be\ Blood\ \(2007\).mkv
+pms
+cd
+pms
+pau
+yau
+yasy pi-hole-ftl numix-circle-icon-theme-git
+pms
+pms
+pms
+yau
+yasy pi-hole-ftl numix-circle-icon-theme-git
+pms
+yau
+yasy numix-icon-theme-git
+pms
+pms4
+pms
+pms
+pms
+pms
+pms
+vid
+lst
+cd The.Conjuring.2013.1080p.Blu-Ray.ReMuX.AVC.DTS-HDMA.5.1-R2D2
+lst
+mpv The.Conjuring.2013.1080p.Blu-Ray.ReMuX.AVC.DTS-HDMA.5.1-R2D2.mkv
+func
+sh xrandr.sh
+pavucontrol &
+mpv The.Conjuring.2013.1080p.Blu-Ray.ReMuX.AVC.DTS-HDMA.5.1-R2D2.mkv
+poweroff
+startgt
+startx
+pms
+vid
+lst
+cd Alita:\ Battle.Angel.2019.2160p.WEB-DL.DD+5.1.HEVC-DEFLATE\[NO\ RAR\]
+mpv Alita.Battle.Angel.2019.INTERNAL.2160p.WEB.H265-DEFLATE.mkv
+cd
+startgt
+startx
+pms
+pmse chrome
+yas chrome
+pms
+sudo mount /dev/sdb1 /mnt
+lsblk
+lsblk
+lsblk
+lsblk
+reboot
+startgt
+startx
+lsblk
+lsblk
+sudo mount /dev/sdb1 /mnt
+vid
+mfilm
+lst
+rm Annabelle\ Creation\ \(2017\).mkv
+rm An\ Elephant\ Sitting\ Still\ \(2018\)
+mtv
+lst
+vid
+mv Alita:\ Battle.Angel.2019.2160p.WEB-DL.DD+5.1.HEVC-DEFLATE\[NO\ RAR\] /mnt/film/
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mfilm
+cd Alita:\ Battle.Angel.2019.2160p.WEB-DL.DD+5.1.HEVC-DEFLATE\[NO\ RAR\]
+mv Alita.Battle.Angel.2019.INTERNAL.2160p.WEB.H265-DEFLATE.mkv Alita\ Battle\ Angel.mkv
+cd
+sudo umount /mnt
+sudo mount /dev/sdb1 /mnt
+mfilm
+lst
+cd Alita:\ Battle.Angel.2019.2160p.WEB-DL.DD+5.1.HEVC-DEFLATE\[NO\ RAR\]
+lst
+up 1
+mv Alita:\ Battle.Angel.2019.2160p.WEB-DL.DD+5.1.HEVC-DEFLATE\[NO\ RAR\] Alita\ Battle\ Angel
+lst
+cd
+sudo umount /mnt
+vid
+lst
+cd \[E-D\]_Hyper_Future_Vision_-_Gunnm_\[DVD_H264_AC3_SRT\]
+lst
+mpv \[Exiled-Destiny\]_Battle_Angel_Alita_Ep01_\(386A3C0D\).mkv
+cd
+pms
+pms
+pms
+pms
+ip addr show
+startgt
+sudo killall dhcpcd
+aliasn
+sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-gt.conf && sudo dhcpcd wlp2s0
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+ip addr show
+pms
+reboot
+startgt
+startx
+pms
+vid
+lst
+mv Mulan\ 1998\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo Mulan\ \(1998\)
+cd Mulan\ \(1998\)
+lst
+rm Mulan\ 1998\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo.nfo
+mv Mulan\ 1998\ 1080p\ Blu-ray\ Remux\ AVC\ DTS-HD\ MA\ 5.1\ -\ KRaLiMaRKo.mkv Mulan\ \(1998\).mkv
+mpv Mulan\ \(1998\).mkv
+func
+sh xrandr.sh
+pavucontrol &
+mpv Mulan\ \(1998\).mkv
+poweroff
+startgt
+startx
+pms
+func
+sh xrandr.sh
+vid
+cd \[E-D\]_Hyper_Future_Vision_-_Gunnm_\[DVD_H264_AC3_SRT\]
+mpv \[Exiled-Destiny\]_Battle_Angel_Alita_Ep01_\(386A3C0D\).mkv
+pavucontrol &
+mpv \[Exiled-Destiny\]_Battle_Angel_Alita_Ep02_\(A35B1392\).mkv
+startgt
+startx
+PMS
+pms
+pms
+pms
+ip addr show
+reboot
+
+startgt
+startx
+pms
+yau
+yasy google-chrome
+reboot
+startgt
+startx
+pms
+yau
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+vid
+lst
+rm Taken\ 2\ \(2012\).mkv
+rm The\ Descent\ \(2005\).mkv
+lst
+cd Rambo.First.Blood.1982.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR
+lst
+rm info.nfo
+rmd Samples
+lst
+mpv Rambo.First.Blood.1982.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+func
+sh xrandr.sh
+pavucontrol &
+mpv Rambo.First.Blood.1982.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+poweroff
+
+startgt
+startx
+downgrade polybar
+yasy polybar
+conf
+cd polybar
+v config
+fc-cache -fv
+cd
+yas nerd-fonts
+yasy nerd-fonts-complete
+pms
+conf
+cd polybar
+v config \
+v config
+v config
+lst
+v launch.sh
+cd
+pms
+pmse font-awesome
+pmr otf-font-awesome ttf-font-awesome
+fc-cache -fv
+ncmpcpp
+cd /usr/share/fonts
+lst
+cd nerd-fonts-complete
+lst
+cd ttf
+lst
+up 1
+cd otf
+lst
+yas font-awesome
+yasy otf-font-awesome-4 ttf-font-awesome-4
+fc-cache -fv
+cd /usr/share/fonts
+lst
+cd TTF
+lst
+cd
+cd
+conf
+cd polybar
+v config
+cd
+sudo mount /dev/sdb1 /mnt
+mfilm
+lst
+rmd Alita\ Battle\ Angel
+vid
+lst
+mv Lady.Bird.2017.1080p.AMZN.WEB-DL.DD+5.1.H.264-SiGMA.mkv /mnt/film/
+sudo umount /mnt
+config
+conf
+cd i3
+v config
+conf
+cd polybar
+v config
+v config
+v config
+v config
+v config
+v config
+v config
+v config
+cd
+lst
+cd Documents
+lst
+cd HardWest
+lst
+cd 76561198199494974
+lst
+cd
+pms
+scrub /home
+startgt
+startx
+scrubstat /home
+vid
+lst
+rmd The.Conjuring.2013.1080p.Blu-Ray.ReMuX.AVC.DTS-HDMA.5.1-R2D2
+lst
+pms
+pms
+pmse powerlevel10k
+yas powerlevel10k
+yas powerlevel
+cd
+lst
+cd zsh
+lst
+v 01-prompt.zsh
+yas powerlevel10k
+yasy zsh-theme-powerlevel10k-git
+rs
+rf
+lst
+cd
+lst
+pms
+rf
+lst
+pmse powerlevel
+cd zsh
+lst
+v powerlevel9k.zsh-theme
+v zshrc
+lst
+v 00-envars.zsh
+pms
+lst
+cd
+lst
+cd zsh
+v 00-envars.zsh
+v zshrc
+v 01-prompt.zsh
+pms
+lst
+lsta
+c
+cd
+cd
+lsta
+time (repeat 100 zsh -dfis <<< 'source ~/powerlevel10k/powerlevel10k.zsh-theme')
+lst
+zsh --h
+zsh --help
+lsta
+lst
+vid
+lst
+cd zsh
+lst
+mv powerlevel9k.zsh-theme ~/
+lst
+cd
+mv powerlevel9k.zsh-theme zsh/
+rf
+lst
+cd /usr/share
+lst
+cd zsh-theme-powerlevel10k
+lst
+v powerlevel10k.zsh-theme
+cp powerlevel10k.zsh-theme ~/zsh
+lst
+cd
+lst
+cd zsh
+lst
+v 00-envars.zsh
+rf
+rf
+v zshrc
+lst
+v 01-prompt.zsh
+lst
+rf
+v 01
+v 01-prompt.zsh
+pms
+lst
+rf
+lst
+v 00
+v 00-envars.zsh
+mv powerlevel9k.zsh-theme zsh/
+mv powerlevel9k.zsh-theme ~/
+cd
+mv powerlevel9k.zsh-theme zsh/
+lst
+cd zsh
+lst
+v 01-prompt.zsh
+v 00-envars.zsh
+cd
+lsta
+v .zshrc
+pms
+cd /usr/share
+lst
+echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
+v .zshrc
+rf
+cd zsh
+lst
+rm powerlevel10k.zsh-theme
+lst
+mv powerlevel9k.zsh-theme powerlevel9k.zsh-theme.bak
+mv powerlevel9k.zsh-theme.bak powerlevel9k.zsh-theme
+lst
+v zshrc
+cd
+v .zshrc
+lst
+v 02-colors.zsh
+v 03-utilities.zsh
+lst
+cd
+lst
+source /tmp/powerlevel10k/powerlevel10k.zsh-theme
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+lst
+lst
+lst
+ls
+lst
+lst
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+lst
+lst
+lst
+lsta
+cd zsh
+v 01-prompt.zsh
+rf
+lst
+lst
+lst
+lst
+lst
+lst
+v 01-prompt.zsh
+rf
+lst
+lst
+pms
+lst
+lst
+lst
+vid
+lst
+lsta
+lst
+lst
+sudo mount /dev/sdb1 /mnt
+mtv
+cd Space\ Ghost\ Coast\ to\ Coast
+lst
+cd Season\ 1
+lst
+cd Season\ 1
+lst
+cd Season\ 3
+lst
+mtv
+cd Rocko\'s\ Modern\ Life
+lst
+cd Season\ 3
+lst
+up 1
+rmd Season\ 3
+lst
+up 1
+mv Season\ 3 /mnt/tv/Rocko\'s\ Modern\ Life/
+LSBLK
+lsblk
+sudo mount /dev/sdc1 /mnt
+lst
+cd
+mtv
+cd Rocko\'s\ Modern\ Life
+lst
+rmd Season\ 3
+lst
+mv Season\ 3 /mnt/tv/Rocko\'s\ Modern\ Life/
+lst
+lst
+lst
+lst
+cd Season\ 4
+lst
+up 1
+rmd Season\ 4
+cd Season\ 1
+lst
+up 1
+cd Space\ Ghost\ Coast\ to\ Coast
+lst
+cd Season\ 1
+lst
+mtv
+cd Space\ Ghost\ Coast\ to\ Coast
+lst
+mtv
+cd Rocko\'s\ Modern\ Life
+lst
+lst
+rf
+lst
+vid
+lst
+mv Season\ 4 /mnt/tv/Rocko\'s\ Modern\ Life
+lst
+cd Space\ Ghost\ Coast\ to\ Coast
+lst
+mtv
+cd Space\ Ghost\ Coast\ to\ Coast
+rmd Season\ 1 Season\ 2 Season\ 3
+mv Season* /mnt/tv/Space\ Ghost\ Coast\ to\ Coast
+lst
+cd
+cd
+sudo umount /mnt
+cd
+lst
+lst
+lst
+lst
+lsta
+lsta
+startgt
+startx
+cd zsh
+cd zsh
+v 01-prompt.zsh
+lst
+v 00-envars.zsh
+rf
+lst
+lst
+pms
+lst
+vid
+lst
+rmd The\ Good\ Doctor
+lst
+cd The\ Simpsons
+lst
+up 1
+rmd The\ Simpsons
+lst
+cd Frisky\ Dingo
+lst
+cd
+vid
+rmd Space\ Ghost\ Coast\ to\ Coast
+lst
+cd Planet\ Earth\ II
+lst
+up 1
+rmd Planet\ Earth\ II
+lst
+cd Hey\ Arnold\!
+lst
+cd
+lst
+vid
+l;st
+lst
+conf
+cd ncmpcpp
+lst
+mv config config.bak
+v config
+conf
+cd ncmpcpp
+v config.bak
+ncmpcpp
+lst
+rm art.sh
+v config
+v art.sh
+ncmpcpp
+v config
+cd
+cd
+lst
+ncmpcpp -S
+ncmpcpp
+lsta
+;st
+lst
+cava
+pmse cava
+yas cava
+conf
+lst
+lst
+lst
+cd
+lst
+lst
+rf
+vid
+lst
+lst
+lst
+fb
+mpv Interstella\ 5555:\ The\ 5tory\ of\ the\ 5ecret\ 5tar\ 5ystem\ \(2003\).mkv
+cd Cow.and.Chicken.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM
+lst
+mv Cow.and.Chicken.S01.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM Season\ 1
+mv Cow.and.Chicken.S02.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM Season\ 2
+mv Cow.and.Chicken.S03.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM Season\ 3
+lst
+cd Season\ 1
+lst
+mpv Cow\ and\ Chicken\ -\ 1x01\ -\ Field\ Trip\ to\ Folsom\ Prison.mkv
+vid
+pms
+htop
+yas ls++
+yasy ls++-git
+dots
+lst
+cd color
+lst
+lsta
+up 1
+git push
+git --help
+git add
+git add --help
+git add --all
+lst
+git --help
+git commit -a
+conf
+cd mpv
+rmd watch_later
+git commit -a

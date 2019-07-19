@@ -18,7 +18,7 @@ module-margin-left = 0
 module-margin-right = 0
 
 font-0 = Noto Sans:pixelsize=10;1
-font-1 = FontAwesome:size=13;2
+font-1 = FontAwesome:pixelsize=12;2
 font-2 = siji:pixelsize=10;0
 
 modules-left = i3 memory cpu 
@@ -27,7 +27,6 @@ modules-right = updates-arch-combined pulseaudio battery date powermenu
 
 tray-position = right
 tray-padding = 2
-tray-transparent = true
 tray-background = #5a000000
 
 ;wm-restack = bspwm

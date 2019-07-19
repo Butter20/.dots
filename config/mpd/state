@@ -2,8 +2,8 @@ sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:FiFo
 state: pause
-current: 39
-time: 338.263000
+current: 0
+time: 70.063000
 random: 0
 repeat: 0
 single: 0
@@ -77,21 +77,42 @@ playlist_begin
 62:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/03 - The Passing of the Road Chief.flac
 63:Mark McGuire/Mark McGuire - Tidings - Amethyst Waves (2010) [FLAC]/04 - Trips Through the Park.flac
 64:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A1 - Ruhige Nervositat.flac
-65:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A1 - Ruhige Nervositat.flac
-66:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A2 - Gemaßigter Aufbruch.flac
-67:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A2 - Gemaßigter Aufbruch.flac
-68:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A3 - ... Und Mittelspiel.flac
-69:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A3 - ... Und Mittelspiel.flac
-70:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A4 - Ansatz.flac
-71:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A4 - Ansatz.flac
-72:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B1 - Damen-Eleganza.flac
-73:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B1 - Damen-Eleganza.flac
-74:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B2 - Ehrenvoller Kampf.flac
-75:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B2 - Ehrenvoller Kampf.flac
-76:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B3 - Hoheit Weicht (Nicht Ohne Schwung...).flac
-77:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B3 - Hoheit Weicht (Nicht Ohne Schwung...).flac
-78:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B4 - ... Und Souveranitat.flac
-79:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B4 - ... Und Souveranitat.flac
-80:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B5 - Remis.flac
-81:Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B5 - Remis.flac
+65:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A2 - Gemaßigter Aufbruch.flac
+66:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A3 - ... Und Mittelspiel.flac
+67:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/A4 - Ansatz.flac
+68:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B1 - Damen-Eleganza.flac
+69:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B2 - Ehrenvoller Kampf.flac
+70:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B3 - Hoheit Weicht (Nicht Ohne Schwung...).flac
+71:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B4 - ... Und Souveranitat.flac
+72:Manuel Göttsching/Manuel Göttsching - E2-E4 [24bit, 96kHz Vinyl Rip] (1984)(FLAC)/B5 - Remis.flac
+73:Yves De Mey/Sueda (2019)/01 - Sueda.mp3
+74:Yves De Mey/Sueda (2019)/02 - Antimony.mp3
+75:Yves De Mey/Sueda (2019)/03 - At Long Last.mp3
+76:Yves De Mey/Sueda (2019)/04 - Clangor.mp3
+77:Yves De Mey/Sueda (2019)/05 - Meshes.mp3
+78:Yves De Mey/Sueda (2019)/06 - DXMS.mp3
+79:Yves De Mey/Sueda (2019)/07 - Manifold.mp3
+80:Yves De Mey/Sueda (2019)/08 - Word Touch Gone.mp3
+81:Will Long/Long Trax 2/Will Long - Long Trax 2 - 01 Nothing's Changed.mp3
+82:Will Long/Long Trax 2/Will Long - Long Trax 2 - 02 You Know-.mp3
+83:Will Long/Long Trax 2/Will Long - Long Trax 2 - 03 The Struggles, The Difficulties.mp3
+84:Will Long/Long Trax 2/Will Long - Long Trax 2 - 04 No More.mp3
+85:Will Long/Long Trax 2/Will Long - Long Trax 2 - 05 That's The Way It Goes.mp3
+86:Will Long/Long Trax 2/Will Long - Long Trax 2 - 06 We Tend To Forget.mp3
+87:Shanti Celeste and Hodge/SC-H.zip/2019 - Shanti Celeste & Hodge - Soba Dance V0 WEB/01 - Shanti Celeste & Hodge - Soba Dance.mp3
+88:Shanti Celeste and Hodge/SC-H.zip/2019 - Shanti Celeste & Hodge - Soba Dance V0 WEB/02 - Shanti Celeste & Hodge - Alula.mp3
+89:Shanti Celeste and Hodge/SC-H.zip/2019 - Shanti Celeste & Hodge - Soba Dance V0 WEB/03 - Shanti Celeste & Hodge - Pips.mp3
+90:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/01 Morning Glow.mp3
+91:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/02 Breathing New Life.mp3
+92:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/03 Garden.mp3
+93:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/04 Urban Square.mp3
+94:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/05 Nile Blue.mp3
+95:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/06 Shining Through.mp3
+96:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/07 Early Summer.mp3
+97:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/08 Roses At The Cutting Edge.mp3
+98:Jun Fukamachi/深町純 - (1986) Nicole (86 Spring And Summer Collection {2017 WRWTFWW022CD} [V0]/09 Passion (unreleased).mp3
+99:Imaginary Criticism/Imaginary Criticsm   A Man Is What I Need (Smooth Mix).mp3
+100:Sueno Latino/Sueno Latino — (1989) Sueno Latino — [DFC 016] FLAC24-96/01 Sueno Latino - Sueno Latino (The Paradise Version).flac
+101:Sueno Latino/Sueno Latino - Sueno Latino (1989) [FLAC]/02 - Sueno Latino - Sueno Latino - Salt Tank Amnesian Mix.flac
+102:Coral Reefer Mixtape-22014212.mp3
 playlist_end

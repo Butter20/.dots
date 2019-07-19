@@ -195,5 +195,5 @@ bindsym $mod+F1 exec mpc toggle
 #bindsym XF86Display exec "arandr"
 
 # Wallpaper!
-exec_always feh --bg-fill ~/img/walls/59aWIWp.jpg
+exec_always feh --bg-fill ~/img/walls/CustomBot.png
 
