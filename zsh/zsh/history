@@ -6080,3 +6080,403 @@ conf
 cd mpv
 rmd watch_later
 git commit -a
+git push
+lst
+cd
+vim
+pmse neovim
+pmi neovim
+conf
+lst
+cd
+lst
+lsta
+nvim
+dots
+lst
+cd config
+lst
+mkdir nvim
+lst
+cd nvim
+lst
+v init.vim
+lst
+v coc-settings.json
+lst
+up 1
+lst
+stow -t ~/.config/nvim nvim
+stow -t ~/.config nvim
+conf
+lst
+rm coc-settings.json init.vim
+lst
+dots
+stow -t ~/.config config
+conf
+lst
+nvim
+cd
+nvim
+nvim
+conf
+cd nvim
+nvim init.vim
+vim init.vim
+cd
+lsta
+v vim
+v .vim
+v .vimrc
+mv .vimrc .vimrc.bak
+v .vimrc
+vim
+v .vimrc
+rm .vimrc
+mv .vimrc.bak .vimrc
+vim .vim
+v .vimrc
+vim
+lst
+lsta
+mv .vimrc .vimrc.bak
+v .vimrc
+v .vimrc.bak
+rm .vimrc
+mv .vimrc.bak .vimrc
+v .vim
+cd .vim_runtime
+lst
+git --rebase
+git pull
+lst
+v README.md
+python update_plugins.py
+python2 update_plugins.py
+python update_plugins.py
+sh install_awesome_vimrc.sh
+v README.md
+cd
+lst
+git --version
+git update
+git update-ref
+cd .vim_runtime
+git update-ref
+git pull origin master
+cd
+lst
+pms
+pms
+lsta
+cd .vim
+lst
+cd autoload
+lst
+cd
+rmd .vim_runtime
+v .vimrc
+vim
+nvim
+pmse tmux
+pmi tmux
+tmux
+pms
+vim
+tmux
+lst
+cd
+lst
+lst
+width=1000 truecolor-test
+q
+tmux
+lsta
+conf
+lst
+cd
+nvim
+nvim .vimrc
+pmse tmuxline
+yas tmuxline
+yasy tmuxline-git
+nvim
+yas vim-colorscheme-forest
+yasy vim-colorscheme-forest-night-git
+nvim
+conf
+cd nvim
+v init.vim
+cd
+v .tmux.conf
+rf
+tmux
+nvim
+cd .vim
+lst
+cd autoload
+lst
+v plug.vim
+up q
+up 1
+mkdir plugin
+cd plugin
+v a.vim
+up 1
+v vimrc
+vim
+lst
+cd
+v .vimrc
+vim
+pmse hybrid-reverse
+v .vimrc
+yas vim-colorscheme-forest
+v .vimrc
+cd /usr/share
+lst
+cd vim
+lst
+cd vim81
+lst
+cd colors
+lst
+up 1
+lst
+cd
+vim
+lst
+\:q
+exit
+tmux
+exit
+pms
+yas vim-plug
+yasy vim-plug
+v /usr/share/vim-plug/vimrc.sample
+nvim
+git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+vim
+v .vimrc
+cd .vim_runtime
+lst
+cd vimrcs
+lst
+up 1
+cd autoload
+lst
+up 1
+lst
+cd my_plugins
+lst
+lsta
+lst
+up 1
+lst
+pmr vim-plug
+lst
+cd sources_
+cd sources_forked
+lst
+up 1
+cd sources_non_forked
+lst
+up 1
+v README.md
+lst
+up 1
+cd .vim
+lst
+rm vimrc
+cd plugin
+lst
+up 1
+rmd plugin
+ls
+lst
+cd autoload
+lst
+up 2
+cd .vim
+rm autoload
+rmd autoload
+lst
+vim
+cd
+v .vimrc
+cd .vim_runtime
+lst
+cd vimrcs
+lst
+v extended.vim
+cd .vim_runtime
+lst
+cd my_plugins
+lst
+git clone --depth=1 https://github.com/sainnhe/vim-color-forest-night.git
+lst
+cd vim-color-forest-night
+lst
+up 1
+v extended.vim
+v extended.vim
+lst
+git clone https://github.com/kristijanhusak/vim-hybrid-material.git
+v extended.vim
+v extended.vim
+lst
+v plugins_config.vim
+v plugins_config.vim
+up 1
+cd sources_non_forked
+lst
+up 1
+cd sources_forked
+lst
+up 1
+cd my_plugins
+lst
+git clone https://github.com/sainnhe/artify.vim.git
+git clone https://github.com/itchyny/vim-gitbranch.git
+git clone https://github.com/macthecadillac/lightline-gitdiff.git
+git clone https://github.com/maximbaz/lightline-ale.git
+git clone https://github.com/sinetoami/lightline-neomake.git
+git clone https://github.com/Palpatineli/lightline-lsc-nvim.git
+git clone https://github.com/tricktux/pomodoro.vim.git
+tmux
+nvim
+v plugins_config.vim
+v plugins_config.vim
+cd
+cd zsh
+cd 011
+v 01-prompt.zsh
+v plugins_config.vim
+v plugins_config.vim
+exit
+lst
+v plugins_config.vim
+lst
+pms
+yau
+yasy jre
+sudo mount /dev/sdb1 /mnt
+func
+sh xrandr.sh
+mfilm
+cd Mind\ Game\ \(2004\)
+mpv Mind\ Game\ \(2004\).mkv
+pavucontrol &
+cd
+sudo umount /mnt
+poweroff
+startgt
+startx
+pms
+conf
+cd polybar
+v config
+lst
+pms
+cd
+lst
+pms
+pms
+pms
+pms
+pms
+pms
+pmsp
+pms
+pms
+pms
+pms
+pms
+pms
+pms
+yau
+yasy zsh-theme-powerlevel10k-git
+pms
+pms
+pms
+vid
+lst
+cd Cow.and.Chicken.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM
+lst
+cd Season\ 2
+lst
+mpv Cow\ and\ Chicken\ -\ 2x02\ -\ The\ Laughing\ Puddle.mkv
+cd
+pms
+pms
+v text
+pms
+sudo mount /dev/sdb1 /mnt
+pms
+yau
+yasy polybar
+vid
+lst
+mv Planes.Trains.and.Automobiles.1987.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-S3R Planes,\ Trains,\ and\ Automobiles\ \(1987\)
+cd Planes,\ Trains,\ and\ Automobiles\ \(1987\)
+lst
+rm Planes.Trains.and.Automobiles.1987.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-S3R.nfo
+fb
+up 1
+mv Planes,\ Trains,\ and\ Automobiles\ \(1987\) Planes,\ Trains\ and\ Automobiles\ \(1987\)
+lst
+mv Cow.and.Chicken.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM Cow\ and\ Chicken
+lst
+cd Cow\ and\ Chicken
+mv Cow.and.Chicken.S04.DVD.REMUX.MPEG-2.DD.2.0-BLURANiUM Season\ 4
+lst
+up 1
+lst
+cd Planes,\ Trains\ and\ Automobiles\ \(1987\)
+mpv Planes,\ Trains\ and\ Automobiles\ \(1987\).mkv
+pms
+cd
+yas bloks
+pmse bloks
+yas imgcat
+pmse imgcat
+yasy imgcat-git
+img
+lst
+cd walls
+lst
+imgcat sylvain-sarrailh-bridgehdartstation.jpg
+imgcat 59aWIWp.jpg
+imgcat blossom2.jpeg
+pmr imgcat-git
+lst
+cd
+pmo
+cd /usr/share/fonts
+lst
+cd TTF
+lst
+up 1
+cd
+yas sf-pro-display
+pmse sf-pro-display
+fc-list
+fc-list --help
+fc-list sf
+aliasn
+rf
+fonts
+conf
+cd polybar/
+v config
+v config
+cd
+v config
+conf
+cd polybar
+v config
+cd
+dots
+git commit -a

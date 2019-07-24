@@ -4868,3 +4868,7 @@ Jul 18 02:11 : exception: RTIOThread could not get realtime scheduling, continui
 Jul 18 18:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jul 18 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jul 18 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 22:47 : player: played "Mark McGuire/Mark McGuire -- Guitar Meditations/01 Intervals (First Variation).mp3"
+Jul 19 23:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 10:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted

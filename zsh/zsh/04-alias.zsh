@@ -201,6 +201,7 @@ alias startmex='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -
 alias startmoms='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-moms.conf && sudo dhcpcd wlp2s0'
 alias startrad='sudo ip link set wlp2s0 up && sudo wpa_supplicant -B -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant-radisson.conf && sudo dhcpcd wlp2s0'
 alias xrandrh='xrandr --output HDMI1 --auto'
+alias fonts='fc-list'
 
 # systemctl
 alias sc='sudo systemctl'
